@@ -19,6 +19,8 @@ if pending then
   MyBissData.ItemSources[34378] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=34378]],
@@ -36,6 +38,8 @@ if pending then
   MyBissData.ItemSources[36989] = {
     instance = [[Halls of Lightning]],
     boss = [[Loken]],
+    origin = [[Loken]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Lightning (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=36989]],
@@ -53,6 +57,8 @@ if pending then
   MyBissData.ItemSources[36993] = {
     instance = [[Halls of Lightning]],
     boss = [[Loken]],
+    origin = [[Loken]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Lightning (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=36993]],
@@ -70,6 +76,8 @@ if pending then
   MyBissData.ItemSources[37037] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[Svala Sorrowgrave]],
+    origin = [[Svala Sorrowgrave]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37037]],
@@ -87,6 +95,8 @@ if pending then
   MyBissData.ItemSources[37051] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[Gortok Palehoof]],
+    origin = [[Gortok Palehoof]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37051]],
@@ -104,6 +114,8 @@ if pending then
   MyBissData.ItemSources[37061] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[King Ymiron]],
+    origin = [[King Ymiron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37061]],
@@ -121,6 +133,8 @@ if pending then
   MyBissData.ItemSources[37082] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Meathook]],
+    origin = [[Meathook]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37082]],
@@ -138,6 +152,8 @@ if pending then
   MyBissData.ItemSources[37088] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Salramm the Fleshcrafter]],
+    origin = [[Salramm the Fleshcrafter]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37088]],
@@ -155,6 +171,8 @@ if pending then
   MyBissData.ItemSources[37111] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37111]],
@@ -172,6 +190,8 @@ if pending then
   MyBissData.ItemSources[37134] = {
     instance = [[The Nexus]],
     boss = [[Grand Magus Telestra]],
+    origin = [[Grand Magus Telestra]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Nexus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37134]],
@@ -189,6 +209,8 @@ if pending then
   MyBissData.ItemSources[37139] = {
     instance = [[The Nexus]],
     boss = [[Grand Magus Telestra]],
+    origin = [[Grand Magus Telestra]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Nexus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37139]],
@@ -206,6 +228,8 @@ if pending then
   MyBissData.ItemSources[37166] = {
     instance = [[The Nexus]],
     boss = [[Keristrasza]],
+    origin = [[Keristrasza]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Nexus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37166]],
@@ -223,6 +247,8 @@ if pending then
   MyBissData.ItemSources[37171] = {
     instance = [[The Nexus]],
     boss = [[Keristrasza]],
+    origin = [[Keristrasza]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Nexus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37171]],
@@ -240,6 +266,8 @@ if pending then
   MyBissData.ItemSources[37177] = {
     instance = [[Utgarde Keep]],
     boss = [[Prince Keleseth]],
+    origin = [[Prince Keleseth]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37177]],
@@ -257,6 +285,8 @@ if pending then
   MyBissData.ItemSources[37179] = {
     instance = [[Utgarde Keep]],
     boss = [[Prince Keleseth]],
+    origin = [[Prince Keleseth]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37179]],
@@ -274,6 +304,8 @@ if pending then
   MyBissData.ItemSources[37183] = {
     instance = [[Utgarde Keep]],
     boss = [[Skarvald the Constructor]],
+    origin = [[Skarvald the Constructor]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37183]],
@@ -291,6 +323,8 @@ if pending then
   MyBissData.ItemSources[37191] = {
     instance = [[Utgarde Keep]],
     boss = [[Ingvar the Plunderer]],
+    origin = [[Ingvar the Plunderer]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37191]],
@@ -308,6 +342,8 @@ if pending then
   MyBissData.ItemSources[37193] = {
     instance = [[Utgarde Keep]],
     boss = [[Ingvar the Plunderer]],
+    origin = [[Ingvar the Plunderer]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37193]],
@@ -325,6 +361,8 @@ if pending then
   MyBissData.ItemSources[37194] = {
     instance = [[Utgarde Keep]],
     boss = [[Ingvar the Plunderer]],
+    origin = [[Ingvar the Plunderer]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37194]],
@@ -342,6 +380,8 @@ if pending then
   MyBissData.ItemSources[37197] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37197]],
@@ -359,6 +399,8 @@ if pending then
   MyBissData.ItemSources[37220] = {
     instance = [[Azjol-Nerub]],
     boss = [[Hadronox]],
+    origin = [[Hadronox]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Azjol-Nerub (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37220]],
@@ -376,6 +418,8 @@ if pending then
   MyBissData.ItemSources[37238] = {
     instance = [[Azjol-Nerub]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Azjol-Nerub (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37238]],
@@ -393,6 +437,8 @@ if pending then
   MyBissData.ItemSources[37241] = {
     instance = [[Azjol-Nerub]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Azjol-Nerub (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37241]],
@@ -410,6 +456,8 @@ if pending then
   MyBissData.ItemSources[37260] = {
     instance = [[The Oculus]],
     boss = [[Varos Cloudstrider]],
+    origin = [[Varos Cloudstrider]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Oculus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37260]],
@@ -427,6 +475,8 @@ if pending then
   MyBissData.ItemSources[37263] = {
     instance = [[The Oculus]],
     boss = [[Varos Cloudstrider]],
+    origin = [[Varos Cloudstrider]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Oculus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37263]],
@@ -444,6 +494,8 @@ if pending then
   MyBissData.ItemSources[37293] = {
     instance = [[The Oculus]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Oculus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37293]],
@@ -461,6 +513,8 @@ if pending then
   MyBissData.ItemSources[37361] = {
     instance = [[The Oculus]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Oculus (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37361]],
@@ -478,6 +532,8 @@ if pending then
   MyBissData.ItemSources[37366] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37366]],
@@ -495,6 +551,8 @@ if pending then
   MyBissData.ItemSources[37379] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[Skadi the Ruthless]],
+    origin = [[Skadi the Ruthless]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37379]],
@@ -512,6 +570,8 @@ if pending then
   MyBissData.ItemSources[37390] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[King Ymiron]],
+    origin = [[King Ymiron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37390]],
@@ -529,6 +589,8 @@ if pending then
   MyBissData.ItemSources[37401] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[King Ymiron]],
+    origin = [[King Ymiron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37401]],
@@ -546,6 +608,8 @@ if pending then
   MyBissData.ItemSources[37407] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[King Ymiron]],
+    origin = [[King Ymiron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37407]],
@@ -563,6 +627,8 @@ if pending then
   MyBissData.ItemSources[37408] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[King Ymiron]],
+    origin = [[King Ymiron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37408]],
@@ -580,6 +646,8 @@ if pending then
   MyBissData.ItemSources[37409] = {
     instance = [[Utgarde Pinnacle]],
     boss = [[King Ymiron]],
+    origin = [[King Ymiron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Utgarde Pinnacle (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37409]],
@@ -597,6 +665,8 @@ if pending then
   MyBissData.ItemSources[37574] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37574]],
@@ -614,6 +684,8 @@ if pending then
   MyBissData.ItemSources[37595] = {
     instance = [[Ahn'kahet: The Old Kingdom]],
     boss = [[Prince Taldaram]],
+    origin = [[Prince Taldaram]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Ahn'kahet: The Old Kingdom (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37595]],
@@ -631,6 +703,8 @@ if pending then
   MyBissData.ItemSources[37618] = {
     instance = [[Ahn'kahet: The Old Kingdom]],
     boss = [[Herald Volazj]],
+    origin = [[Herald Volazj]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Ahn'kahet: The Old Kingdom (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37618]],
@@ -648,6 +722,8 @@ if pending then
   MyBissData.ItemSources[37619] = {
     instance = [[Ahn'kahet: The Old Kingdom]],
     boss = [[Herald Volazj]],
+    origin = [[Herald Volazj]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Ahn'kahet: The Old Kingdom (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37619]],
@@ -665,6 +741,8 @@ if pending then
   MyBissData.ItemSources[37620] = {
     instance = [[Ahn'kahet: The Old Kingdom]],
     boss = [[Herald Volazj]],
+    origin = [[Herald Volazj]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Ahn'kahet: The Old Kingdom (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37620]],
@@ -682,6 +760,8 @@ if pending then
   MyBissData.ItemSources[37642] = {
     instance = [[Gundrak]],
     boss = [[Gal'darah]],
+    origin = [[Gal'darah]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Gundrak (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37642]],
@@ -699,6 +779,8 @@ if pending then
   MyBissData.ItemSources[37644] = {
     instance = [[Gundrak]],
     boss = [[Gal'darah]],
+    origin = [[Gal'darah]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Gundrak (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37644]],
@@ -716,6 +798,8 @@ if pending then
   MyBissData.ItemSources[37645] = {
     instance = [[Gundrak]],
     boss = [[Gal'darah]],
+    origin = [[Gal'darah]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Gundrak (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37645]],
@@ -733,6 +817,8 @@ if pending then
   MyBissData.ItemSources[37647] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37647]],
@@ -750,6 +836,8 @@ if pending then
   MyBissData.ItemSources[37651] = {
     instance = [[Halls of Stone]],
     boss = [[Krystallus]],
+    origin = [[Krystallus]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Stone (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37651]],
@@ -767,6 +855,8 @@ if pending then
   MyBissData.ItemSources[37657] = {
     instance = [[Halls of Stone]],
     boss = [[Sjonnir The Ironshaper]],
+    origin = [[Sjonnir The Ironshaper]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Stone (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37657]],
@@ -784,6 +874,8 @@ if pending then
   MyBissData.ItemSources[37660] = {
     instance = [[Halls of Stone]],
     boss = [[Sjonnir The Ironshaper]],
+    origin = [[Sjonnir The Ironshaper]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Stone (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37660]],
@@ -801,6 +893,8 @@ if pending then
   MyBissData.ItemSources[37666] = {
     instance = [[Halls of Stone]],
     boss = [[Sjonnir The Ironshaper]],
+    origin = [[Sjonnir The Ironshaper]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Stone (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37666]],
@@ -818,6 +912,8 @@ if pending then
   MyBissData.ItemSources[37673] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37673]],
@@ -835,6 +931,8 @@ if pending then
   MyBissData.ItemSources[37680] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Meathook]],
+    origin = [[Meathook]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37680]],
@@ -852,6 +950,8 @@ if pending then
   MyBissData.ItemSources[37682] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Salramm the Fleshcrafter]],
+    origin = [[Salramm the Fleshcrafter]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37682]],
@@ -869,6 +969,8 @@ if pending then
   MyBissData.ItemSources[37685] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Chrono-Lord Epoch]],
+    origin = [[Chrono-Lord Epoch]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37685]],
@@ -886,6 +988,8 @@ if pending then
   MyBissData.ItemSources[37694] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Dark Runed Chest]],
+    origin = [[Dark Runed Chest]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37694]],
@@ -903,6 +1007,8 @@ if pending then
   MyBissData.ItemSources[37718] = {
     instance = [[Drak'Tharon Keep]],
     boss = [[Novos the Summoner]],
+    origin = [[Novos the Summoner]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Drak'Tharon Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37718]],
@@ -920,6 +1026,8 @@ if pending then
   MyBissData.ItemSources[37784] = {
     instance = [[Drak'Tharon Keep]],
     boss = [[The Prophet Tharon'ja]],
+    origin = [[The Prophet Tharon'ja]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Drak'Tharon Keep (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37784]],
@@ -937,6 +1045,8 @@ if pending then
   MyBissData.ItemSources[37801] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37801]],
@@ -954,6 +1064,8 @@ if pending then
   MyBissData.ItemSources[37814] = {
     instance = [[Halls of Lightning]],
     boss = [[General Bjarngrim]],
+    origin = [[General Bjarngrim]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Lightning (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37814]],
@@ -971,6 +1083,8 @@ if pending then
   MyBissData.ItemSources[37825] = {
     instance = [[Halls of Lightning]],
     boss = [[General Bjarngrim]],
+    origin = [[General Bjarngrim]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Lightning (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37825]],
@@ -988,6 +1102,8 @@ if pending then
   MyBissData.ItemSources[37835] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37835]],
@@ -1005,6 +1121,8 @@ if pending then
   MyBissData.ItemSources[37850] = {
     instance = [[Halls of Lightning]],
     boss = [[Loken]],
+    origin = [[Loken]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Lightning (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37850]],
@@ -1022,6 +1140,8 @@ if pending then
   MyBissData.ItemSources[37856] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37856]],
@@ -1039,6 +1159,8 @@ if pending then
   MyBissData.ItemSources[37871] = {
     instance = [[The Violet Hold]],
     boss = [[Lavanthor]],
+    origin = [[Lavanthor]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Violet Hold (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37871]],
@@ -1056,6 +1178,8 @@ if pending then
   MyBissData.ItemSources[37873] = {
     instance = [[The Violet Hold]],
     boss = [[Cyanigosa]],
+    origin = [[Cyanigosa]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Violet Hold (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=37873]],
@@ -1073,6 +1197,8 @@ if pending then
   MyBissData.ItemSources[38206] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38206]],
@@ -1090,6 +1216,8 @@ if pending then
   MyBissData.ItemSources[38360] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38360]],
@@ -1107,6 +1235,8 @@ if pending then
   MyBissData.ItemSources[38361] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38361]],
@@ -1124,6 +1254,8 @@ if pending then
   MyBissData.ItemSources[38362] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38362]],
@@ -1141,6 +1273,8 @@ if pending then
   MyBissData.ItemSources[38363] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38363]],
@@ -1158,6 +1292,8 @@ if pending then
   MyBissData.ItemSources[38365] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38365]],
@@ -1175,6 +1311,8 @@ if pending then
   MyBissData.ItemSources[38366] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38366]],
@@ -1192,6 +1330,8 @@ if pending then
   MyBissData.ItemSources[38368] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38368]],
@@ -1209,6 +1349,8 @@ if pending then
   MyBissData.ItemSources[38614] = {
     instance = [[Halls of Stone]],
     boss = [[Maiden of Grief]],
+    origin = [[Maiden of Grief]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Halls of Stone (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=38614]],
@@ -1226,6 +1368,8 @@ if pending then
   MyBissData.ItemSources[39139] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39139]],
@@ -1243,6 +1387,8 @@ if pending then
   MyBissData.ItemSources[39140] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39140]],
@@ -1260,6 +1406,8 @@ if pending then
   MyBissData.ItemSources[39141] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39141]],
@@ -1277,6 +1425,8 @@ if pending then
   MyBissData.ItemSources[39146] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39146]],
@@ -1294,6 +1444,8 @@ if pending then
   MyBissData.ItemSources[39188] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39188]],
@@ -1311,6 +1463,8 @@ if pending then
   MyBissData.ItemSources[39190] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39190]],
@@ -1328,6 +1482,8 @@ if pending then
   MyBissData.ItemSources[39191] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39191]],
@@ -1345,6 +1501,8 @@ if pending then
   MyBissData.ItemSources[39192] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39192]],
@@ -1362,6 +1520,8 @@ if pending then
   MyBissData.ItemSources[39194] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39194]],
@@ -1379,6 +1539,8 @@ if pending then
   MyBissData.ItemSources[39195] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39195]],
@@ -1396,6 +1558,8 @@ if pending then
   MyBissData.ItemSources[39196] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39196]],
@@ -1413,6 +1577,8 @@ if pending then
   MyBissData.ItemSources[39197] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39197]],
@@ -1430,6 +1596,8 @@ if pending then
   MyBissData.ItemSources[39199] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39199]],
@@ -1447,6 +1615,8 @@ if pending then
   MyBissData.ItemSources[39215] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39215]],
@@ -1464,6 +1634,8 @@ if pending then
   MyBissData.ItemSources[39217] = {
     instance = [[Naxxramas]],
     boss = [[Faerlina]],
+    origin = [[Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39217]],
@@ -1481,6 +1653,8 @@ if pending then
   MyBissData.ItemSources[39221] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39221]],
@@ -1498,6 +1672,8 @@ if pending then
   MyBissData.ItemSources[39224] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39224]],
@@ -1515,6 +1691,8 @@ if pending then
   MyBissData.ItemSources[39225] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39225]],
@@ -1532,6 +1710,8 @@ if pending then
   MyBissData.ItemSources[39229] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39229]],
@@ -1549,6 +1729,8 @@ if pending then
   MyBissData.ItemSources[39232] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39232]],
@@ -1566,6 +1748,8 @@ if pending then
   MyBissData.ItemSources[39233] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39233]],
@@ -1583,6 +1767,8 @@ if pending then
   MyBissData.ItemSources[39234] = {
     instance = [[Naxxramas]],
     boss = [[Noth]],
+    origin = [[Noth]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39234]],
@@ -1600,6 +1786,8 @@ if pending then
   MyBissData.ItemSources[39237] = {
     instance = [[Naxxramas]],
     boss = [[Noth]],
+    origin = [[Noth]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39237]],
@@ -1617,6 +1805,8 @@ if pending then
   MyBissData.ItemSources[39239] = {
     instance = [[Naxxramas]],
     boss = [[Noth]],
+    origin = [[Noth]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39239]],
@@ -1634,6 +1824,8 @@ if pending then
   MyBissData.ItemSources[39240] = {
     instance = [[Naxxramas]],
     boss = [[Noth]],
+    origin = [[Noth]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39240]],
@@ -1651,6 +1843,8 @@ if pending then
   MyBissData.ItemSources[39241] = {
     instance = [[Naxxramas]],
     boss = [[Noth]],
+    origin = [[Noth]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39241]],
@@ -1668,6 +1862,8 @@ if pending then
   MyBissData.ItemSources[39244] = {
     instance = [[Naxxramas]],
     boss = [[Noth]],
+    origin = [[Noth]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39244]],
@@ -1685,6 +1881,8 @@ if pending then
   MyBissData.ItemSources[39246] = {
     instance = [[Naxxramas]],
     boss = [[Heigan]],
+    origin = [[Heigan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39246]],
@@ -1702,6 +1900,8 @@ if pending then
   MyBissData.ItemSources[39247] = {
     instance = [[Naxxramas]],
     boss = [[Heigan]],
+    origin = [[Heigan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39247]],
@@ -1719,6 +1919,8 @@ if pending then
   MyBissData.ItemSources[39248] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39248]],
@@ -1736,6 +1938,8 @@ if pending then
   MyBissData.ItemSources[39249] = {
     instance = [[Naxxramas]],
     boss = [[Heigan]],
+    origin = [[Heigan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39249]],
@@ -1753,6 +1957,8 @@ if pending then
   MyBissData.ItemSources[39250] = {
     instance = [[Naxxramas]],
     boss = [[Heigan]],
+    origin = [[Heigan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39250]],
@@ -1770,6 +1976,8 @@ if pending then
   MyBissData.ItemSources[39252] = {
     instance = [[Naxxramas]],
     boss = [[Heigan]],
+    origin = [[Heigan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39252]],
@@ -1787,6 +1995,8 @@ if pending then
   MyBissData.ItemSources[39254] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39254]],
@@ -1804,6 +2014,8 @@ if pending then
   MyBissData.ItemSources[39257] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39257]],
@@ -1821,6 +2033,8 @@ if pending then
   MyBissData.ItemSources[39258] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39258]],
@@ -1838,6 +2052,8 @@ if pending then
   MyBissData.ItemSources[39260] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39260]],
@@ -1855,6 +2071,8 @@ if pending then
   MyBissData.ItemSources[39267] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39267]],
@@ -1872,6 +2090,8 @@ if pending then
   MyBissData.ItemSources[39270] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39270]],
@@ -1889,6 +2109,8 @@ if pending then
   MyBissData.ItemSources[39272] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39272]],
@@ -1906,6 +2128,8 @@ if pending then
   MyBissData.ItemSources[39276] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39276]],
@@ -1923,6 +2147,8 @@ if pending then
   MyBissData.ItemSources[39277] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39277]],
@@ -1940,6 +2166,8 @@ if pending then
   MyBissData.ItemSources[39278] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39278]],
@@ -1957,6 +2185,8 @@ if pending then
   MyBissData.ItemSources[39279] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39279]],
@@ -1974,6 +2204,8 @@ if pending then
   MyBissData.ItemSources[39285] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39285]],
@@ -1991,6 +2223,8 @@ if pending then
   MyBissData.ItemSources[39291] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39291]],
@@ -2008,6 +2242,8 @@ if pending then
   MyBissData.ItemSources[39292] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39292]],
@@ -2025,6 +2261,8 @@ if pending then
   MyBissData.ItemSources[39294] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39294]],
@@ -2042,6 +2280,8 @@ if pending then
   MyBissData.ItemSources[39295] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39295]],
@@ -2059,6 +2299,8 @@ if pending then
   MyBissData.ItemSources[39296] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39296]],
@@ -2076,6 +2318,8 @@ if pending then
   MyBissData.ItemSources[39297] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39297]],
@@ -2093,6 +2337,8 @@ if pending then
   MyBissData.ItemSources[39298] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39298]],
@@ -2110,6 +2356,8 @@ if pending then
   MyBissData.ItemSources[39299] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39299]],
@@ -2127,6 +2375,8 @@ if pending then
   MyBissData.ItemSources[39308] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39308]],
@@ -2144,6 +2394,8 @@ if pending then
   MyBissData.ItemSources[39309] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39309]],
@@ -2161,6 +2413,8 @@ if pending then
   MyBissData.ItemSources[39310] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39310]],
@@ -2178,6 +2432,8 @@ if pending then
   MyBissData.ItemSources[39311] = {
     instance = [[Naxxramas]],
     boss = [[Razuvious]],
+    origin = [[Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39311]],
@@ -2195,6 +2451,8 @@ if pending then
   MyBissData.ItemSources[39344] = {
     instance = [[Naxxramas]],
     boss = [[Gothik]],
+    origin = [[Gothik]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39344]],
@@ -2212,6 +2470,8 @@ if pending then
   MyBissData.ItemSources[39345] = {
     instance = [[Naxxramas]],
     boss = [[Gothik]],
+    origin = [[Gothik]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39345]],
@@ -2229,6 +2489,8 @@ if pending then
   MyBissData.ItemSources[39386] = {
     instance = [[Naxxramas]],
     boss = [[Gothik]],
+    origin = [[Gothik]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39386]],
@@ -2246,6 +2508,8 @@ if pending then
   MyBissData.ItemSources[39389] = {
     instance = [[Naxxramas]],
     boss = [[Gothik]],
+    origin = [[Gothik]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39389]],
@@ -2263,6 +2527,8 @@ if pending then
   MyBissData.ItemSources[39390] = {
     instance = [[Naxxramas]],
     boss = [[Gothik]],
+    origin = [[Gothik]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39390]],
@@ -2280,6 +2546,8 @@ if pending then
   MyBissData.ItemSources[39392] = {
     instance = [[Naxxramas]],
     boss = [[Gothik]],
+    origin = [[Gothik]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39392]],
@@ -2297,6 +2565,8 @@ if pending then
   MyBissData.ItemSources[39395] = {
     instance = [[Naxxramas]],
     boss = [[Horsemen]],
+    origin = [[Horsemen]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39395]],
@@ -2314,6 +2584,8 @@ if pending then
   MyBissData.ItemSources[39396] = {
     instance = [[Naxxramas]],
     boss = [[Horsemen]],
+    origin = [[Horsemen]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39396]],
@@ -2331,6 +2603,8 @@ if pending then
   MyBissData.ItemSources[39398] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39398]],
@@ -2348,6 +2622,8 @@ if pending then
   MyBissData.ItemSources[39399] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39399]],
@@ -2365,6 +2641,8 @@ if pending then
   MyBissData.ItemSources[39401] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39401]],
@@ -2382,6 +2660,8 @@ if pending then
   MyBissData.ItemSources[39403] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39403]],
@@ -2399,6 +2679,8 @@ if pending then
   MyBissData.ItemSources[39404] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39404]],
@@ -2416,6 +2698,8 @@ if pending then
   MyBissData.ItemSources[39408] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39408]],
@@ -2433,6 +2717,8 @@ if pending then
   MyBissData.ItemSources[39415] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39415]],
@@ -2450,6 +2736,8 @@ if pending then
   MyBissData.ItemSources[39416] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39416]],
@@ -2467,6 +2755,8 @@ if pending then
   MyBissData.ItemSources[39417] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39417]],
@@ -2484,6 +2774,8 @@ if pending then
   MyBissData.ItemSources[39419] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39419]],
@@ -2501,6 +2793,8 @@ if pending then
   MyBissData.ItemSources[39420] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39420]],
@@ -2518,6 +2812,8 @@ if pending then
   MyBissData.ItemSources[39421] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39421]],
@@ -2535,6 +2831,8 @@ if pending then
   MyBissData.ItemSources[39422] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39422]],
@@ -2552,6 +2850,8 @@ if pending then
   MyBissData.ItemSources[39423] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39423]],
@@ -2569,6 +2869,8 @@ if pending then
   MyBissData.ItemSources[39424] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39424]],
@@ -2586,6 +2888,8 @@ if pending then
   MyBissData.ItemSources[39425] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39425]],
@@ -2603,6 +2907,8 @@ if pending then
   MyBissData.ItemSources[39426] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39426]],
@@ -2620,6 +2926,8 @@ if pending then
   MyBissData.ItemSources[39427] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39427]],
@@ -2637,6 +2945,8 @@ if pending then
   MyBissData.ItemSources[39467] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39467]],
@@ -2654,6 +2964,8 @@ if pending then
   MyBissData.ItemSources[39468] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39468]],
@@ -2671,6 +2983,8 @@ if pending then
   MyBissData.ItemSources[39470] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39470]],
@@ -2688,6 +3002,8 @@ if pending then
   MyBissData.ItemSources[39472] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39472]],
@@ -2705,6 +3021,8 @@ if pending then
   MyBissData.ItemSources[39473] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39473]],
@@ -2722,6 +3040,8 @@ if pending then
   MyBissData.ItemSources[39491] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39491]],
@@ -2739,6 +3059,8 @@ if pending then
   MyBissData.ItemSources[39493] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39493]],
@@ -2756,6 +3078,8 @@ if pending then
   MyBissData.ItemSources[39494] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39494]],
@@ -2773,6 +3097,8 @@ if pending then
   MyBissData.ItemSources[39495] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39495]],
@@ -2790,6 +3116,8 @@ if pending then
   MyBissData.ItemSources[39496] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39496]],
@@ -2807,6 +3135,8 @@ if pending then
   MyBissData.ItemSources[39497] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39497]],
@@ -2824,6 +3154,8 @@ if pending then
   MyBissData.ItemSources[39499] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39499]],
@@ -2841,6 +3173,8 @@ if pending then
   MyBissData.ItemSources[39514] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39514]],
@@ -2858,6 +3192,8 @@ if pending then
   MyBissData.ItemSources[39517] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39517]],
@@ -2875,6 +3211,8 @@ if pending then
   MyBissData.ItemSources[39518] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39518]],
@@ -2892,6 +3230,8 @@ if pending then
   MyBissData.ItemSources[39519] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39519]],
@@ -2909,6 +3249,8 @@ if pending then
   MyBissData.ItemSources[39521] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39521]],
@@ -2926,6 +3268,8 @@ if pending then
   MyBissData.ItemSources[39523] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39523]],
@@ -2943,6 +3287,8 @@ if pending then
   MyBissData.ItemSources[39529] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39529]],
@@ -2960,6 +3306,8 @@ if pending then
   MyBissData.ItemSources[39538] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39538]],
@@ -2977,6 +3325,8 @@ if pending then
   MyBissData.ItemSources[39543] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39543]],
@@ -2994,6 +3344,8 @@ if pending then
   MyBissData.ItemSources[39545] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39545]],
@@ -3011,6 +3363,8 @@ if pending then
   MyBissData.ItemSources[39548] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39548]],
@@ -3028,6 +3382,8 @@ if pending then
   MyBissData.ItemSources[39553] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39553]],
@@ -3045,6 +3401,8 @@ if pending then
   MyBissData.ItemSources[39554] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39554]],
@@ -3062,6 +3420,8 @@ if pending then
   MyBissData.ItemSources[39555] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39555]],
@@ -3079,6 +3439,8 @@ if pending then
   MyBissData.ItemSources[39556] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39556]],
@@ -3096,6 +3458,8 @@ if pending then
   MyBissData.ItemSources[39557] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39557]],
@@ -3113,6 +3477,8 @@ if pending then
   MyBissData.ItemSources[39560] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39560]],
@@ -3130,6 +3496,8 @@ if pending then
   MyBissData.ItemSources[39561] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39561]],
@@ -3147,6 +3515,8 @@ if pending then
   MyBissData.ItemSources[39564] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39564]],
@@ -3164,6 +3534,8 @@ if pending then
   MyBissData.ItemSources[39565] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39565]],
@@ -3181,6 +3553,8 @@ if pending then
   MyBissData.ItemSources[39578] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39578]],
@@ -3198,6 +3572,8 @@ if pending then
   MyBissData.ItemSources[39579] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39579]],
@@ -3215,6 +3591,8 @@ if pending then
   MyBissData.ItemSources[39580] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39580]],
@@ -3232,6 +3610,8 @@ if pending then
   MyBissData.ItemSources[39581] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39581]],
@@ -3249,6 +3629,8 @@ if pending then
   MyBissData.ItemSources[39583] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39583]],
@@ -3266,6 +3648,8 @@ if pending then
   MyBissData.ItemSources[39588] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39588]],
@@ -3283,6 +3667,8 @@ if pending then
   MyBissData.ItemSources[39589] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39589]],
@@ -3300,6 +3686,8 @@ if pending then
   MyBissData.ItemSources[39593] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39593]],
@@ -3317,6 +3705,8 @@ if pending then
   MyBissData.ItemSources[39594] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39594]],
@@ -3334,6 +3724,8 @@ if pending then
   MyBissData.ItemSources[39595] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39595]],
@@ -3351,6 +3743,8 @@ if pending then
   MyBissData.ItemSources[39597] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39597]],
@@ -3368,6 +3762,8 @@ if pending then
   MyBissData.ItemSources[39602] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39602]],
@@ -3385,6 +3781,8 @@ if pending then
   MyBissData.ItemSources[39603] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39603]],
@@ -3402,6 +3800,8 @@ if pending then
   MyBissData.ItemSources[39605] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39605]],
@@ -3419,6 +3819,8 @@ if pending then
   MyBissData.ItemSources[39606] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39606]],
@@ -3436,6 +3838,8 @@ if pending then
   MyBissData.ItemSources[39608] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39608]],
@@ -3453,6 +3857,8 @@ if pending then
   MyBissData.ItemSources[39610] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39610]],
@@ -3470,6 +3876,8 @@ if pending then
   MyBissData.ItemSources[39612] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39612]],
@@ -3487,6 +3895,8 @@ if pending then
   MyBissData.ItemSources[39613] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39613]],
@@ -3504,6 +3914,8 @@ if pending then
   MyBissData.ItemSources[39617] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39617]],
@@ -3521,6 +3933,8 @@ if pending then
   MyBissData.ItemSources[39618] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39618]],
@@ -3538,6 +3952,8 @@ if pending then
   MyBissData.ItemSources[39619] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39619]],
@@ -3555,6 +3971,8 @@ if pending then
   MyBissData.ItemSources[39620] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39620]],
@@ -3572,6 +3990,8 @@ if pending then
   MyBissData.ItemSources[39621] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39621]],
@@ -3589,6 +4009,8 @@ if pending then
   MyBissData.ItemSources[39622] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39622]],
@@ -3606,6 +4028,8 @@ if pending then
   MyBissData.ItemSources[39623] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39623]],
@@ -3623,6 +4047,8 @@ if pending then
   MyBissData.ItemSources[39624] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39624]],
@@ -3640,6 +4066,8 @@ if pending then
   MyBissData.ItemSources[39625] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39625]],
@@ -3657,6 +4085,8 @@ if pending then
   MyBissData.ItemSources[39626] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39626]],
@@ -3674,6 +4104,8 @@ if pending then
   MyBissData.ItemSources[39627] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39627]],
@@ -3691,6 +4123,8 @@ if pending then
   MyBissData.ItemSources[39630] = {
     instance = [[Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39630]],
@@ -3708,6 +4142,8 @@ if pending then
   MyBissData.ItemSources[39631] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39631]],
@@ -3725,6 +4161,8 @@ if pending then
   MyBissData.ItemSources[39632] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39632]],
@@ -3742,6 +4180,8 @@ if pending then
   MyBissData.ItemSources[39637] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39637]],
@@ -3759,6 +4199,8 @@ if pending then
   MyBissData.ItemSources[39639] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39639]],
@@ -3776,6 +4218,8 @@ if pending then
   MyBissData.ItemSources[39640] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39640]],
@@ -3793,6 +4237,8 @@ if pending then
   MyBissData.ItemSources[39642] = {
     instance = [[Naxxramas tier (T7)]],
     boss = [[Griselda Hunderland]],
+    origin = [[Griselda Hunderland]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Naxxramas tier (T7) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39642]],
@@ -3810,6 +4256,8 @@ if pending then
   MyBissData.ItemSources[39701] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39701]],
@@ -3827,6 +4275,8 @@ if pending then
   MyBissData.ItemSources[39702] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39702]],
@@ -3844,6 +4294,8 @@ if pending then
   MyBissData.ItemSources[39703] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39703]],
@@ -3861,6 +4313,8 @@ if pending then
   MyBissData.ItemSources[39704] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39704]],
@@ -3878,6 +4332,8 @@ if pending then
   MyBissData.ItemSources[39706] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39706]],
@@ -3895,6 +4351,8 @@ if pending then
   MyBissData.ItemSources[39712] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39712]],
@@ -3912,6 +4370,8 @@ if pending then
   MyBissData.ItemSources[39714] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39714]],
@@ -3929,6 +4389,8 @@ if pending then
   MyBissData.ItemSources[39716] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39716]],
@@ -3946,6 +4408,8 @@ if pending then
   MyBissData.ItemSources[39717] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39717]],
@@ -3963,6 +4427,8 @@ if pending then
   MyBissData.ItemSources[39718] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39718]],
@@ -3980,6 +4446,8 @@ if pending then
   MyBissData.ItemSources[39719] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39719]],
@@ -3997,6 +4465,8 @@ if pending then
   MyBissData.ItemSources[39720] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39720]],
@@ -4014,6 +4484,8 @@ if pending then
   MyBissData.ItemSources[39721] = {
     instance = [[Naxxramas]],
     boss = [[Anub'Rekhan]],
+    origin = [[Anub'Rekhan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39721]],
@@ -4031,6 +4503,8 @@ if pending then
   MyBissData.ItemSources[39724] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39724]],
@@ -4048,6 +4522,8 @@ if pending then
   MyBissData.ItemSources[39725] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39725]],
@@ -4065,6 +4541,8 @@ if pending then
   MyBissData.ItemSources[39726] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39726]],
@@ -4082,6 +4560,8 @@ if pending then
   MyBissData.ItemSources[39727] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39727]],
@@ -4099,6 +4579,8 @@ if pending then
   MyBissData.ItemSources[39729] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39729]],
@@ -4116,6 +4598,8 @@ if pending then
   MyBissData.ItemSources[39730] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39730]],
@@ -4133,6 +4617,8 @@ if pending then
   MyBissData.ItemSources[39731] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39731]],
@@ -4150,6 +4636,8 @@ if pending then
   MyBissData.ItemSources[39733] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39733]],
@@ -4167,6 +4655,8 @@ if pending then
   MyBissData.ItemSources[39734] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39734]],
@@ -4184,6 +4674,8 @@ if pending then
   MyBissData.ItemSources[39735] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39735]],
@@ -4201,6 +4693,8 @@ if pending then
   MyBissData.ItemSources[39756] = {
     instance = [[Naxxramas]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39756]],
@@ -4218,6 +4712,8 @@ if pending then
   MyBissData.ItemSources[39757] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Grand Widow Faerlina]],
+    origin = [[Grand Widow Faerlina]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39757]],
@@ -4235,6 +4731,8 @@ if pending then
   MyBissData.ItemSources[39758] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39758]],
@@ -4252,6 +4750,8 @@ if pending then
   MyBissData.ItemSources[39759] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39759]],
@@ -4269,6 +4769,8 @@ if pending then
   MyBissData.ItemSources[39761] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39761]],
@@ -4286,6 +4788,8 @@ if pending then
   MyBissData.ItemSources[39762] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39762]],
@@ -4303,6 +4807,8 @@ if pending then
   MyBissData.ItemSources[39763] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39763]],
@@ -4320,6 +4826,8 @@ if pending then
   MyBissData.ItemSources[39764] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39764]],
@@ -4337,6 +4845,8 @@ if pending then
   MyBissData.ItemSources[39765] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39765]],
@@ -4354,6 +4864,8 @@ if pending then
   MyBissData.ItemSources[39766] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39766]],
@@ -4371,6 +4883,8 @@ if pending then
   MyBissData.ItemSources[39767] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=39767]],
@@ -4388,6 +4902,8 @@ if pending then
   MyBissData.ItemSources[40060] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40060]],
@@ -4405,6 +4921,8 @@ if pending then
   MyBissData.ItemSources[40061] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40061]],
@@ -4422,6 +4940,8 @@ if pending then
   MyBissData.ItemSources[40062] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40062]],
@@ -4439,6 +4959,8 @@ if pending then
   MyBissData.ItemSources[40063] = {
     instance = [[Naxxramas]],
     boss = [[Maexxna]],
+    origin = [[Maexxna]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40063]],
@@ -4456,6 +4978,8 @@ if pending then
   MyBissData.ItemSources[40064] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40064]],
@@ -4473,6 +4997,8 @@ if pending then
   MyBissData.ItemSources[40065] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40065]],
@@ -4490,6 +5016,8 @@ if pending then
   MyBissData.ItemSources[40069] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40069]],
@@ -4507,6 +5035,8 @@ if pending then
   MyBissData.ItemSources[40071] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40071]],
@@ -4524,6 +5054,8 @@ if pending then
   MyBissData.ItemSources[40074] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40074]],
@@ -4541,6 +5073,8 @@ if pending then
   MyBissData.ItemSources[40075] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40075]],
@@ -4558,6 +5092,8 @@ if pending then
   MyBissData.ItemSources[40080] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40080]],
@@ -4575,6 +5111,8 @@ if pending then
   MyBissData.ItemSources[40107] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40107]],
@@ -4592,6 +5130,8 @@ if pending then
   MyBissData.ItemSources[40108] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40108]],
@@ -4609,6 +5149,8 @@ if pending then
   MyBissData.ItemSources[40184] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40184]],
@@ -4626,6 +5168,8 @@ if pending then
   MyBissData.ItemSources[40185] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40185]],
@@ -4643,6 +5187,8 @@ if pending then
   MyBissData.ItemSources[40186] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40186]],
@@ -4660,6 +5206,8 @@ if pending then
   MyBissData.ItemSources[40187] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40187]],
@@ -4677,6 +5225,8 @@ if pending then
   MyBissData.ItemSources[40188] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40188]],
@@ -4694,6 +5244,8 @@ if pending then
   MyBissData.ItemSources[40189] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40189]],
@@ -4711,6 +5263,8 @@ if pending then
   MyBissData.ItemSources[40190] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40190]],
@@ -4728,6 +5282,8 @@ if pending then
   MyBissData.ItemSources[40191] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40191]],
@@ -4745,6 +5301,8 @@ if pending then
   MyBissData.ItemSources[40192] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40192]],
@@ -4762,6 +5320,8 @@ if pending then
   MyBissData.ItemSources[40193] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40193]],
@@ -4779,6 +5339,8 @@ if pending then
   MyBissData.ItemSources[40194] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40194]],
@@ -4796,6 +5358,8 @@ if pending then
   MyBissData.ItemSources[40196] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40196]],
@@ -4813,6 +5377,8 @@ if pending then
   MyBissData.ItemSources[40197] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40197]],
@@ -4830,6 +5396,8 @@ if pending then
   MyBissData.ItemSources[40198] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40198]],
@@ -4847,6 +5415,8 @@ if pending then
   MyBissData.ItemSources[40200] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40200]],
@@ -4864,6 +5434,8 @@ if pending then
   MyBissData.ItemSources[40201] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40201]],
@@ -4881,6 +5453,8 @@ if pending then
   MyBissData.ItemSources[40203] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40203]],
@@ -4898,6 +5472,8 @@ if pending then
   MyBissData.ItemSources[40204] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40204]],
@@ -4915,6 +5491,8 @@ if pending then
   MyBissData.ItemSources[40205] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40205]],
@@ -4932,6 +5510,8 @@ if pending then
   MyBissData.ItemSources[40206] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40206]],
@@ -4949,6 +5529,8 @@ if pending then
   MyBissData.ItemSources[40207] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40207]],
@@ -4966,6 +5548,8 @@ if pending then
   MyBissData.ItemSources[40208] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40208]],
@@ -4983,6 +5567,8 @@ if pending then
   MyBissData.ItemSources[40209] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40209]],
@@ -5000,6 +5586,8 @@ if pending then
   MyBissData.ItemSources[40233] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40233]],
@@ -5017,6 +5605,8 @@ if pending then
   MyBissData.ItemSources[40234] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40234]],
@@ -5034,6 +5624,8 @@ if pending then
   MyBissData.ItemSources[40236] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40236]],
@@ -5051,6 +5643,8 @@ if pending then
   MyBissData.ItemSources[40237] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40237]],
@@ -5068,6 +5662,8 @@ if pending then
   MyBissData.ItemSources[40238] = {
     instance = [[Naxxramas]],
     boss = [[Heigan the Unclean]],
+    origin = [[Heigan the Unclean]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40238]],
@@ -5085,6 +5681,8 @@ if pending then
   MyBissData.ItemSources[40239] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40239]],
@@ -5102,6 +5700,8 @@ if pending then
   MyBissData.ItemSources[40240] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40240]],
@@ -5119,6 +5719,8 @@ if pending then
   MyBissData.ItemSources[40241] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40241]],
@@ -5136,6 +5738,8 @@ if pending then
   MyBissData.ItemSources[40242] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40242]],
@@ -5153,6 +5757,8 @@ if pending then
   MyBissData.ItemSources[40243] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40243]],
@@ -5170,6 +5776,8 @@ if pending then
   MyBissData.ItemSources[40244] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40244]],
@@ -5187,6 +5795,8 @@ if pending then
   MyBissData.ItemSources[40245] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40245]],
@@ -5204,6 +5814,8 @@ if pending then
   MyBissData.ItemSources[40246] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40246]],
@@ -5221,6 +5833,8 @@ if pending then
   MyBissData.ItemSources[40249] = {
     instance = [[Naxxramas]],
     boss = [[Loatheb]],
+    origin = [[Loatheb]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40249]],
@@ -5238,6 +5852,8 @@ if pending then
   MyBissData.ItemSources[40250] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40250]],
@@ -5255,6 +5871,8 @@ if pending then
   MyBissData.ItemSources[40251] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40251]],
@@ -5272,6 +5890,8 @@ if pending then
   MyBissData.ItemSources[40252] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40252]],
@@ -5289,6 +5909,8 @@ if pending then
   MyBissData.ItemSources[40253] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40253]],
@@ -5306,6 +5928,8 @@ if pending then
   MyBissData.ItemSources[40254] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40254]],
@@ -5323,6 +5947,8 @@ if pending then
   MyBissData.ItemSources[40255] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40255]],
@@ -5340,6 +5966,8 @@ if pending then
   MyBissData.ItemSources[40256] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40256]],
@@ -5357,6 +5985,8 @@ if pending then
   MyBissData.ItemSources[40257] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40257]],
@@ -5374,6 +6004,8 @@ if pending then
   MyBissData.ItemSources[40258] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40258]],
@@ -5391,6 +6023,8 @@ if pending then
   MyBissData.ItemSources[40259] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40259]],
@@ -5408,6 +6042,8 @@ if pending then
   MyBissData.ItemSources[40260] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40260]],
@@ -5425,6 +6061,8 @@ if pending then
   MyBissData.ItemSources[40261] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40261]],
@@ -5442,6 +6080,8 @@ if pending then
   MyBissData.ItemSources[40262] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40262]],
@@ -5459,6 +6099,8 @@ if pending then
   MyBissData.ItemSources[40263] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40263]],
@@ -5476,6 +6118,8 @@ if pending then
   MyBissData.ItemSources[40264] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40264]],
@@ -5493,6 +6137,8 @@ if pending then
   MyBissData.ItemSources[40265] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40265]],
@@ -5510,6 +6156,8 @@ if pending then
   MyBissData.ItemSources[40266] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40266]],
@@ -5527,6 +6175,8 @@ if pending then
   MyBissData.ItemSources[40267] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40267]],
@@ -5544,6 +6194,8 @@ if pending then
   MyBissData.ItemSources[40268] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40268]],
@@ -5561,6 +6213,8 @@ if pending then
   MyBissData.ItemSources[40269] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40269]],
@@ -5578,6 +6232,8 @@ if pending then
   MyBissData.ItemSources[40270] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40270]],
@@ -5595,6 +6251,8 @@ if pending then
   MyBissData.ItemSources[40271] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40271]],
@@ -5612,6 +6270,8 @@ if pending then
   MyBissData.ItemSources[40272] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40272]],
@@ -5629,6 +6289,8 @@ if pending then
   MyBissData.ItemSources[40273] = {
     instance = [[Naxxramas]],
     boss = [[Patchwerk]],
+    origin = [[Patchwerk]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40273]],
@@ -5646,6 +6308,8 @@ if pending then
   MyBissData.ItemSources[40274] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40274]],
@@ -5663,6 +6327,8 @@ if pending then
   MyBissData.ItemSources[40275] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40275]],
@@ -5680,6 +6346,8 @@ if pending then
   MyBissData.ItemSources[40277] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40277]],
@@ -5697,6 +6365,8 @@ if pending then
   MyBissData.ItemSources[40278] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40278]],
@@ -5714,6 +6384,8 @@ if pending then
   MyBissData.ItemSources[40279] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40279]],
@@ -5731,6 +6403,8 @@ if pending then
   MyBissData.ItemSources[40280] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40280]],
@@ -5748,6 +6422,8 @@ if pending then
   MyBissData.ItemSources[40281] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40281]],
@@ -5765,6 +6441,8 @@ if pending then
   MyBissData.ItemSources[40282] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40282]],
@@ -5782,6 +6460,8 @@ if pending then
   MyBissData.ItemSources[40283] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40283]],
@@ -5799,6 +6479,8 @@ if pending then
   MyBissData.ItemSources[40284] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40284]],
@@ -5816,6 +6498,8 @@ if pending then
   MyBissData.ItemSources[40286] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40286]],
@@ -5833,6 +6517,8 @@ if pending then
   MyBissData.ItemSources[40287] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40287]],
@@ -5850,6 +6536,8 @@ if pending then
   MyBissData.ItemSources[40288] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40288]],
@@ -5867,6 +6555,8 @@ if pending then
   MyBissData.ItemSources[40289] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40289]],
@@ -5884,6 +6574,8 @@ if pending then
   MyBissData.ItemSources[40294] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40294]],
@@ -5901,6 +6593,8 @@ if pending then
   MyBissData.ItemSources[40296] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40296]],
@@ -5918,6 +6612,8 @@ if pending then
   MyBissData.ItemSources[40297] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40297]],
@@ -5935,6 +6631,8 @@ if pending then
   MyBissData.ItemSources[40298] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40298]],
@@ -5952,6 +6650,8 @@ if pending then
   MyBissData.ItemSources[40299] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40299]],
@@ -5969,6 +6669,8 @@ if pending then
   MyBissData.ItemSources[40300] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40300]],
@@ -5986,6 +6688,8 @@ if pending then
   MyBissData.ItemSources[40301] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40301]],
@@ -6003,6 +6707,8 @@ if pending then
   MyBissData.ItemSources[40302] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40302]],
@@ -6020,6 +6726,8 @@ if pending then
   MyBissData.ItemSources[40303] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40303]],
@@ -6037,6 +6745,8 @@ if pending then
   MyBissData.ItemSources[40304] = {
     instance = [[Naxxramas]],
     boss = [[Thaddius]],
+    origin = [[Thaddius]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40304]],
@@ -6054,6 +6764,8 @@ if pending then
   MyBissData.ItemSources[40305] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40305]],
@@ -6071,6 +6783,8 @@ if pending then
   MyBissData.ItemSources[40306] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40306]],
@@ -6088,6 +6802,8 @@ if pending then
   MyBissData.ItemSources[40315] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40315]],
@@ -6105,6 +6821,8 @@ if pending then
   MyBissData.ItemSources[40316] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40316]],
@@ -6122,6 +6840,8 @@ if pending then
   MyBissData.ItemSources[40317] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40317]],
@@ -6139,6 +6859,8 @@ if pending then
   MyBissData.ItemSources[40318] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40318]],
@@ -6156,6 +6878,8 @@ if pending then
   MyBissData.ItemSources[40319] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40319]],
@@ -6173,6 +6897,8 @@ if pending then
   MyBissData.ItemSources[40321] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40321]],
@@ -6190,6 +6916,8 @@ if pending then
   MyBissData.ItemSources[40322] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40322]],
@@ -6207,6 +6935,8 @@ if pending then
   MyBissData.ItemSources[40323] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40323]],
@@ -6224,6 +6954,8 @@ if pending then
   MyBissData.ItemSources[40324] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40324]],
@@ -6241,6 +6973,8 @@ if pending then
   MyBissData.ItemSources[40325] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40325]],
@@ -6258,6 +6992,8 @@ if pending then
   MyBissData.ItemSources[40326] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40326]],
@@ -6275,6 +7011,8 @@ if pending then
   MyBissData.ItemSources[40327] = {
     instance = [[Naxxramas]],
     boss = [[Instructor Razuvious]],
+    origin = [[Instructor Razuvious]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40327]],
@@ -6292,6 +7030,8 @@ if pending then
   MyBissData.ItemSources[40328] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40328]],
@@ -6309,6 +7049,8 @@ if pending then
   MyBissData.ItemSources[40329] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40329]],
@@ -6326,6 +7068,8 @@ if pending then
   MyBissData.ItemSources[40330] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40330]],
@@ -6343,6 +7087,8 @@ if pending then
   MyBissData.ItemSources[40331] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40331]],
@@ -6360,6 +7106,8 @@ if pending then
   MyBissData.ItemSources[40332] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40332]],
@@ -6377,6 +7125,8 @@ if pending then
   MyBissData.ItemSources[40333] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40333]],
@@ -6394,6 +7144,8 @@ if pending then
   MyBissData.ItemSources[40334] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40334]],
@@ -6411,6 +7163,8 @@ if pending then
   MyBissData.ItemSources[40335] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40335]],
@@ -6428,6 +7182,8 @@ if pending then
   MyBissData.ItemSources[40336] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40336]],
@@ -6445,6 +7201,8 @@ if pending then
   MyBissData.ItemSources[40337] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40337]],
@@ -6462,6 +7220,8 @@ if pending then
   MyBissData.ItemSources[40338] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40338]],
@@ -6479,6 +7239,8 @@ if pending then
   MyBissData.ItemSources[40339] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40339]],
@@ -6496,6 +7258,8 @@ if pending then
   MyBissData.ItemSources[40340] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40340]],
@@ -6513,6 +7277,8 @@ if pending then
   MyBissData.ItemSources[40341] = {
     instance = [[Naxxramas]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40341]],
@@ -6530,6 +7296,8 @@ if pending then
   MyBissData.ItemSources[40342] = {
     instance = [[Naxxramas / Emblem of Valor]],
     boss = [[Gothik the Harvester]],
+    origin = [[Gothik the Harvester]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Emblem of Valor (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40342]],
@@ -6547,6 +7315,8 @@ if pending then
   MyBissData.ItemSources[40343] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40343]],
@@ -6564,6 +7334,8 @@ if pending then
   MyBissData.ItemSources[40344] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40344]],
@@ -6581,6 +7353,8 @@ if pending then
   MyBissData.ItemSources[40345] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40345]],
@@ -6598,6 +7372,8 @@ if pending then
   MyBissData.ItemSources[40346] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40346]],
@@ -6615,6 +7391,8 @@ if pending then
   MyBissData.ItemSources[40347] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40347]],
@@ -6632,6 +7410,8 @@ if pending then
   MyBissData.ItemSources[40349] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40349]],
@@ -6649,6 +7429,8 @@ if pending then
   MyBissData.ItemSources[40350] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40350]],
@@ -6666,6 +7448,8 @@ if pending then
   MyBissData.ItemSources[40351] = {
     instance = [[Naxxramas]],
     boss = [[Grobbulus]],
+    origin = [[Grobbulus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40351]],
@@ -6683,6 +7467,8 @@ if pending then
   MyBissData.ItemSources[40352] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40352]],
@@ -6700,6 +7486,8 @@ if pending then
   MyBissData.ItemSources[40362] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40362]],
@@ -6717,6 +7505,8 @@ if pending then
   MyBissData.ItemSources[40363] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40363]],
@@ -6734,6 +7524,8 @@ if pending then
   MyBissData.ItemSources[40365] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40365]],
@@ -6751,6 +7543,8 @@ if pending then
   MyBissData.ItemSources[40366] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40366]],
@@ -6768,6 +7562,8 @@ if pending then
   MyBissData.ItemSources[40367] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40367]],
@@ -6785,6 +7581,8 @@ if pending then
   MyBissData.ItemSources[40368] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40368]],
@@ -6802,6 +7600,8 @@ if pending then
   MyBissData.ItemSources[40369] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40369]],
@@ -6819,6 +7619,8 @@ if pending then
   MyBissData.ItemSources[40370] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40370]],
@@ -6836,6 +7638,8 @@ if pending then
   MyBissData.ItemSources[40371] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40371]],
@@ -6853,6 +7657,8 @@ if pending then
   MyBissData.ItemSources[40374] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40374]],
@@ -6870,6 +7676,8 @@ if pending then
   MyBissData.ItemSources[40375] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40375]],
@@ -6887,6 +7695,8 @@ if pending then
   MyBissData.ItemSources[40376] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40376]],
@@ -6904,6 +7714,8 @@ if pending then
   MyBissData.ItemSources[40377] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40377]],
@@ -6921,6 +7733,8 @@ if pending then
   MyBissData.ItemSources[40378] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40378]],
@@ -6938,6 +7752,8 @@ if pending then
   MyBissData.ItemSources[40379] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40379]],
@@ -6955,6 +7771,8 @@ if pending then
   MyBissData.ItemSources[40380] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40380]],
@@ -6972,6 +7790,8 @@ if pending then
   MyBissData.ItemSources[40381] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40381]],
@@ -6989,6 +7809,8 @@ if pending then
   MyBissData.ItemSources[40382] = {
     instance = [[Naxxramas]],
     boss = [[Sapphiron]],
+    origin = [[Sapphiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40382]],
@@ -7006,6 +7828,8 @@ if pending then
   MyBissData.ItemSources[40383] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40383]],
@@ -7023,6 +7847,8 @@ if pending then
   MyBissData.ItemSources[40384] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40384]],
@@ -7040,6 +7866,8 @@ if pending then
   MyBissData.ItemSources[40385] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40385]],
@@ -7057,6 +7885,8 @@ if pending then
   MyBissData.ItemSources[40386] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40386]],
@@ -7074,6 +7904,8 @@ if pending then
   MyBissData.ItemSources[40387] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40387]],
@@ -7091,6 +7923,8 @@ if pending then
   MyBissData.ItemSources[40388] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40388]],
@@ -7108,6 +7942,8 @@ if pending then
   MyBissData.ItemSources[40395] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40395]],
@@ -7125,6 +7961,8 @@ if pending then
   MyBissData.ItemSources[40396] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40396]],
@@ -7142,6 +7980,8 @@ if pending then
   MyBissData.ItemSources[40398] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40398]],
@@ -7159,6 +7999,8 @@ if pending then
   MyBissData.ItemSources[40399] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40399]],
@@ -7176,6 +8018,8 @@ if pending then
   MyBissData.ItemSources[40400] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40400]],
@@ -7193,6 +8037,8 @@ if pending then
   MyBissData.ItemSources[40401] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40401]],
@@ -7210,6 +8056,8 @@ if pending then
   MyBissData.ItemSources[40402] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40402]],
@@ -7227,6 +8075,8 @@ if pending then
   MyBissData.ItemSources[40403] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40403]],
@@ -7244,6 +8094,8 @@ if pending then
   MyBissData.ItemSources[40405] = {
     instance = [[Naxxramas]],
     boss = [[Kel'Thuzad]],
+    origin = [[Kel'Thuzad]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40405]],
@@ -7261,6 +8113,8 @@ if pending then
   MyBissData.ItemSources[40406] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40406]],
@@ -7278,6 +8132,8 @@ if pending then
   MyBissData.ItemSources[40407] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40407]],
@@ -7295,6 +8151,8 @@ if pending then
   MyBissData.ItemSources[40408] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40408]],
@@ -7312,6 +8170,8 @@ if pending then
   MyBissData.ItemSources[40409] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40409]],
@@ -7329,6 +8189,8 @@ if pending then
   MyBissData.ItemSources[40410] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40410]],
@@ -7346,6 +8208,8 @@ if pending then
   MyBissData.ItemSources[40414] = {
     instance = [[Naxxramas]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40414]],
@@ -7363,6 +8227,8 @@ if pending then
   MyBissData.ItemSources[40415] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40415]],
@@ -7380,6 +8246,8 @@ if pending then
   MyBissData.ItemSources[40416] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Paldesse]],
+    origin = [[Kel'Thuzad / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40416]],
@@ -7397,6 +8265,8 @@ if pending then
   MyBissData.ItemSources[40417] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40417]],
@@ -7414,6 +8284,8 @@ if pending then
   MyBissData.ItemSources[40418] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40418]],
@@ -7431,6 +8303,8 @@ if pending then
   MyBissData.ItemSources[40419] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Paldesse]],
+    origin = [[Loatheb / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40419]],
@@ -7448,6 +8322,8 @@ if pending then
   MyBissData.ItemSources[40420] = {
     instance = [[The Obsidian Sanctum / Naxxramas tier (T7)]],
     boss = [[Sartharion / Paldesse]],
+    origin = [[Sartharion / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40420]],
@@ -7465,6 +8341,8 @@ if pending then
   MyBissData.ItemSources[40421] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Paldesse]],
+    origin = [[Kel'Thuzad / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40421]],
@@ -7482,6 +8360,8 @@ if pending then
   MyBissData.ItemSources[40422] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40422]],
@@ -7499,6 +8379,8 @@ if pending then
   MyBissData.ItemSources[40423] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40423]],
@@ -7516,6 +8398,8 @@ if pending then
   MyBissData.ItemSources[40424] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Paldesse]],
+    origin = [[Loatheb / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40424]],
@@ -7533,6 +8417,8 @@ if pending then
   MyBissData.ItemSources[40426] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40426]],
@@ -7550,6 +8436,8 @@ if pending then
   MyBissData.ItemSources[40427] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40427]],
@@ -7567,6 +8455,8 @@ if pending then
   MyBissData.ItemSources[40429] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40429]],
@@ -7584,6 +8474,8 @@ if pending then
   MyBissData.ItemSources[40430] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40430]],
@@ -7601,6 +8493,8 @@ if pending then
   MyBissData.ItemSources[40431] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40431]],
@@ -7618,6 +8512,8 @@ if pending then
   MyBissData.ItemSources[40432] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40432]],
@@ -7635,6 +8531,8 @@ if pending then
   MyBissData.ItemSources[40433] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40433]],
@@ -7652,6 +8550,8 @@ if pending then
   MyBissData.ItemSources[40437] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40437]],
@@ -7669,6 +8569,8 @@ if pending then
   MyBissData.ItemSources[40438] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40438]],
@@ -7686,6 +8588,8 @@ if pending then
   MyBissData.ItemSources[40439] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40439]],
@@ -7703,6 +8607,8 @@ if pending then
   MyBissData.ItemSources[40445] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40445]],
@@ -7720,6 +8626,8 @@ if pending then
   MyBissData.ItemSources[40446] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40446]],
@@ -7737,6 +8645,8 @@ if pending then
   MyBissData.ItemSources[40447] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Paldesse]],
+    origin = [[Kel'Thuzad / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40447]],
@@ -7754,6 +8664,8 @@ if pending then
   MyBissData.ItemSources[40448] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40448]],
@@ -7771,6 +8683,8 @@ if pending then
   MyBissData.ItemSources[40449] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40449]],
@@ -7788,6 +8702,8 @@ if pending then
   MyBissData.ItemSources[40450] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Paldesse]],
+    origin = [[Loatheb / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40450]],
@@ -7805,6 +8721,8 @@ if pending then
   MyBissData.ItemSources[40451] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40451]],
@@ -7822,6 +8740,8 @@ if pending then
   MyBissData.ItemSources[40453] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40453]],
@@ -7839,6 +8759,8 @@ if pending then
   MyBissData.ItemSources[40454] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40454]],
@@ -7856,6 +8778,8 @@ if pending then
   MyBissData.ItemSources[40456] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Paldesse]],
+    origin = [[Kel'Thuzad / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40456]],
@@ -7873,6 +8797,8 @@ if pending then
   MyBissData.ItemSources[40457] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40457]],
@@ -7890,6 +8816,8 @@ if pending then
   MyBissData.ItemSources[40458] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Paldesse]],
+    origin = [[Archavon the Stone Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40458]],
@@ -7907,6 +8835,8 @@ if pending then
   MyBissData.ItemSources[40459] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Paldesse]],
+    origin = [[Loatheb / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40459]],
@@ -7924,6 +8854,8 @@ if pending then
   MyBissData.ItemSources[40460] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40460]],
@@ -7941,6 +8873,8 @@ if pending then
   MyBissData.ItemSources[40461] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Valerie Langrom]],
+    origin = [[Kel'Thuzad / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40461]],
@@ -7958,6 +8892,8 @@ if pending then
   MyBissData.ItemSources[40462] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40462]],
@@ -7975,6 +8911,8 @@ if pending then
   MyBissData.ItemSources[40463] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40463]],
@@ -7992,6 +8930,8 @@ if pending then
   MyBissData.ItemSources[40465] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Valerie Langrom]],
+    origin = [[Loatheb / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40465]],
@@ -8009,6 +8949,8 @@ if pending then
   MyBissData.ItemSources[40466] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40466]],
@@ -8026,6 +8968,8 @@ if pending then
   MyBissData.ItemSources[40467] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Valerie Langrom]],
+    origin = [[Kel'Thuzad / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40467]],
@@ -8043,6 +8987,8 @@ if pending then
   MyBissData.ItemSources[40468] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40468]],
@@ -8060,6 +9006,8 @@ if pending then
   MyBissData.ItemSources[40469] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40469]],
@@ -8077,6 +9025,8 @@ if pending then
   MyBissData.ItemSources[40470] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Valerie Langrom]],
+    origin = [[Loatheb / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40470]],
@@ -8094,6 +9044,8 @@ if pending then
   MyBissData.ItemSources[40471] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40471]],
@@ -8111,6 +9063,8 @@ if pending then
   MyBissData.ItemSources[40472] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40472]],
@@ -8128,6 +9082,8 @@ if pending then
   MyBissData.ItemSources[40473] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Valerie Langrom]],
+    origin = [[Kel'Thuzad / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40473]],
@@ -8145,6 +9101,8 @@ if pending then
   MyBissData.ItemSources[40474] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40474]],
@@ -8162,6 +9120,8 @@ if pending then
   MyBissData.ItemSources[40475] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40475]],
@@ -8179,6 +9139,8 @@ if pending then
   MyBissData.ItemSources[40486] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40486]],
@@ -8196,6 +9158,8 @@ if pending then
   MyBissData.ItemSources[40488] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40488]],
@@ -8213,6 +9177,8 @@ if pending then
   MyBissData.ItemSources[40489] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40489]],
@@ -8230,6 +9196,8 @@ if pending then
   MyBissData.ItemSources[40491] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40491]],
@@ -8247,6 +9215,8 @@ if pending then
   MyBissData.ItemSources[40493] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40493]],
@@ -8264,6 +9234,8 @@ if pending then
   MyBissData.ItemSources[40494] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Valerie Langrom]],
+    origin = [[Loatheb / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40494]],
@@ -8281,6 +9253,8 @@ if pending then
   MyBissData.ItemSources[40495] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40495]],
@@ -8298,6 +9272,8 @@ if pending then
   MyBissData.ItemSources[40496] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40496]],
@@ -8315,6 +9291,8 @@ if pending then
   MyBissData.ItemSources[40497] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40497]],
@@ -8332,6 +9310,8 @@ if pending then
   MyBissData.ItemSources[40499] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Valerie Langrom]],
+    origin = [[Kel'Thuzad / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40499]],
@@ -8349,6 +9329,8 @@ if pending then
   MyBissData.ItemSources[40500] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40500]],
@@ -8366,6 +9348,8 @@ if pending then
   MyBissData.ItemSources[40502] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Valerie Langrom]],
+    origin = [[Loatheb / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40502]],
@@ -8383,6 +9367,8 @@ if pending then
   MyBissData.ItemSources[40503] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40503]],
@@ -8400,6 +9386,8 @@ if pending then
   MyBissData.ItemSources[40504] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40504]],
@@ -8417,6 +9405,8 @@ if pending then
   MyBissData.ItemSources[40505] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Bragund Brightlink]],
+    origin = [[Kel'Thuzad / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40505]],
@@ -8434,6 +9424,8 @@ if pending then
   MyBissData.ItemSources[40506] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40506]],
@@ -8451,6 +9443,8 @@ if pending then
   MyBissData.ItemSources[40507] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Bragund Brightlink]],
+    origin = [[Loatheb / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40507]],
@@ -8468,6 +9462,8 @@ if pending then
   MyBissData.ItemSources[40508] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40508]],
@@ -8485,6 +9481,8 @@ if pending then
   MyBissData.ItemSources[40509] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40509]],
@@ -8502,6 +9500,8 @@ if pending then
   MyBissData.ItemSources[40510] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Bragund Brightlink]],
+    origin = [[Kel'Thuzad / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40510]],
@@ -8519,6 +9519,8 @@ if pending then
   MyBissData.ItemSources[40512] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40512]],
@@ -8536,6 +9538,8 @@ if pending then
   MyBissData.ItemSources[40513] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Bragund Brightlink]],
+    origin = [[Loatheb / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40513]],
@@ -8553,6 +9557,8 @@ if pending then
   MyBissData.ItemSources[40514] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40514]],
@@ -8570,6 +9576,8 @@ if pending then
   MyBissData.ItemSources[40515] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40515]],
@@ -8587,6 +9595,8 @@ if pending then
   MyBissData.ItemSources[40516] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Bragund Brightlink]],
+    origin = [[Kel'Thuzad / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40516]],
@@ -8604,6 +9614,8 @@ if pending then
   MyBissData.ItemSources[40517] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40517]],
@@ -8621,6 +9633,8 @@ if pending then
   MyBissData.ItemSources[40518] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Bragund Brightlink]],
+    origin = [[Loatheb / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40518]],
@@ -8638,6 +9652,8 @@ if pending then
   MyBissData.ItemSources[40519] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40519]],
@@ -8655,6 +9671,8 @@ if pending then
   MyBissData.ItemSources[40520] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40520]],
@@ -8672,6 +9690,8 @@ if pending then
   MyBissData.ItemSources[40521] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Bragund Brightlink]],
+    origin = [[Kel'Thuzad / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40521]],
@@ -8689,6 +9709,8 @@ if pending then
   MyBissData.ItemSources[40522] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40522]],
@@ -8706,6 +9728,8 @@ if pending then
   MyBissData.ItemSources[40523] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    origin = [[Archavon the Stone Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40523]],
@@ -8723,6 +9747,8 @@ if pending then
   MyBissData.ItemSources[40524] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Bragund Brightlink]],
+    origin = [[Loatheb / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40524]],
@@ -8740,6 +9766,8 @@ if pending then
   MyBissData.ItemSources[40525] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40525]],
@@ -8757,6 +9785,8 @@ if pending then
   MyBissData.ItemSources[40526] = {
     instance = [[The Eye of Eternity]],
     boss = [[Malygos]],
+    origin = [[Malygos]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40526]],
@@ -8774,6 +9804,8 @@ if pending then
   MyBissData.ItemSources[40527] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40527]],
@@ -8791,6 +9823,8 @@ if pending then
   MyBissData.ItemSources[40528] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40528]],
@@ -8808,6 +9842,8 @@ if pending then
   MyBissData.ItemSources[40529] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40529]],
@@ -8825,6 +9861,8 @@ if pending then
   MyBissData.ItemSources[40530] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40530]],
@@ -8842,6 +9880,8 @@ if pending then
   MyBissData.ItemSources[40531] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40531]],
@@ -8859,6 +9899,8 @@ if pending then
   MyBissData.ItemSources[40539] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40539]],
@@ -8876,6 +9918,8 @@ if pending then
   MyBissData.ItemSources[40541] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40541]],
@@ -8893,6 +9937,8 @@ if pending then
   MyBissData.ItemSources[40543] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40543]],
@@ -8910,6 +9956,8 @@ if pending then
   MyBissData.ItemSources[40544] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40544]],
@@ -8927,6 +9975,8 @@ if pending then
   MyBissData.ItemSources[40545] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40545]],
@@ -8944,6 +9994,8 @@ if pending then
   MyBissData.ItemSources[40546] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40546]],
@@ -8961,6 +10013,8 @@ if pending then
   MyBissData.ItemSources[40547] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40547]],
@@ -8978,6 +10032,8 @@ if pending then
   MyBissData.ItemSources[40548] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40548]],
@@ -8995,6 +10051,8 @@ if pending then
   MyBissData.ItemSources[40549] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40549]],
@@ -9012,6 +10070,8 @@ if pending then
   MyBissData.ItemSources[40550] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40550]],
@@ -9029,6 +10089,8 @@ if pending then
   MyBissData.ItemSources[40552] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40552]],
@@ -9046,6 +10108,8 @@ if pending then
   MyBissData.ItemSources[40554] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40554]],
@@ -9063,6 +10127,8 @@ if pending then
   MyBissData.ItemSources[40555] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40555]],
@@ -9080,6 +10146,8 @@ if pending then
   MyBissData.ItemSources[40556] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40556]],
@@ -9097,6 +10165,8 @@ if pending then
   MyBissData.ItemSources[40557] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40557]],
@@ -9114,6 +10184,8 @@ if pending then
   MyBissData.ItemSources[40558] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40558]],
@@ -9131,6 +10203,8 @@ if pending then
   MyBissData.ItemSources[40559] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40559]],
@@ -9148,6 +10222,8 @@ if pending then
   MyBissData.ItemSources[40560] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40560]],
@@ -9165,6 +10241,8 @@ if pending then
   MyBissData.ItemSources[40561] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40561]],
@@ -9182,6 +10260,8 @@ if pending then
   MyBissData.ItemSources[40562] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40562]],
@@ -9199,6 +10279,8 @@ if pending then
   MyBissData.ItemSources[40563] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40563]],
@@ -9216,6 +10298,8 @@ if pending then
   MyBissData.ItemSources[40564] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40564]],
@@ -9233,6 +10317,8 @@ if pending then
   MyBissData.ItemSources[40565] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40565]],
@@ -9250,6 +10336,8 @@ if pending then
   MyBissData.ItemSources[40566] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40566]],
@@ -9267,6 +10355,8 @@ if pending then
   MyBissData.ItemSources[40567] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40567]],
@@ -9284,6 +10374,8 @@ if pending then
   MyBissData.ItemSources[40568] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40568]],
@@ -9301,6 +10393,8 @@ if pending then
   MyBissData.ItemSources[40569] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40569]],
@@ -9318,6 +10412,8 @@ if pending then
   MyBissData.ItemSources[40570] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40570]],
@@ -9335,6 +10431,8 @@ if pending then
   MyBissData.ItemSources[40571] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40571]],
@@ -9352,6 +10450,8 @@ if pending then
   MyBissData.ItemSources[40572] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40572]],
@@ -9369,6 +10469,8 @@ if pending then
   MyBissData.ItemSources[40573] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40573]],
@@ -9386,6 +10488,8 @@ if pending then
   MyBissData.ItemSources[40574] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40574]],
@@ -9403,6 +10507,8 @@ if pending then
   MyBissData.ItemSources[40575] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40575]],
@@ -9420,6 +10526,8 @@ if pending then
   MyBissData.ItemSources[40576] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40576]],
@@ -9437,6 +10545,8 @@ if pending then
   MyBissData.ItemSources[40577] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40577]],
@@ -9454,6 +10564,8 @@ if pending then
   MyBissData.ItemSources[40578] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40578]],
@@ -9471,6 +10583,8 @@ if pending then
   MyBissData.ItemSources[40579] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40579]],
@@ -9488,6 +10602,8 @@ if pending then
   MyBissData.ItemSources[40580] = {
     instance = [[The Obsidian Sanctum / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Sartharion / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: The Obsidian Sanctum (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40580]],
@@ -9505,6 +10621,8 @@ if pending then
   MyBissData.ItemSources[40581] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Kel'Thuzad / Griselda Hunderland]],
+    origin = [[Kel'Thuzad / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40581]],
@@ -9522,6 +10640,8 @@ if pending then
   MyBissData.ItemSources[40583] = {
     instance = [[Naxxramas / Vault of Archavon / Naxxramas tier (T7)]],
     boss = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    origin = [[Thaddius / Archavon the Stone Watcher / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Vault of Archavon (Vendor); Naxxramas tier (T7) (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40583]],
@@ -9539,6 +10659,8 @@ if pending then
   MyBissData.ItemSources[40584] = {
     instance = [[Naxxramas / Naxxramas tier (T7)]],
     boss = [[Loatheb / Griselda Hunderland]],
+    origin = [[Loatheb / Griselda Hunderland]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Naxxramas (Raid, fase 1); Naxxramas tier (T7) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40584]],
@@ -9556,6 +10678,8 @@ if pending then
   MyBissData.ItemSources[40585] = {
     instance = [[Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Kirin Tor rings (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40585]],
@@ -9573,6 +10697,8 @@ if pending then
   MyBissData.ItemSources[40586] = {
     instance = [[Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Kirin Tor rings (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40586]],
@@ -9590,6 +10716,8 @@ if pending then
   MyBissData.ItemSources[40588] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40588]],
@@ -9607,6 +10735,8 @@ if pending then
   MyBissData.ItemSources[40589] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40589]],
@@ -9624,6 +10754,8 @@ if pending then
   MyBissData.ItemSources[40590] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40590]],
@@ -9641,6 +10773,8 @@ if pending then
   MyBissData.ItemSources[40591] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40591]],
@@ -9658,6 +10792,8 @@ if pending then
   MyBissData.ItemSources[40592] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40592]],
@@ -9675,6 +10811,8 @@ if pending then
   MyBissData.ItemSources[40594] = {
     instance = [[The Eye of Eternity]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Eye of Eternity (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40594]],
@@ -9692,6 +10830,8 @@ if pending then
   MyBissData.ItemSources[40602] = {
     instance = [[Naxxramas]],
     boss = [[Noth the Plaguebringer]],
+    origin = [[Noth the Plaguebringer]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Naxxramas (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40602]],
@@ -9709,6 +10849,8 @@ if pending then
   MyBissData.ItemSources[40678] = {
     instance = [[Emblem of Heroism / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40678]],
@@ -9726,6 +10868,8 @@ if pending then
   MyBissData.ItemSources[40679] = {
     instance = [[Emblem of Heroism / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40679]],
@@ -9743,6 +10887,8 @@ if pending then
   MyBissData.ItemSources[40680] = {
     instance = [[Emblem of Heroism / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40680]],
@@ -9760,6 +10906,8 @@ if pending then
   MyBissData.ItemSources[40682] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40682]],
@@ -9777,6 +10925,8 @@ if pending then
   MyBissData.ItemSources[40684] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40684]],
@@ -9794,6 +10944,8 @@ if pending then
   MyBissData.ItemSources[40685] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40685]],
@@ -9811,6 +10963,8 @@ if pending then
   MyBissData.ItemSources[40688] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40688]],
@@ -9828,6 +10982,8 @@ if pending then
   MyBissData.ItemSources[40689] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40689]],
@@ -9845,6 +11001,8 @@ if pending then
   MyBissData.ItemSources[40691] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40691]],
@@ -9862,6 +11020,8 @@ if pending then
   MyBissData.ItemSources[40692] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40692]],
@@ -9879,6 +11039,8 @@ if pending then
   MyBissData.ItemSources[40693] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40693]],
@@ -9896,6 +11058,8 @@ if pending then
   MyBissData.ItemSources[40694] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40694]],
@@ -9913,6 +11077,8 @@ if pending then
   MyBissData.ItemSources[40696] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40696]],
@@ -9930,6 +11096,8 @@ if pending then
   MyBissData.ItemSources[40697] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40697]],
@@ -9947,6 +11115,8 @@ if pending then
   MyBissData.ItemSources[40698] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40698]],
@@ -9964,6 +11134,8 @@ if pending then
   MyBissData.ItemSources[40699] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40699]],
@@ -9981,6 +11153,8 @@ if pending then
   MyBissData.ItemSources[40700] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40700]],
@@ -9998,6 +11172,8 @@ if pending then
   MyBissData.ItemSources[40701] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40701]],
@@ -10015,6 +11191,8 @@ if pending then
   MyBissData.ItemSources[40704] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40704]],
@@ -10032,6 +11210,8 @@ if pending then
   MyBissData.ItemSources[40705] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40705]],
@@ -10049,6 +11229,8 @@ if pending then
   MyBissData.ItemSources[40707] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40707]],
@@ -10066,6 +11248,8 @@ if pending then
   MyBissData.ItemSources[40708] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40708]],
@@ -10083,6 +11267,8 @@ if pending then
   MyBissData.ItemSources[40709] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40709]],
@@ -10100,6 +11286,8 @@ if pending then
   MyBissData.ItemSources[40712] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40712]],
@@ -10117,6 +11305,8 @@ if pending then
   MyBissData.ItemSources[40713] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40713]],
@@ -10134,6 +11324,8 @@ if pending then
   MyBissData.ItemSources[40714] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40714]],
@@ -10151,6 +11343,8 @@ if pending then
   MyBissData.ItemSources[40715] = {
     instance = [[Emblem of Heroism]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Heroism (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40715]],
@@ -10168,6 +11362,8 @@ if pending then
   MyBissData.ItemSources[40717] = {
     instance = [[Emblem of Valor / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40717]],
@@ -10185,6 +11381,8 @@ if pending then
   MyBissData.ItemSources[40718] = {
     instance = [[Emblem of Valor / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40718]],
@@ -10202,6 +11400,8 @@ if pending then
   MyBissData.ItemSources[40719] = {
     instance = [[Emblem of Valor / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40719]],
@@ -10219,6 +11419,8 @@ if pending then
   MyBissData.ItemSources[40720] = {
     instance = [[Emblem of Valor / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40720]],
@@ -10236,6 +11438,8 @@ if pending then
   MyBissData.ItemSources[40721] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40721]],
@@ -10253,6 +11457,8 @@ if pending then
   MyBissData.ItemSources[40722] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40722]],
@@ -10270,6 +11476,8 @@ if pending then
   MyBissData.ItemSources[40723] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40723]],
@@ -10287,6 +11495,8 @@ if pending then
   MyBissData.ItemSources[40724] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40724]],
@@ -10304,6 +11514,8 @@ if pending then
   MyBissData.ItemSources[40733] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40733]],
@@ -10321,6 +11533,8 @@ if pending then
   MyBissData.ItemSources[40734] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40734]],
@@ -10338,6 +11552,8 @@ if pending then
   MyBissData.ItemSources[40736] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40736]],
@@ -10355,6 +11571,8 @@ if pending then
   MyBissData.ItemSources[40738] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40738]],
@@ -10372,6 +11590,8 @@ if pending then
   MyBissData.ItemSources[40740] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40740]],
@@ -10389,6 +11609,8 @@ if pending then
   MyBissData.ItemSources[40741] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40741]],
@@ -10406,6 +11628,8 @@ if pending then
   MyBissData.ItemSources[40742] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40742]],
@@ -10423,6 +11647,8 @@ if pending then
   MyBissData.ItemSources[40743] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40743]],
@@ -10440,6 +11666,8 @@ if pending then
   MyBissData.ItemSources[40746] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40746]],
@@ -10457,6 +11685,8 @@ if pending then
   MyBissData.ItemSources[40748] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40748]],
@@ -10474,6 +11704,8 @@ if pending then
   MyBissData.ItemSources[40750] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40750]],
@@ -10491,6 +11723,8 @@ if pending then
   MyBissData.ItemSources[40751] = {
     instance = [[Emblem of Valor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Valor (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40751]],
@@ -10508,6 +11742,8 @@ if pending then
   MyBissData.ItemSources[40767] = {
     instance = [[Engineering]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Engineering (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40767]],
@@ -10525,6 +11761,8 @@ if pending then
   MyBissData.ItemSources[40822] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40822]],
@@ -10542,6 +11780,8 @@ if pending then
   MyBissData.ItemSources[40867] = {
     instance = [[Venture Coin]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Venture Coin (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=40867]],
@@ -10559,6 +11799,8 @@ if pending then
   MyBissData.ItemSources[41168] = {
     instance = [[Engineering]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Engineering (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41168]],
@@ -10576,6 +11818,8 @@ if pending then
   MyBissData.ItemSources[41355] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41355]],
@@ -10593,6 +11837,8 @@ if pending then
   MyBissData.ItemSources[41383] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41383]],
@@ -10610,6 +11856,8 @@ if pending then
   MyBissData.ItemSources[41386] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41386]],
@@ -10627,6 +11875,8 @@ if pending then
   MyBissData.ItemSources[41387] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41387]],
@@ -10644,6 +11894,8 @@ if pending then
   MyBissData.ItemSources[41610] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41610]],
@@ -10661,6 +11913,8 @@ if pending then
   MyBissData.ItemSources[41827] = {
     instance = [[Honor Points]],
     boss = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    origin = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41827]],
@@ -10678,6 +11932,8 @@ if pending then
   MyBissData.ItemSources[41828] = {
     instance = [[Honor Points]],
     boss = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    origin = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41828]],
@@ -10695,6 +11951,8 @@ if pending then
   MyBissData.ItemSources[41830] = {
     instance = [[Honor Points]],
     boss = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    origin = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=41830]],
@@ -10712,6 +11970,8 @@ if pending then
   MyBissData.ItemSources[42057] = {
     instance = [[Honor Points]],
     boss = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    origin = [[Captain Dirgehammer / Sergeant Thunderhorn]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42057]],
@@ -10729,6 +11989,8 @@ if pending then
   MyBissData.ItemSources[42102] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42102]],
@@ -10746,6 +12008,8 @@ if pending then
   MyBissData.ItemSources[42113] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42113]],
@@ -10763,6 +12027,8 @@ if pending then
   MyBissData.ItemSources[42208] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42208]],
@@ -10780,6 +12046,8 @@ if pending then
   MyBissData.ItemSources[42248] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42248]],
@@ -10797,6 +12065,8 @@ if pending then
   MyBissData.ItemSources[42285] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42285]],
@@ -10814,6 +12084,8 @@ if pending then
   MyBissData.ItemSources[42317] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42317]],
@@ -10831,6 +12103,8 @@ if pending then
   MyBissData.ItemSources[42322] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42322]],
@@ -10848,6 +12122,8 @@ if pending then
   MyBissData.ItemSources[42341] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42341]],
@@ -10865,6 +12141,8 @@ if pending then
   MyBissData.ItemSources[42346] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42346]],
@@ -10882,6 +12160,8 @@ if pending then
   MyBissData.ItemSources[42395] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42395]],
@@ -10899,6 +12179,8 @@ if pending then
   MyBissData.ItemSources[42413] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42413]],
@@ -10916,6 +12198,8 @@ if pending then
   MyBissData.ItemSources[42485] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42485]],
@@ -10933,6 +12217,8 @@ if pending then
   MyBissData.ItemSources[42508] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42508]],
@@ -10950,6 +12236,8 @@ if pending then
   MyBissData.ItemSources[42549] = {
     instance = [[Engineering]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Engineering (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42549]],
@@ -10967,6 +12255,8 @@ if pending then
   MyBissData.ItemSources[42550] = {
     instance = [[Engineering]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Engineering (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42550]],
@@ -10984,6 +12274,8 @@ if pending then
   MyBissData.ItemSources[42564] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42564]],
@@ -11001,6 +12293,8 @@ if pending then
   MyBissData.ItemSources[42607] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42607]],
@@ -11018,6 +12312,8 @@ if pending then
   MyBissData.ItemSources[42608] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42608]],
@@ -11035,6 +12331,8 @@ if pending then
   MyBissData.ItemSources[42620] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42620]],
@@ -11052,6 +12350,8 @@ if pending then
   MyBissData.ItemSources[42643] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42643]],
@@ -11069,6 +12369,8 @@ if pending then
   MyBissData.ItemSources[42645] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42645]],
@@ -11086,6 +12388,8 @@ if pending then
   MyBissData.ItemSources[42646] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42646]],
@@ -11103,6 +12407,8 @@ if pending then
   MyBissData.ItemSources[42852] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42852]],
@@ -11120,6 +12426,8 @@ if pending then
   MyBissData.ItemSources[42853] = {
     instance = [[Honor Points / Arena Points]],
     boss = [[Nargle Lashcord]],
+    origin = [[Nargle Lashcord]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Honor Points (PvP, fase 1); Arena Points (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42853]],
@@ -11137,6 +12445,8 @@ if pending then
   MyBissData.ItemSources[42987] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42987]],
@@ -11154,6 +12464,8 @@ if pending then
   MyBissData.ItemSources[42988] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=42988]],
@@ -11171,6 +12483,8 @@ if pending then
   MyBissData.ItemSources[43085] = {
     instance = [[The Culling of Stratholme]],
     boss = [[Dark Runed Chest]],
+    origin = [[Dark Runed Chest]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Culling of Stratholme (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43085]],
@@ -11188,6 +12502,8 @@ if pending then
   MyBissData.ItemSources[43131] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43131]],
@@ -11205,6 +12521,8 @@ if pending then
   MyBissData.ItemSources[43251] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43251]],
@@ -11222,6 +12540,8 @@ if pending then
   MyBissData.ItemSources[43253] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43253]],
@@ -11239,6 +12559,8 @@ if pending then
   MyBissData.ItemSources[43401] = {
     instance = [[The Violet Hold]],
     boss = [[Ichoron]],
+    origin = [[Ichoron]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Violet Hold (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43401]],
@@ -11256,6 +12578,8 @@ if pending then
   MyBissData.ItemSources[43406] = {
     instance = [[The Violet Hold]],
     boss = [[Erekem]],
+    origin = [[Erekem]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Violet Hold (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43406]],
@@ -11273,6 +12597,8 @@ if pending then
   MyBissData.ItemSources[43481] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43481]],
@@ -11290,6 +12616,8 @@ if pending then
   MyBissData.ItemSources[43484] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43484]],
@@ -11307,6 +12635,8 @@ if pending then
   MyBissData.ItemSources[43500] = {
     instance = [[The Violet Hold]],
     boss = [[Cyanigosa]],
+    origin = [[Cyanigosa]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: The Violet Hold (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43500]],
@@ -11324,6 +12654,8 @@ if pending then
   MyBissData.ItemSources[43565] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43565]],
@@ -11341,6 +12673,8 @@ if pending then
   MyBissData.ItemSources[43582] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43582]],
@@ -11358,6 +12692,8 @@ if pending then
   MyBissData.ItemSources[43590] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43590]],
@@ -11375,6 +12711,8 @@ if pending then
   MyBissData.ItemSources[43591] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43591]],
@@ -11392,6 +12730,8 @@ if pending then
   MyBissData.ItemSources[43592] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43592]],
@@ -11409,6 +12749,8 @@ if pending then
   MyBissData.ItemSources[43988] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43988]],
@@ -11426,6 +12768,8 @@ if pending then
   MyBissData.ItemSources[43990] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43990]],
@@ -11443,6 +12787,8 @@ if pending then
   MyBissData.ItemSources[43993] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43993]],
@@ -11460,6 +12806,8 @@ if pending then
   MyBissData.ItemSources[43994] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43994]],
@@ -11477,6 +12825,8 @@ if pending then
   MyBissData.ItemSources[43995] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43995]],
@@ -11494,6 +12844,8 @@ if pending then
   MyBissData.ItemSources[43996] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43996]],
@@ -11511,6 +12863,8 @@ if pending then
   MyBissData.ItemSources[43998] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=43998]],
@@ -11528,6 +12882,8 @@ if pending then
   MyBissData.ItemSources[44000] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44000]],
@@ -11545,6 +12901,8 @@ if pending then
   MyBissData.ItemSources[44002] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44002]],
@@ -11562,6 +12920,8 @@ if pending then
   MyBissData.ItemSources[44003] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44003]],
@@ -11579,6 +12939,8 @@ if pending then
   MyBissData.ItemSources[44004] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44004]],
@@ -11596,6 +12958,8 @@ if pending then
   MyBissData.ItemSources[44005] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44005]],
@@ -11613,6 +12977,8 @@ if pending then
   MyBissData.ItemSources[44006] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44006]],
@@ -11630,6 +12996,8 @@ if pending then
   MyBissData.ItemSources[44007] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44007]],
@@ -11647,6 +13015,8 @@ if pending then
   MyBissData.ItemSources[44008] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44008]],
@@ -11664,6 +13034,8 @@ if pending then
   MyBissData.ItemSources[44011] = {
     instance = [[The Obsidian Sanctum]],
     boss = [[Sartharion]],
+    origin = [[Sartharion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Obsidian Sanctum (Raid, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44011]],
@@ -11681,6 +13053,8 @@ if pending then
   MyBissData.ItemSources[44063] = {
     instance = [[Jewelcrafting]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Jewelcrafting (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44063]],
@@ -11698,6 +13072,8 @@ if pending then
   MyBissData.ItemSources[44166] = {
     instance = [[Kirin Tor]],
     boss = [[Honored]],
+    origin = [[Honored]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Kirin Tor (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44166]],
@@ -11715,6 +13091,8 @@ if pending then
   MyBissData.ItemSources[44180] = {
     instance = [[Kirin Tor]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Kirin Tor (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44180]],
@@ -11732,6 +13110,8 @@ if pending then
   MyBissData.ItemSources[44183] = {
     instance = [[Kirin Tor]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Kirin Tor (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44183]],
@@ -11749,6 +13129,8 @@ if pending then
   MyBissData.ItemSources[44198] = {
     instance = [[The Wyrmrest Accord]],
     boss = [[Revered]],
+    origin = [[Revered]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: The Wyrmrest Accord (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44198]],
@@ -11766,6 +13148,8 @@ if pending then
   MyBissData.ItemSources[44201] = {
     instance = [[The Wyrmrest Accord]],
     boss = [[Revered]],
+    origin = [[Revered]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: The Wyrmrest Accord (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44201]],
@@ -11783,6 +13167,8 @@ if pending then
   MyBissData.ItemSources[44202] = {
     instance = [[The Wyrmrest Accord]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: The Wyrmrest Accord (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44202]],
@@ -11800,6 +13186,8 @@ if pending then
   MyBissData.ItemSources[44203] = {
     instance = [[The Wyrmrest Accord]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: The Wyrmrest Accord (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44203]],
@@ -11817,6 +13205,8 @@ if pending then
   MyBissData.ItemSources[44210] = {
     instance = [[Inscription]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Inscription (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44210]],
@@ -11834,6 +13224,8 @@ if pending then
   MyBissData.ItemSources[44243] = {
     instance = [[Knights of the Ebon Blade]],
     boss = [[Honored]],
+    origin = [[Honored]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Knights of the Ebon Blade (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44243]],
@@ -11851,6 +13243,8 @@ if pending then
   MyBissData.ItemSources[44253] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44253]],
@@ -11868,6 +13262,8 @@ if pending then
   MyBissData.ItemSources[44255] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44255]],
@@ -11885,6 +13281,8 @@ if pending then
   MyBissData.ItemSources[44283] = {
     instance = [[Argent Crusade]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Argent Crusade (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44283]],
@@ -11902,6 +13300,8 @@ if pending then
   MyBissData.ItemSources[44297] = {
     instance = [[Argent Crusade]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Argent Crusade (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44297]],
@@ -11919,6 +13319,8 @@ if pending then
   MyBissData.ItemSources[44302] = {
     instance = [[Knights of the Ebon Blade]],
     boss = [[Exalted]],
+    origin = [[Exalted]],
+    sourceType = [[Reputation]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Reputation. Orígenes: Knights of the Ebon Blade (Reputation, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44302]],
@@ -11936,6 +13338,8 @@ if pending then
   MyBissData.ItemSources[44311] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44311]],
@@ -11953,6 +13357,8 @@ if pending then
   MyBissData.ItemSources[44312] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44312]],
@@ -11970,6 +13376,8 @@ if pending then
   MyBissData.ItemSources[44322] = {
     instance = [[Alchemy]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Alchemy (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44322]],
@@ -11987,6 +13395,8 @@ if pending then
   MyBissData.ItemSources[44323] = {
     instance = [[Alchemy]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Alchemy (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44323]],
@@ -12004,6 +13414,8 @@ if pending then
   MyBissData.ItemSources[44657] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44657]],
@@ -12021,6 +13433,8 @@ if pending then
   MyBissData.ItemSources[44658] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44658]],
@@ -12038,6 +13452,8 @@ if pending then
   MyBissData.ItemSources[44659] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44659]],
@@ -12055,6 +13471,8 @@ if pending then
   MyBissData.ItemSources[44660] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44660]],
@@ -12072,6 +13490,8 @@ if pending then
   MyBissData.ItemSources[44661] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44661]],
@@ -12089,6 +13509,8 @@ if pending then
   MyBissData.ItemSources[44662] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44662]],
@@ -12106,6 +13528,8 @@ if pending then
   MyBissData.ItemSources[44664] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44664]],
@@ -12123,6 +13547,8 @@ if pending then
   MyBissData.ItemSources[44665] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44665]],
@@ -12140,6 +13566,8 @@ if pending then
   MyBissData.ItemSources[44893] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44893]],
@@ -12157,6 +13585,8 @@ if pending then
   MyBissData.ItemSources[44896] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44896]],
@@ -12174,6 +13604,8 @@ if pending then
   MyBissData.ItemSources[44899] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44899]],
@@ -12191,6 +13623,8 @@ if pending then
   MyBissData.ItemSources[44903] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44903]],
@@ -12208,6 +13642,8 @@ if pending then
   MyBissData.ItemSources[44904] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44904]],
@@ -12225,6 +13661,8 @@ if pending then
   MyBissData.ItemSources[44908] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44908]],
@@ -12242,6 +13680,8 @@ if pending then
   MyBissData.ItemSources[44910] = {
     instance = [[Wintergrasp Mark of Honor]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: PvP. Orígenes: Wintergrasp Mark of Honor (PvP, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44910]],
@@ -12259,6 +13699,8 @@ if pending then
   MyBissData.ItemSources[44935] = {
     instance = [[Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Kirin Tor rings (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=44935]],
@@ -12276,6 +13718,8 @@ if pending then
   MyBissData.ItemSources[45085] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45085]],
@@ -12293,6 +13737,8 @@ if pending then
   MyBissData.ItemSources[45086] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45086]],
@@ -12310,6 +13756,8 @@ if pending then
   MyBissData.ItemSources[45106] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45106]],
@@ -12327,6 +13775,8 @@ if pending then
   MyBissData.ItemSources[45107] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45107]],
@@ -12344,6 +13794,8 @@ if pending then
   MyBissData.ItemSources[45108] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45108]],
@@ -12361,6 +13813,8 @@ if pending then
   MyBissData.ItemSources[45109] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45109]],
@@ -12378,6 +13832,8 @@ if pending then
   MyBissData.ItemSources[45110] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45110]],
@@ -12395,6 +13851,8 @@ if pending then
   MyBissData.ItemSources[45111] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45111]],
@@ -12412,6 +13870,8 @@ if pending then
   MyBissData.ItemSources[45112] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45112]],
@@ -12429,6 +13889,8 @@ if pending then
   MyBissData.ItemSources[45114] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45114]],
@@ -12446,6 +13908,8 @@ if pending then
   MyBissData.ItemSources[45115] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45115]],
@@ -12463,6 +13927,8 @@ if pending then
   MyBissData.ItemSources[45116] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45116]],
@@ -12480,6 +13946,8 @@ if pending then
   MyBissData.ItemSources[45118] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45118]],
@@ -12497,6 +13965,8 @@ if pending then
   MyBissData.ItemSources[45119] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45119]],
@@ -12514,6 +13984,8 @@ if pending then
   MyBissData.ItemSources[45132] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45132]],
@@ -12531,6 +14003,8 @@ if pending then
   MyBissData.ItemSources[45133] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45133]],
@@ -12548,6 +14022,8 @@ if pending then
   MyBissData.ItemSources[45134] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45134]],
@@ -12565,6 +14041,8 @@ if pending then
   MyBissData.ItemSources[45135] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45135]],
@@ -12582,6 +14060,8 @@ if pending then
   MyBissData.ItemSources[45136] = {
     instance = [[Ulduar]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45136]],
@@ -12599,6 +14079,8 @@ if pending then
   MyBissData.ItemSources[45137] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45137]],
@@ -12616,6 +14098,8 @@ if pending then
   MyBissData.ItemSources[45138] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45138]],
@@ -12633,6 +14117,8 @@ if pending then
   MyBissData.ItemSources[45139] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45139]],
@@ -12650,6 +14136,8 @@ if pending then
   MyBissData.ItemSources[45140] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45140]],
@@ -12667,6 +14155,8 @@ if pending then
   MyBissData.ItemSources[45141] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45141]],
@@ -12684,6 +14174,8 @@ if pending then
   MyBissData.ItemSources[45142] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45142]],
@@ -12701,6 +14193,8 @@ if pending then
   MyBissData.ItemSources[45143] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45143]],
@@ -12718,6 +14212,8 @@ if pending then
   MyBissData.ItemSources[45144] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45144]],
@@ -12735,6 +14231,8 @@ if pending then
   MyBissData.ItemSources[45145] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45145]],
@@ -12752,6 +14250,8 @@ if pending then
   MyBissData.ItemSources[45146] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45146]],
@@ -12769,6 +14269,8 @@ if pending then
   MyBissData.ItemSources[45147] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45147]],
@@ -12786,6 +14288,8 @@ if pending then
   MyBissData.ItemSources[45148] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45148]],
@@ -12803,6 +14307,8 @@ if pending then
   MyBissData.ItemSources[45149] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45149]],
@@ -12820,6 +14326,8 @@ if pending then
   MyBissData.ItemSources[45150] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45150]],
@@ -12837,6 +14345,8 @@ if pending then
   MyBissData.ItemSources[45151] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45151]],
@@ -12854,6 +14364,8 @@ if pending then
   MyBissData.ItemSources[45157] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45157]],
@@ -12871,6 +14383,8 @@ if pending then
   MyBissData.ItemSources[45158] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45158]],
@@ -12888,6 +14402,8 @@ if pending then
   MyBissData.ItemSources[45161] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45161]],
@@ -12905,6 +14421,8 @@ if pending then
   MyBissData.ItemSources[45162] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45162]],
@@ -12922,6 +14440,8 @@ if pending then
   MyBissData.ItemSources[45164] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45164]],
@@ -12939,6 +14459,8 @@ if pending then
   MyBissData.ItemSources[45165] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45165]],
@@ -12956,6 +14478,8 @@ if pending then
   MyBissData.ItemSources[45166] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45166]],
@@ -12973,6 +14497,8 @@ if pending then
   MyBissData.ItemSources[45168] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45168]],
@@ -12990,6 +14516,8 @@ if pending then
   MyBissData.ItemSources[45169] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45169]],
@@ -13007,6 +14535,8 @@ if pending then
   MyBissData.ItemSources[45170] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45170]],
@@ -13024,6 +14554,8 @@ if pending then
   MyBissData.ItemSources[45171] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45171]],
@@ -13041,6 +14573,8 @@ if pending then
   MyBissData.ItemSources[45186] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45186]],
@@ -13058,6 +14592,8 @@ if pending then
   MyBissData.ItemSources[45187] = {
     instance = [[Ulduar]],
     boss = [[Ignis the Furnace Master]],
+    origin = [[Ignis the Furnace Master]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45187]],
@@ -13075,6 +14611,8 @@ if pending then
   MyBissData.ItemSources[45193] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45193]],
@@ -13092,6 +14630,8 @@ if pending then
   MyBissData.ItemSources[45224] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45224]],
@@ -13109,6 +14649,8 @@ if pending then
   MyBissData.ItemSources[45225] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45225]],
@@ -13126,6 +14668,8 @@ if pending then
   MyBissData.ItemSources[45226] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45226]],
@@ -13143,6 +14687,8 @@ if pending then
   MyBissData.ItemSources[45227] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45227]],
@@ -13160,6 +14706,8 @@ if pending then
   MyBissData.ItemSources[45228] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45228]],
@@ -13177,6 +14725,8 @@ if pending then
   MyBissData.ItemSources[45232] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45232]],
@@ -13194,6 +14744,8 @@ if pending then
   MyBissData.ItemSources[45233] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45233]],
@@ -13211,6 +14763,8 @@ if pending then
   MyBissData.ItemSources[45235] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45235]],
@@ -13228,6 +14782,8 @@ if pending then
   MyBissData.ItemSources[45238] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45238]],
@@ -13245,6 +14801,8 @@ if pending then
   MyBissData.ItemSources[45239] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45239]],
@@ -13262,6 +14820,8 @@ if pending then
   MyBissData.ItemSources[45240] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45240]],
@@ -13279,6 +14839,8 @@ if pending then
   MyBissData.ItemSources[45241] = {
     instance = [[Ulduar]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45241]],
@@ -13296,6 +14858,8 @@ if pending then
   MyBissData.ItemSources[45242] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45242]],
@@ -13313,6 +14877,8 @@ if pending then
   MyBissData.ItemSources[45243] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45243]],
@@ -13330,6 +14896,8 @@ if pending then
   MyBissData.ItemSources[45244] = {
     instance = [[Ulduar]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45244]],
@@ -13347,6 +14915,8 @@ if pending then
   MyBissData.ItemSources[45245] = {
     instance = [[Ulduar]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45245]],
@@ -13364,6 +14934,8 @@ if pending then
   MyBissData.ItemSources[45246] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45246]],
@@ -13381,6 +14953,8 @@ if pending then
   MyBissData.ItemSources[45247] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45247]],
@@ -13398,6 +14972,8 @@ if pending then
   MyBissData.ItemSources[45248] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45248]],
@@ -13415,6 +14991,8 @@ if pending then
   MyBissData.ItemSources[45249] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45249]],
@@ -13432,6 +15010,8 @@ if pending then
   MyBissData.ItemSources[45250] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45250]],
@@ -13449,6 +15029,8 @@ if pending then
   MyBissData.ItemSources[45251] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45251]],
@@ -13466,6 +15048,8 @@ if pending then
   MyBissData.ItemSources[45253] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45253]],
@@ -13483,6 +15067,8 @@ if pending then
   MyBissData.ItemSources[45254] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45254]],
@@ -13500,6 +15086,8 @@ if pending then
   MyBissData.ItemSources[45255] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45255]],
@@ -13517,6 +15105,8 @@ if pending then
   MyBissData.ItemSources[45256] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45256]],
@@ -13534,6 +15124,8 @@ if pending then
   MyBissData.ItemSources[45257] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45257]],
@@ -13551,6 +15143,8 @@ if pending then
   MyBissData.ItemSources[45258] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45258]],
@@ -13568,6 +15162,8 @@ if pending then
   MyBissData.ItemSources[45259] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45259]],
@@ -13585,6 +15181,8 @@ if pending then
   MyBissData.ItemSources[45261] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45261]],
@@ -13602,6 +15200,8 @@ if pending then
   MyBissData.ItemSources[45262] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45262]],
@@ -13619,6 +15219,8 @@ if pending then
   MyBissData.ItemSources[45263] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45263]],
@@ -13636,6 +15238,8 @@ if pending then
   MyBissData.ItemSources[45264] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45264]],
@@ -13653,6 +15257,8 @@ if pending then
   MyBissData.ItemSources[45265] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45265]],
@@ -13670,6 +15276,8 @@ if pending then
   MyBissData.ItemSources[45266] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45266]],
@@ -13687,6 +15295,8 @@ if pending then
   MyBissData.ItemSources[45269] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45269]],
@@ -13704,6 +15314,8 @@ if pending then
   MyBissData.ItemSources[45270] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45270]],
@@ -13721,6 +15333,8 @@ if pending then
   MyBissData.ItemSources[45271] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45271]],
@@ -13738,6 +15352,8 @@ if pending then
   MyBissData.ItemSources[45272] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45272]],
@@ -13755,6 +15371,8 @@ if pending then
   MyBissData.ItemSources[45273] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45273]],
@@ -13772,6 +15390,8 @@ if pending then
   MyBissData.ItemSources[45274] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45274]],
@@ -13789,6 +15409,8 @@ if pending then
   MyBissData.ItemSources[45275] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45275]],
@@ -13806,6 +15428,8 @@ if pending then
   MyBissData.ItemSources[45283] = {
     instance = [[Ulduar]],
     boss = [[Leviathan]],
+    origin = [[Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45283]],
@@ -13823,6 +15447,8 @@ if pending then
   MyBissData.ItemSources[45285] = {
     instance = [[Ulduar]],
     boss = [[Leviathan]],
+    origin = [[Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45285]],
@@ -13840,6 +15466,8 @@ if pending then
   MyBissData.ItemSources[45286] = {
     instance = [[Ulduar]],
     boss = [[Leviathan]],
+    origin = [[Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45286]],
@@ -13857,6 +15485,8 @@ if pending then
   MyBissData.ItemSources[45288] = {
     instance = [[Ulduar]],
     boss = [[Leviathan]],
+    origin = [[Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45288]],
@@ -13874,6 +15504,8 @@ if pending then
   MyBissData.ItemSources[45289] = {
     instance = [[Ulduar]],
     boss = [[Leviathan]],
+    origin = [[Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45289]],
@@ -13891,6 +15523,8 @@ if pending then
   MyBissData.ItemSources[45291] = {
     instance = [[Ulduar]],
     boss = [[Leviathan]],
+    origin = [[Leviathan]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45291]],
@@ -13908,6 +15542,8 @@ if pending then
   MyBissData.ItemSources[45294] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45294]],
@@ -13925,6 +15561,8 @@ if pending then
   MyBissData.ItemSources[45295] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45295]],
@@ -13942,6 +15580,8 @@ if pending then
   MyBissData.ItemSources[45296] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45296]],
@@ -13959,6 +15599,8 @@ if pending then
   MyBissData.ItemSources[45297] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45297]],
@@ -13976,6 +15618,8 @@ if pending then
   MyBissData.ItemSources[45298] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45298]],
@@ -13993,6 +15637,8 @@ if pending then
   MyBissData.ItemSources[45299] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45299]],
@@ -14010,6 +15656,8 @@ if pending then
   MyBissData.ItemSources[45300] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Flame Leviathan]],
+    origin = [[Flame Leviathan]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45300]],
@@ -14027,6 +15675,8 @@ if pending then
   MyBissData.ItemSources[45301] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45301]],
@@ -14044,6 +15694,8 @@ if pending then
   MyBissData.ItemSources[45302] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45302]],
@@ -14061,6 +15713,8 @@ if pending then
   MyBissData.ItemSources[45304] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45304]],
@@ -14078,6 +15732,8 @@ if pending then
   MyBissData.ItemSources[45308] = {
     instance = [[Ulduar]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45308]],
@@ -14095,6 +15751,8 @@ if pending then
   MyBissData.ItemSources[45309] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45309]],
@@ -14112,6 +15770,8 @@ if pending then
   MyBissData.ItemSources[45310] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45310]],
@@ -14129,6 +15789,8 @@ if pending then
   MyBissData.ItemSources[45312] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45312]],
@@ -14146,6 +15808,8 @@ if pending then
   MyBissData.ItemSources[45314] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45314]],
@@ -14163,6 +15827,8 @@ if pending then
   MyBissData.ItemSources[45315] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45315]],
@@ -14180,6 +15846,8 @@ if pending then
   MyBissData.ItemSources[45316] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45316]],
@@ -14197,6 +15865,8 @@ if pending then
   MyBissData.ItemSources[45317] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45317]],
@@ -14214,6 +15884,8 @@ if pending then
   MyBissData.ItemSources[45318] = {
     instance = [[Ulduar]],
     boss = [[Ignis]],
+    origin = [[Ignis]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45318]],
@@ -14231,6 +15903,8 @@ if pending then
   MyBissData.ItemSources[45319] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45319]],
@@ -14248,6 +15922,8 @@ if pending then
   MyBissData.ItemSources[45320] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45320]],
@@ -14265,6 +15941,8 @@ if pending then
   MyBissData.ItemSources[45322] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45322]],
@@ -14282,6 +15960,8 @@ if pending then
   MyBissData.ItemSources[45324] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45324]],
@@ -14299,6 +15979,8 @@ if pending then
   MyBissData.ItemSources[45325] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45325]],
@@ -14316,6 +15998,8 @@ if pending then
   MyBissData.ItemSources[45326] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45326]],
@@ -14333,6 +16017,8 @@ if pending then
   MyBissData.ItemSources[45327] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45327]],
@@ -14350,6 +16036,8 @@ if pending then
   MyBissData.ItemSources[45329] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45329]],
@@ -14367,6 +16055,8 @@ if pending then
   MyBissData.ItemSources[45330] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45330]],
@@ -14384,6 +16074,8 @@ if pending then
   MyBissData.ItemSources[45331] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45331]],
@@ -14401,6 +16093,8 @@ if pending then
   MyBissData.ItemSources[45333] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45333]],
@@ -14418,6 +16112,8 @@ if pending then
   MyBissData.ItemSources[45334] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45334]],
@@ -14435,6 +16131,8 @@ if pending then
   MyBissData.ItemSources[45335] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45335]],
@@ -14452,6 +16150,8 @@ if pending then
   MyBissData.ItemSources[45336] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45336]],
@@ -14469,6 +16169,8 @@ if pending then
   MyBissData.ItemSources[45337] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45337]],
@@ -14486,6 +16188,8 @@ if pending then
   MyBissData.ItemSources[45338] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45338]],
@@ -14503,6 +16207,8 @@ if pending then
   MyBissData.ItemSources[45339] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45339]],
@@ -14520,6 +16226,8 @@ if pending then
   MyBissData.ItemSources[45340] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45340]],
@@ -14537,6 +16245,8 @@ if pending then
   MyBissData.ItemSources[45341] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45341]],
@@ -14554,6 +16264,8 @@ if pending then
   MyBissData.ItemSources[45343] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45343]],
@@ -14571,6 +16283,8 @@ if pending then
   MyBissData.ItemSources[45344] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45344]],
@@ -14588,6 +16302,8 @@ if pending then
   MyBissData.ItemSources[45346] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45346]],
@@ -14605,6 +16321,8 @@ if pending then
   MyBissData.ItemSources[45351] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45351]],
@@ -14622,6 +16340,8 @@ if pending then
   MyBissData.ItemSources[45353] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45353]],
@@ -14639,6 +16359,8 @@ if pending then
   MyBissData.ItemSources[45354] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45354]],
@@ -14656,6 +16378,8 @@ if pending then
   MyBissData.ItemSources[45355] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45355]],
@@ -14673,6 +16397,8 @@ if pending then
   MyBissData.ItemSources[45356] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45356]],
@@ -14690,6 +16416,8 @@ if pending then
   MyBissData.ItemSources[45357] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45357]],
@@ -14707,6 +16435,8 @@ if pending then
   MyBissData.ItemSources[45358] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45358]],
@@ -14724,6 +16454,8 @@ if pending then
   MyBissData.ItemSources[45359] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45359]],
@@ -14741,6 +16473,8 @@ if pending then
   MyBissData.ItemSources[45360] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45360]],
@@ -14758,6 +16492,8 @@ if pending then
   MyBissData.ItemSources[45361] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45361]],
@@ -14775,6 +16511,8 @@ if pending then
   MyBissData.ItemSources[45363] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45363]],
@@ -14792,6 +16530,8 @@ if pending then
   MyBissData.ItemSources[45364] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45364]],
@@ -14809,6 +16549,8 @@ if pending then
   MyBissData.ItemSources[45365] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45365]],
@@ -14826,6 +16568,8 @@ if pending then
   MyBissData.ItemSources[45367] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45367]],
@@ -14843,6 +16587,8 @@ if pending then
   MyBissData.ItemSources[45369] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45369]],
@@ -14860,6 +16606,8 @@ if pending then
   MyBissData.ItemSources[45371] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45371]],
@@ -14877,6 +16625,8 @@ if pending then
   MyBissData.ItemSources[45372] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45372]],
@@ -14894,6 +16644,8 @@ if pending then
   MyBissData.ItemSources[45373] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45373]],
@@ -14911,6 +16663,8 @@ if pending then
   MyBissData.ItemSources[45375] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45375]],
@@ -14928,6 +16682,8 @@ if pending then
   MyBissData.ItemSources[45378] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45378]],
@@ -14945,6 +16701,8 @@ if pending then
   MyBissData.ItemSources[45381] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45381]],
@@ -14962,6 +16720,8 @@ if pending then
   MyBissData.ItemSources[45382] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45382]],
@@ -14979,6 +16739,8 @@ if pending then
   MyBissData.ItemSources[45383] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45383]],
@@ -14996,6 +16758,8 @@ if pending then
   MyBissData.ItemSources[45384] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45384]],
@@ -15013,6 +16777,8 @@ if pending then
   MyBissData.ItemSources[45385] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45385]],
@@ -15030,6 +16796,8 @@ if pending then
   MyBissData.ItemSources[45386] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45386]],
@@ -15047,6 +16815,8 @@ if pending then
   MyBissData.ItemSources[45387] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45387]],
@@ -15064,6 +16834,8 @@ if pending then
   MyBissData.ItemSources[45388] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45388]],
@@ -15081,6 +16853,8 @@ if pending then
   MyBissData.ItemSources[45389] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45389]],
@@ -15098,6 +16872,8 @@ if pending then
   MyBissData.ItemSources[45390] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45390]],
@@ -15115,6 +16891,8 @@ if pending then
   MyBissData.ItemSources[45391] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45391]],
@@ -15132,6 +16910,8 @@ if pending then
   MyBissData.ItemSources[45395] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45395]],
@@ -15149,6 +16929,8 @@ if pending then
   MyBissData.ItemSources[45396] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45396]],
@@ -15166,6 +16948,8 @@ if pending then
   MyBissData.ItemSources[45397] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45397]],
@@ -15183,6 +16967,8 @@ if pending then
   MyBissData.ItemSources[45398] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45398]],
@@ -15200,6 +16986,8 @@ if pending then
   MyBissData.ItemSources[45399] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45399]],
@@ -15217,6 +17005,8 @@ if pending then
   MyBissData.ItemSources[45400] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45400]],
@@ -15234,6 +17024,8 @@ if pending then
   MyBissData.ItemSources[45402] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45402]],
@@ -15251,6 +17043,8 @@ if pending then
   MyBissData.ItemSources[45408] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45408]],
@@ -15268,6 +17062,8 @@ if pending then
   MyBissData.ItemSources[45409] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45409]],
@@ -15285,6 +17081,8 @@ if pending then
   MyBissData.ItemSources[45411] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45411]],
@@ -15302,6 +17100,8 @@ if pending then
   MyBissData.ItemSources[45412] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45412]],
@@ -15319,6 +17119,8 @@ if pending then
   MyBissData.ItemSources[45413] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45413]],
@@ -15336,6 +17138,8 @@ if pending then
   MyBissData.ItemSources[45416] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45416]],
@@ -15353,6 +17157,8 @@ if pending then
   MyBissData.ItemSources[45418] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45418]],
@@ -15370,6 +17176,8 @@ if pending then
   MyBissData.ItemSources[45419] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45419]],
@@ -15387,6 +17195,8 @@ if pending then
   MyBissData.ItemSources[45420] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45420]],
@@ -15404,6 +17214,8 @@ if pending then
   MyBissData.ItemSources[45421] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45421]],
@@ -15421,6 +17233,8 @@ if pending then
   MyBissData.ItemSources[45423] = {
     instance = [[Ulduar]],
     boss = [[Assembly]],
+    origin = [[Assembly]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45423]],
@@ -15438,6 +17252,8 @@ if pending then
   MyBissData.ItemSources[45424] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45424]],
@@ -15455,6 +17271,8 @@ if pending then
   MyBissData.ItemSources[45425] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45425]],
@@ -15472,6 +17290,8 @@ if pending then
   MyBissData.ItemSources[45426] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45426]],
@@ -15489,6 +17309,8 @@ if pending then
   MyBissData.ItemSources[45427] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45427]],
@@ -15506,6 +17328,8 @@ if pending then
   MyBissData.ItemSources[45428] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45428]],
@@ -15523,6 +17347,8 @@ if pending then
   MyBissData.ItemSources[45430] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45430]],
@@ -15540,6 +17366,8 @@ if pending then
   MyBissData.ItemSources[45432] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45432]],
@@ -15557,6 +17385,8 @@ if pending then
   MyBissData.ItemSources[45436] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45436]],
@@ -15574,6 +17404,8 @@ if pending then
   MyBissData.ItemSources[45437] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45437]],
@@ -15591,6 +17423,8 @@ if pending then
   MyBissData.ItemSources[45439] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45439]],
@@ -15608,6 +17442,8 @@ if pending then
   MyBissData.ItemSources[45440] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45440]],
@@ -15625,6 +17461,8 @@ if pending then
   MyBissData.ItemSources[45441] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45441]],
@@ -15642,6 +17480,8 @@ if pending then
   MyBissData.ItemSources[45442] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45442]],
@@ -15659,6 +17499,8 @@ if pending then
   MyBissData.ItemSources[45443] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45443]],
@@ -15676,6 +17518,8 @@ if pending then
   MyBissData.ItemSources[45444] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45444]],
@@ -15693,6 +17537,8 @@ if pending then
   MyBissData.ItemSources[45445] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45445]],
@@ -15710,6 +17556,8 @@ if pending then
   MyBissData.ItemSources[45446] = {
     instance = [[Ulduar]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45446]],
@@ -15727,6 +17575,8 @@ if pending then
   MyBissData.ItemSources[45447] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45447]],
@@ -15744,6 +17594,8 @@ if pending then
   MyBissData.ItemSources[45448] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45448]],
@@ -15761,6 +17613,8 @@ if pending then
   MyBissData.ItemSources[45449] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45449]],
@@ -15778,6 +17632,8 @@ if pending then
   MyBissData.ItemSources[45450] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45450]],
@@ -15795,6 +17651,8 @@ if pending then
   MyBissData.ItemSources[45451] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45451]],
@@ -15812,6 +17670,8 @@ if pending then
   MyBissData.ItemSources[45453] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45453]],
@@ -15829,6 +17689,8 @@ if pending then
   MyBissData.ItemSources[45454] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45454]],
@@ -15846,6 +17708,8 @@ if pending then
   MyBissData.ItemSources[45455] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45455]],
@@ -15863,6 +17727,8 @@ if pending then
   MyBissData.ItemSources[45456] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Steelbreaker]],
+    origin = [[Steelbreaker]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45456]],
@@ -15880,6 +17746,8 @@ if pending then
   MyBissData.ItemSources[45457] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45457]],
@@ -15897,6 +17765,8 @@ if pending then
   MyBissData.ItemSources[45458] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45458]],
@@ -15914,6 +17784,8 @@ if pending then
   MyBissData.ItemSources[45459] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45459]],
@@ -15931,6 +17803,8 @@ if pending then
   MyBissData.ItemSources[45460] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45460]],
@@ -15948,6 +17822,8 @@ if pending then
   MyBissData.ItemSources[45461] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45461]],
@@ -15965,6 +17841,8 @@ if pending then
   MyBissData.ItemSources[45462] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45462]],
@@ -15982,6 +17860,8 @@ if pending then
   MyBissData.ItemSources[45463] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45463]],
@@ -15999,6 +17879,8 @@ if pending then
   MyBissData.ItemSources[45464] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45464]],
@@ -16016,6 +17898,8 @@ if pending then
   MyBissData.ItemSources[45466] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45466]],
@@ -16033,6 +17917,8 @@ if pending then
   MyBissData.ItemSources[45467] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45467]],
@@ -16050,6 +17936,8 @@ if pending then
   MyBissData.ItemSources[45468] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45468]],
@@ -16067,6 +17955,8 @@ if pending then
   MyBissData.ItemSources[45469] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45469]],
@@ -16084,6 +17974,8 @@ if pending then
   MyBissData.ItemSources[45470] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45470]],
@@ -16101,6 +17993,8 @@ if pending then
   MyBissData.ItemSources[45471] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45471]],
@@ -16118,6 +18012,8 @@ if pending then
   MyBissData.ItemSources[45472] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45472]],
@@ -16135,6 +18031,8 @@ if pending then
   MyBissData.ItemSources[45473] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45473]],
@@ -16152,6 +18050,8 @@ if pending then
   MyBissData.ItemSources[45474] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45474]],
@@ -16169,6 +18069,8 @@ if pending then
   MyBissData.ItemSources[45479] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45479]],
@@ -16186,6 +18088,8 @@ if pending then
   MyBissData.ItemSources[45480] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45480]],
@@ -16203,6 +18107,8 @@ if pending then
   MyBissData.ItemSources[45481] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45481]],
@@ -16220,6 +18126,8 @@ if pending then
   MyBissData.ItemSources[45482] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45482]],
@@ -16237,6 +18145,8 @@ if pending then
   MyBissData.ItemSources[45483] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45483]],
@@ -16254,6 +18164,8 @@ if pending then
   MyBissData.ItemSources[45484] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45484]],
@@ -16271,6 +18183,8 @@ if pending then
   MyBissData.ItemSources[45485] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45485]],
@@ -16288,6 +18202,8 @@ if pending then
   MyBissData.ItemSources[45486] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45486]],
@@ -16305,6 +18221,8 @@ if pending then
   MyBissData.ItemSources[45487] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45487]],
@@ -16322,6 +18240,8 @@ if pending then
   MyBissData.ItemSources[45488] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45488]],
@@ -16339,6 +18259,8 @@ if pending then
   MyBissData.ItemSources[45489] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45489]],
@@ -16356,6 +18278,8 @@ if pending then
   MyBissData.ItemSources[45490] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45490]],
@@ -16373,6 +18297,8 @@ if pending then
   MyBissData.ItemSources[45491] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45491]],
@@ -16390,6 +18316,8 @@ if pending then
   MyBissData.ItemSources[45492] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45492]],
@@ -16407,6 +18335,8 @@ if pending then
   MyBissData.ItemSources[45493] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45493]],
@@ -16424,6 +18354,8 @@ if pending then
   MyBissData.ItemSources[45494] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45494]],
@@ -16441,6 +18373,8 @@ if pending then
   MyBissData.ItemSources[45495] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45495]],
@@ -16458,6 +18392,8 @@ if pending then
   MyBissData.ItemSources[45496] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45496]],
@@ -16475,6 +18411,8 @@ if pending then
   MyBissData.ItemSources[45497] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45497]],
@@ -16492,6 +18430,8 @@ if pending then
   MyBissData.ItemSources[45498] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45498]],
@@ -16509,6 +18449,8 @@ if pending then
   MyBissData.ItemSources[45501] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45501]],
@@ -16526,6 +18468,8 @@ if pending then
   MyBissData.ItemSources[45502] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45502]],
@@ -16543,6 +18487,8 @@ if pending then
   MyBissData.ItemSources[45504] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45504]],
@@ -16560,6 +18506,8 @@ if pending then
   MyBissData.ItemSources[45505] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45505]],
@@ -16577,6 +18525,8 @@ if pending then
   MyBissData.ItemSources[45508] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45508]],
@@ -16594,6 +18544,8 @@ if pending then
   MyBissData.ItemSources[45509] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45509]],
@@ -16611,6 +18563,8 @@ if pending then
   MyBissData.ItemSources[45510] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Razorscale]],
+    origin = [[Razorscale]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45510]],
@@ -16628,6 +18582,8 @@ if pending then
   MyBissData.ItemSources[45511] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45511]],
@@ -16645,6 +18601,8 @@ if pending then
   MyBissData.ItemSources[45512] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45512]],
@@ -16662,6 +18620,8 @@ if pending then
   MyBissData.ItemSources[45513] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45513]],
@@ -16679,6 +18639,8 @@ if pending then
   MyBissData.ItemSources[45514] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45514]],
@@ -16696,6 +18658,8 @@ if pending then
   MyBissData.ItemSources[45515] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45515]],
@@ -16713,6 +18677,8 @@ if pending then
   MyBissData.ItemSources[45516] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45516]],
@@ -16730,6 +18696,8 @@ if pending then
   MyBissData.ItemSources[45517] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45517]],
@@ -16747,6 +18715,8 @@ if pending then
   MyBissData.ItemSources[45518] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45518]],
@@ -16764,6 +18734,8 @@ if pending then
   MyBissData.ItemSources[45519] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45519]],
@@ -16781,6 +18753,8 @@ if pending then
   MyBissData.ItemSources[45520] = {
     instance = [[Ulduar]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45520]],
@@ -16798,6 +18772,8 @@ if pending then
   MyBissData.ItemSources[45521] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45521]],
@@ -16815,6 +18791,8 @@ if pending then
   MyBissData.ItemSources[45522] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45522]],
@@ -16832,6 +18810,8 @@ if pending then
   MyBissData.ItemSources[45523] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45523]],
@@ -16849,6 +18829,8 @@ if pending then
   MyBissData.ItemSources[45524] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45524]],
@@ -16866,6 +18848,8 @@ if pending then
   MyBissData.ItemSources[45525] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45525]],
@@ -16883,6 +18867,8 @@ if pending then
   MyBissData.ItemSources[45527] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45527]],
@@ -16900,6 +18886,8 @@ if pending then
   MyBissData.ItemSources[45529] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45529]],
@@ -16917,6 +18905,8 @@ if pending then
   MyBissData.ItemSources[45531] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45531]],
@@ -16934,6 +18924,8 @@ if pending then
   MyBissData.ItemSources[45532] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45532]],
@@ -16951,6 +18943,8 @@ if pending then
   MyBissData.ItemSources[45533] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45533]],
@@ -16968,6 +18962,8 @@ if pending then
   MyBissData.ItemSources[45534] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45534]],
@@ -16985,6 +18981,8 @@ if pending then
   MyBissData.ItemSources[45535] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45535]],
@@ -17002,6 +19000,8 @@ if pending then
   MyBissData.ItemSources[45536] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45536]],
@@ -17019,6 +19019,8 @@ if pending then
   MyBissData.ItemSources[45537] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45537]],
@@ -17036,6 +19038,8 @@ if pending then
   MyBissData.ItemSources[45538] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45538]],
@@ -17053,6 +19057,8 @@ if pending then
   MyBissData.ItemSources[45539] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45539]],
@@ -17070,6 +19076,8 @@ if pending then
   MyBissData.ItemSources[45540] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45540]],
@@ -17087,6 +19095,8 @@ if pending then
   MyBissData.ItemSources[45541] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45541]],
@@ -17104,6 +19114,8 @@ if pending then
   MyBissData.ItemSources[45542] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45542]],
@@ -17121,6 +19133,8 @@ if pending then
   MyBissData.ItemSources[45543] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45543]],
@@ -17138,6 +19152,8 @@ if pending then
   MyBissData.ItemSources[45544] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45544]],
@@ -17155,6 +19171,8 @@ if pending then
   MyBissData.ItemSources[45547] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45547]],
@@ -17172,6 +19190,8 @@ if pending then
   MyBissData.ItemSources[45549] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45549]],
@@ -17189,6 +19209,8 @@ if pending then
   MyBissData.ItemSources[45550] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45550]],
@@ -17206,6 +19228,8 @@ if pending then
   MyBissData.ItemSources[45551] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45551]],
@@ -17223,6 +19247,8 @@ if pending then
   MyBissData.ItemSources[45552] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45552]],
@@ -17240,6 +19266,8 @@ if pending then
   MyBissData.ItemSources[45553] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45553]],
@@ -17257,6 +19285,8 @@ if pending then
   MyBissData.ItemSources[45554] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45554]],
@@ -17274,6 +19304,8 @@ if pending then
   MyBissData.ItemSources[45555] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45555]],
@@ -17291,6 +19323,8 @@ if pending then
   MyBissData.ItemSources[45556] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45556]],
@@ -17308,6 +19342,8 @@ if pending then
   MyBissData.ItemSources[45557] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45557]],
@@ -17325,6 +19361,8 @@ if pending then
   MyBissData.ItemSources[45558] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45558]],
@@ -17342,6 +19380,8 @@ if pending then
   MyBissData.ItemSources[45559] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45559]],
@@ -17359,6 +19399,8 @@ if pending then
   MyBissData.ItemSources[45560] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45560]],
@@ -17376,6 +19418,8 @@ if pending then
   MyBissData.ItemSources[45561] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45561]],
@@ -17393,6 +19437,8 @@ if pending then
   MyBissData.ItemSources[45562] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45562]],
@@ -17410,6 +19456,8 @@ if pending then
   MyBissData.ItemSources[45563] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45563]],
@@ -17427,6 +19475,8 @@ if pending then
   MyBissData.ItemSources[45564] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45564]],
@@ -17444,6 +19494,8 @@ if pending then
   MyBissData.ItemSources[45566] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45566]],
@@ -17461,6 +19513,8 @@ if pending then
   MyBissData.ItemSources[45567] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45567]],
@@ -17478,6 +19532,8 @@ if pending then
   MyBissData.ItemSources[45570] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45570]],
@@ -17495,6 +19551,8 @@ if pending then
   MyBissData.ItemSources[45587] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45587]],
@@ -17512,6 +19570,8 @@ if pending then
   MyBissData.ItemSources[45588] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45588]],
@@ -17529,6 +19589,8 @@ if pending then
   MyBissData.ItemSources[45594] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45594]],
@@ -17546,6 +19608,8 @@ if pending then
   MyBissData.ItemSources[45599] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45599]],
@@ -17563,6 +19627,8 @@ if pending then
   MyBissData.ItemSources[45605] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45605]],
@@ -17580,6 +19646,8 @@ if pending then
   MyBissData.ItemSources[45607] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45607]],
@@ -17597,6 +19665,8 @@ if pending then
   MyBissData.ItemSources[45608] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45608]],
@@ -17614,6 +19684,8 @@ if pending then
   MyBissData.ItemSources[45609] = {
     instance = [[Ulduar / Defiler's Scourgestone]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Defiler's Scourgestone (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45609]],
@@ -17631,6 +19703,8 @@ if pending then
   MyBissData.ItemSources[45610] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45610]],
@@ -17648,6 +19722,8 @@ if pending then
   MyBissData.ItemSources[45611] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45611]],
@@ -17665,6 +19741,8 @@ if pending then
   MyBissData.ItemSources[45612] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45612]],
@@ -17682,6 +19760,8 @@ if pending then
   MyBissData.ItemSources[45613] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45613]],
@@ -17699,6 +19779,8 @@ if pending then
   MyBissData.ItemSources[45614] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45614]],
@@ -17716,6 +19798,8 @@ if pending then
   MyBissData.ItemSources[45615] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45615]],
@@ -17733,6 +19817,8 @@ if pending then
   MyBissData.ItemSources[45616] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45616]],
@@ -17750,6 +19836,8 @@ if pending then
   MyBissData.ItemSources[45617] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45617]],
@@ -17767,6 +19855,8 @@ if pending then
   MyBissData.ItemSources[45618] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45618]],
@@ -17784,6 +19874,8 @@ if pending then
   MyBissData.ItemSources[45619] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45619]],
@@ -17801,6 +19893,8 @@ if pending then
   MyBissData.ItemSources[45620] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45620]],
@@ -17818,6 +19912,8 @@ if pending then
   MyBissData.ItemSources[45663] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45663]],
@@ -17835,6 +19931,8 @@ if pending then
   MyBissData.ItemSources[45665] = {
     instance = [[Ulduar]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45665]],
@@ -17852,6 +19950,8 @@ if pending then
   MyBissData.ItemSources[45675] = {
     instance = [[Ulduar]],
     boss = [[XT-002]],
+    origin = [[XT-002]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45675]],
@@ -17869,6 +19969,8 @@ if pending then
   MyBissData.ItemSources[45676] = {
     instance = [[Ulduar]],
     boss = [[XT-002]],
+    origin = [[XT-002]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45676]],
@@ -17886,6 +19988,8 @@ if pending then
   MyBissData.ItemSources[45677] = {
     instance = [[Ulduar]],
     boss = [[XT-002]],
+    origin = [[XT-002]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45677]],
@@ -17903,6 +20007,8 @@ if pending then
   MyBissData.ItemSources[45682] = {
     instance = [[Ulduar]],
     boss = [[XT-002]],
+    origin = [[XT-002]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45682]],
@@ -17920,6 +20026,8 @@ if pending then
   MyBissData.ItemSources[45687] = {
     instance = [[Ulduar]],
     boss = [[XT-002]],
+    origin = [[XT-002]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45687]],
@@ -17937,6 +20045,8 @@ if pending then
   MyBissData.ItemSources[45694] = {
     instance = [[Ulduar]],
     boss = [[XT-002]],
+    origin = [[XT-002]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45694]],
@@ -17954,6 +20064,8 @@ if pending then
   MyBissData.ItemSources[45696] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45696]],
@@ -17971,6 +20083,8 @@ if pending then
   MyBissData.ItemSources[45697] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45697]],
@@ -17988,6 +20102,8 @@ if pending then
   MyBissData.ItemSources[45699] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45699]],
@@ -18005,6 +20121,8 @@ if pending then
   MyBissData.ItemSources[45702] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45702]],
@@ -18022,6 +20140,8 @@ if pending then
   MyBissData.ItemSources[45703] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45703]],
@@ -18039,6 +20159,8 @@ if pending then
   MyBissData.ItemSources[45704] = {
     instance = [[Ulduar]],
     boss = [[Kologarn]],
+    origin = [[Kologarn]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45704]],
@@ -18056,6 +20178,8 @@ if pending then
   MyBissData.ItemSources[45707] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45707]],
@@ -18073,6 +20197,8 @@ if pending then
   MyBissData.ItemSources[45708] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45708]],
@@ -18090,6 +20216,8 @@ if pending then
   MyBissData.ItemSources[45709] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45709]],
@@ -18107,6 +20235,8 @@ if pending then
   MyBissData.ItemSources[45712] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45712]],
@@ -18124,6 +20254,8 @@ if pending then
   MyBissData.ItemSources[45713] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45713]],
@@ -18141,6 +20273,8 @@ if pending then
   MyBissData.ItemSources[45819] = {
     instance = [[Emblem of Conquest / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45819]],
@@ -18158,6 +20292,8 @@ if pending then
   MyBissData.ItemSources[45820] = {
     instance = [[Emblem of Conquest / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45820]],
@@ -18175,6 +20311,8 @@ if pending then
   MyBissData.ItemSources[45821] = {
     instance = [[Emblem of Conquest / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45821]],
@@ -18192,6 +20330,8 @@ if pending then
   MyBissData.ItemSources[45822] = {
     instance = [[Emblem of Conquest / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45822]],
@@ -18209,6 +20349,8 @@ if pending then
   MyBissData.ItemSources[45824] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45824]],
@@ -18226,6 +20368,8 @@ if pending then
   MyBissData.ItemSources[45825] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45825]],
@@ -18243,6 +20387,8 @@ if pending then
   MyBissData.ItemSources[45827] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45827]],
@@ -18260,6 +20406,8 @@ if pending then
   MyBissData.ItemSources[45828] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45828]],
@@ -18277,6 +20425,8 @@ if pending then
   MyBissData.ItemSources[45829] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45829]],
@@ -18294,6 +20444,8 @@ if pending then
   MyBissData.ItemSources[45830] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45830]],
@@ -18311,6 +20463,8 @@ if pending then
   MyBissData.ItemSources[45831] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45831]],
@@ -18328,6 +20482,8 @@ if pending then
   MyBissData.ItemSources[45833] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45833]],
@@ -18345,6 +20501,8 @@ if pending then
   MyBissData.ItemSources[45834] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45834]],
@@ -18362,6 +20520,8 @@ if pending then
   MyBissData.ItemSources[45838] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45838]],
@@ -18379,6 +20539,8 @@ if pending then
   MyBissData.ItemSources[45840] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45840]],
@@ -18396,6 +20558,8 @@ if pending then
   MyBissData.ItemSources[45841] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45841]],
@@ -18413,6 +20577,8 @@ if pending then
   MyBissData.ItemSources[45842] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45842]],
@@ -18430,6 +20596,8 @@ if pending then
   MyBissData.ItemSources[45843] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45843]],
@@ -18447,6 +20615,8 @@ if pending then
   MyBissData.ItemSources[45844] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45844]],
@@ -18464,6 +20634,8 @@ if pending then
   MyBissData.ItemSources[45845] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45845]],
@@ -18481,6 +20653,8 @@ if pending then
   MyBissData.ItemSources[45846] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45846]],
@@ -18498,6 +20672,8 @@ if pending then
   MyBissData.ItemSources[45848] = {
     instance = [[Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Conquest (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45848]],
@@ -18515,6 +20691,8 @@ if pending then
   MyBissData.ItemSources[45859] = {
     instance = [[World drops]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Drop. Orígenes: World drops (Drop, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=45859]],
@@ -18532,6 +20710,8 @@ if pending then
   MyBissData.ItemSources[45864] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45864]],
@@ -18549,6 +20729,8 @@ if pending then
   MyBissData.ItemSources[45865] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45865]],
@@ -18566,6 +20748,8 @@ if pending then
   MyBissData.ItemSources[45866] = {
     instance = [[Ulduar]],
     boss = [[Auriaya]],
+    origin = [[Auriaya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45866]],
@@ -18583,6 +20767,8 @@ if pending then
   MyBissData.ItemSources[45867] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45867]],
@@ -18600,6 +20786,8 @@ if pending then
   MyBissData.ItemSources[45868] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45868]],
@@ -18617,6 +20805,8 @@ if pending then
   MyBissData.ItemSources[45869] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45869]],
@@ -18634,6 +20824,8 @@ if pending then
   MyBissData.ItemSources[45870] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45870]],
@@ -18651,6 +20843,8 @@ if pending then
   MyBissData.ItemSources[45871] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[XT-002 Deconstructor]],
+    origin = [[XT-002 Deconstructor]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45871]],
@@ -18668,6 +20862,8 @@ if pending then
   MyBissData.ItemSources[45872] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45872]],
@@ -18685,6 +20881,8 @@ if pending then
   MyBissData.ItemSources[45873] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45873]],
@@ -18702,6 +20900,8 @@ if pending then
   MyBissData.ItemSources[45874] = {
     instance = [[Ulduar]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45874]],
@@ -18719,6 +20919,8 @@ if pending then
   MyBissData.ItemSources[45876] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45876]],
@@ -18736,6 +20938,8 @@ if pending then
   MyBissData.ItemSources[45877] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45877]],
@@ -18753,6 +20957,8 @@ if pending then
   MyBissData.ItemSources[45886] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45886]],
@@ -18770,6 +20976,8 @@ if pending then
   MyBissData.ItemSources[45887] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45887]],
@@ -18787,6 +20995,8 @@ if pending then
   MyBissData.ItemSources[45888] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Hodir]],
+    origin = [[Hodir]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45888]],
@@ -18804,6 +21014,8 @@ if pending then
   MyBissData.ItemSources[45892] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45892]],
@@ -18821,6 +21033,8 @@ if pending then
   MyBissData.ItemSources[45893] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45893]],
@@ -18838,6 +21052,8 @@ if pending then
   MyBissData.ItemSources[45895] = {
     instance = [[Ulduar]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45895]],
@@ -18855,6 +21071,8 @@ if pending then
   MyBissData.ItemSources[45928] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45928]],
@@ -18872,6 +21090,8 @@ if pending then
   MyBissData.ItemSources[45929] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45929]],
@@ -18889,6 +21109,8 @@ if pending then
   MyBissData.ItemSources[45930] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45930]],
@@ -18906,6 +21128,8 @@ if pending then
   MyBissData.ItemSources[45931] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45931]],
@@ -18923,6 +21147,8 @@ if pending then
   MyBissData.ItemSources[45933] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Thorim]],
+    origin = [[Thorim]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45933]],
@@ -18940,6 +21166,8 @@ if pending then
   MyBissData.ItemSources[45935] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45935]],
@@ -18957,6 +21185,8 @@ if pending then
   MyBissData.ItemSources[45940] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45940]],
@@ -18974,6 +21204,8 @@ if pending then
   MyBissData.ItemSources[45941] = {
     instance = [[Ulduar]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45941]],
@@ -18991,6 +21223,8 @@ if pending then
   MyBissData.ItemSources[45943] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45943]],
@@ -19008,6 +21242,8 @@ if pending then
   MyBissData.ItemSources[45945] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45945]],
@@ -19025,6 +21261,8 @@ if pending then
   MyBissData.ItemSources[45946] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45946]],
@@ -19042,6 +21280,8 @@ if pending then
   MyBissData.ItemSources[45947] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Freya]],
+    origin = [[Freya]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45947]],
@@ -19059,6 +21299,8 @@ if pending then
   MyBissData.ItemSources[45973] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45973]],
@@ -19076,6 +21318,8 @@ if pending then
   MyBissData.ItemSources[45976] = {
     instance = [[Ulduar]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45976]],
@@ -19093,6 +21337,8 @@ if pending then
   MyBissData.ItemSources[45982] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45982]],
@@ -19110,6 +21356,8 @@ if pending then
   MyBissData.ItemSources[45988] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45988]],
@@ -19127,6 +21375,8 @@ if pending then
   MyBissData.ItemSources[45989] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45989]],
@@ -19144,6 +21394,8 @@ if pending then
   MyBissData.ItemSources[45990] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45990]],
@@ -19161,6 +21413,8 @@ if pending then
   MyBissData.ItemSources[45993] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Mimiron]],
+    origin = [[Mimiron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=45993]],
@@ -19178,6 +21432,8 @@ if pending then
   MyBissData.ItemSources[45997] = {
     instance = [[Ulduar]],
     boss = [[Vezax]],
+    origin = [[Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=45997]],
@@ -19195,6 +21451,8 @@ if pending then
   MyBissData.ItemSources[46008] = {
     instance = [[Ulduar]],
     boss = [[Vezax]],
+    origin = [[Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46008]],
@@ -19212,6 +21470,8 @@ if pending then
   MyBissData.ItemSources[46010] = {
     instance = [[Ulduar]],
     boss = [[Vezax]],
+    origin = [[Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46010]],
@@ -19229,6 +21489,8 @@ if pending then
   MyBissData.ItemSources[46012] = {
     instance = [[Ulduar]],
     boss = [[Vezax]],
+    origin = [[Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46012]],
@@ -19246,6 +21508,8 @@ if pending then
   MyBissData.ItemSources[46013] = {
     instance = [[Ulduar]],
     boss = [[Vezax]],
+    origin = [[Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46013]],
@@ -19263,6 +21527,8 @@ if pending then
   MyBissData.ItemSources[46014] = {
     instance = [[Ulduar]],
     boss = [[Vezax]],
+    origin = [[Vezax]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46014]],
@@ -19280,6 +21546,8 @@ if pending then
   MyBissData.ItemSources[46017] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46017]],
@@ -19297,6 +21565,8 @@ if pending then
   MyBissData.ItemSources[46018] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46018]],
@@ -19314,6 +21584,8 @@ if pending then
   MyBissData.ItemSources[46019] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46019]],
@@ -19331,6 +21603,8 @@ if pending then
   MyBissData.ItemSources[46021] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46021]],
@@ -19348,6 +21622,8 @@ if pending then
   MyBissData.ItemSources[46022] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46022]],
@@ -19365,6 +21641,8 @@ if pending then
   MyBissData.ItemSources[46024] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46024]],
@@ -19382,6 +21660,8 @@ if pending then
   MyBissData.ItemSources[46031] = {
     instance = [[Ulduar]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46031]],
@@ -19399,6 +21679,8 @@ if pending then
   MyBissData.ItemSources[46032] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46032]],
@@ -19416,6 +21698,8 @@ if pending then
   MyBissData.ItemSources[46033] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46033]],
@@ -19433,6 +21717,8 @@ if pending then
   MyBissData.ItemSources[46034] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46034]],
@@ -19450,6 +21736,8 @@ if pending then
   MyBissData.ItemSources[46035] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46035]],
@@ -19467,6 +21755,8 @@ if pending then
   MyBissData.ItemSources[46036] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[General Vezax]],
+    origin = [[General Vezax]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46036]],
@@ -19484,6 +21774,8 @@ if pending then
   MyBissData.ItemSources[46037] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46037]],
@@ -19501,6 +21793,8 @@ if pending then
   MyBissData.ItemSources[46038] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46038]],
@@ -19518,6 +21812,8 @@ if pending then
   MyBissData.ItemSources[46039] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46039]],
@@ -19535,6 +21831,8 @@ if pending then
   MyBissData.ItemSources[46040] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46040]],
@@ -19552,6 +21850,8 @@ if pending then
   MyBissData.ItemSources[46041] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46041]],
@@ -19569,6 +21869,8 @@ if pending then
   MyBissData.ItemSources[46042] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46042]],
@@ -19586,6 +21888,8 @@ if pending then
   MyBissData.ItemSources[46043] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46043]],
@@ -19603,6 +21907,8 @@ if pending then
   MyBissData.ItemSources[46044] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46044]],
@@ -19620,6 +21926,8 @@ if pending then
   MyBissData.ItemSources[46045] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46045]],
@@ -19637,6 +21945,8 @@ if pending then
   MyBissData.ItemSources[46046] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46046]],
@@ -19654,6 +21964,8 @@ if pending then
   MyBissData.ItemSources[46047] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46047]],
@@ -19671,6 +21983,8 @@ if pending then
   MyBissData.ItemSources[46048] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46048]],
@@ -19688,6 +22002,8 @@ if pending then
   MyBissData.ItemSources[46049] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46049]],
@@ -19705,6 +22021,8 @@ if pending then
   MyBissData.ItemSources[46050] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46050]],
@@ -19722,6 +22040,8 @@ if pending then
   MyBissData.ItemSources[46051] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Algalon]],
+    origin = [[Algalon]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46051]],
@@ -19739,6 +22059,8 @@ if pending then
   MyBissData.ItemSources[46067] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46067]],
@@ -19756,6 +22078,8 @@ if pending then
   MyBissData.ItemSources[46068] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46068]],
@@ -19773,6 +22097,8 @@ if pending then
   MyBissData.ItemSources[46095] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46095]],
@@ -19790,6 +22116,8 @@ if pending then
   MyBissData.ItemSources[46096] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46096]],
@@ -19807,6 +22135,8 @@ if pending then
   MyBissData.ItemSources[46097] = {
     instance = [[Ulduar / Sidereal Essence]],
     boss = [[Yogg-Saron]],
+    origin = [[Yogg-Saron]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Sidereal Essence (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46097]],
@@ -19824,6 +22154,8 @@ if pending then
   MyBissData.ItemSources[46111] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46111]],
@@ -19841,6 +22173,8 @@ if pending then
   MyBissData.ItemSources[46113] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46113]],
@@ -19858,6 +22192,8 @@ if pending then
   MyBissData.ItemSources[46115] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46115]],
@@ -19875,6 +22211,8 @@ if pending then
   MyBissData.ItemSources[46116] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46116]],
@@ -19892,6 +22230,8 @@ if pending then
   MyBissData.ItemSources[46117] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Dubin Clay]],
+    origin = [[Yogg-Saron / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46117]],
@@ -19909,6 +22249,8 @@ if pending then
   MyBissData.ItemSources[46118] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46118]],
@@ -19926,6 +22268,8 @@ if pending then
   MyBissData.ItemSources[46119] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46119]],
@@ -19943,6 +22287,8 @@ if pending then
   MyBissData.ItemSources[46120] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46120]],
@@ -19960,6 +22306,8 @@ if pending then
   MyBissData.ItemSources[46121] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46121]],
@@ -19977,6 +22325,8 @@ if pending then
   MyBissData.ItemSources[46122] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Dubin Clay]],
+    origin = [[Yogg-Saron / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46122]],
@@ -19994,6 +22344,8 @@ if pending then
   MyBissData.ItemSources[46123] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46123]],
@@ -20011,6 +22363,8 @@ if pending then
   MyBissData.ItemSources[46124] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46124]],
@@ -20028,6 +22382,8 @@ if pending then
   MyBissData.ItemSources[46125] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46125]],
@@ -20045,6 +22401,8 @@ if pending then
   MyBissData.ItemSources[46126] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46126]],
@@ -20062,6 +22420,8 @@ if pending then
   MyBissData.ItemSources[46127] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Valerie Langrom]],
+    origin = [[Yogg-Saron / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46127]],
@@ -20079,6 +22439,8 @@ if pending then
   MyBissData.ItemSources[46129] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46129]],
@@ -20096,6 +22458,8 @@ if pending then
   MyBissData.ItemSources[46130] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46130]],
@@ -20113,6 +22477,8 @@ if pending then
   MyBissData.ItemSources[46131] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46131]],
@@ -20130,6 +22496,8 @@ if pending then
   MyBissData.ItemSources[46132] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46132]],
@@ -20147,6 +22515,8 @@ if pending then
   MyBissData.ItemSources[46133] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46133]],
@@ -20164,6 +22534,8 @@ if pending then
   MyBissData.ItemSources[46134] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Paldesse]],
+    origin = [[Yogg-Saron / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46134]],
@@ -20181,6 +22553,8 @@ if pending then
   MyBissData.ItemSources[46135] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46135]],
@@ -20198,6 +22572,8 @@ if pending then
   MyBissData.ItemSources[46136] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Paldesse]],
+    origin = [[Yogg-Saron / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46136]],
@@ -20215,6 +22591,8 @@ if pending then
   MyBissData.ItemSources[46137] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46137]],
@@ -20232,6 +22610,8 @@ if pending then
   MyBissData.ItemSources[46138] = {
     instance = [[Ulduar / Emblem of Conquest]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Emblem of Conquest (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46138]],
@@ -20249,6 +22629,8 @@ if pending then
   MyBissData.ItemSources[46139] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46139]],
@@ -20266,6 +22648,8 @@ if pending then
   MyBissData.ItemSources[46140] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46140]],
@@ -20283,6 +22667,8 @@ if pending then
   MyBissData.ItemSources[46141] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46141]],
@@ -20300,6 +22686,8 @@ if pending then
   MyBissData.ItemSources[46142] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46142]],
@@ -20317,6 +22705,8 @@ if pending then
   MyBissData.ItemSources[46143] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46143]],
@@ -20334,6 +22724,8 @@ if pending then
   MyBissData.ItemSources[46144] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46144]],
@@ -20351,6 +22743,8 @@ if pending then
   MyBissData.ItemSources[46145] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Bragund Brightlink]],
+    origin = [[Yogg-Saron / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46145]],
@@ -20368,6 +22762,8 @@ if pending then
   MyBissData.ItemSources[46146] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46146]],
@@ -20385,6 +22781,8 @@ if pending then
   MyBissData.ItemSources[46148] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46148]],
@@ -20402,6 +22800,8 @@ if pending then
   MyBissData.ItemSources[46149] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Dubin Clay]],
+    origin = [[Yogg-Saron / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46149]],
@@ -20419,6 +22819,8 @@ if pending then
   MyBissData.ItemSources[46150] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46150]],
@@ -20436,6 +22838,8 @@ if pending then
   MyBissData.ItemSources[46151] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46151]],
@@ -20453,6 +22857,8 @@ if pending then
   MyBissData.ItemSources[46153] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46153]],
@@ -20470,6 +22876,8 @@ if pending then
   MyBissData.ItemSources[46154] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46154]],
@@ -20487,6 +22895,8 @@ if pending then
   MyBissData.ItemSources[46155] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46155]],
@@ -20504,6 +22914,8 @@ if pending then
   MyBissData.ItemSources[46157] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Valerie Langrom]],
+    origin = [[Yogg-Saron / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46157]],
@@ -20521,6 +22933,8 @@ if pending then
   MyBissData.ItemSources[46158] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46158]],
@@ -20538,6 +22952,8 @@ if pending then
   MyBissData.ItemSources[46159] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46159]],
@@ -20555,6 +22971,8 @@ if pending then
   MyBissData.ItemSources[46160] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46160]],
@@ -20572,6 +22990,8 @@ if pending then
   MyBissData.ItemSources[46161] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46161]],
@@ -20589,6 +23009,8 @@ if pending then
   MyBissData.ItemSources[46162] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46162]],
@@ -20606,6 +23028,8 @@ if pending then
   MyBissData.ItemSources[46163] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46163]],
@@ -20623,6 +23047,8 @@ if pending then
   MyBissData.ItemSources[46164] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46164]],
@@ -20640,6 +23066,8 @@ if pending then
   MyBissData.ItemSources[46165] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Paldesse]],
+    origin = [[Yogg-Saron / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46165]],
@@ -20657,6 +23085,8 @@ if pending then
   MyBissData.ItemSources[46166] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46166]],
@@ -20674,6 +23104,8 @@ if pending then
   MyBissData.ItemSources[46167] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Dubin Clay]],
+    origin = [[Yogg-Saron / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46167]],
@@ -20691,6 +23123,8 @@ if pending then
   MyBissData.ItemSources[46168] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46168]],
@@ -20708,6 +23142,8 @@ if pending then
   MyBissData.ItemSources[46169] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46169]],
@@ -20725,6 +23161,8 @@ if pending then
   MyBissData.ItemSources[46170] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46170]],
@@ -20742,6 +23180,8 @@ if pending then
   MyBissData.ItemSources[46172] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46172]],
@@ -20759,6 +23199,8 @@ if pending then
   MyBissData.ItemSources[46173] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46173]],
@@ -20776,6 +23218,8 @@ if pending then
   MyBissData.ItemSources[46174] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46174]],
@@ -20793,6 +23237,8 @@ if pending then
   MyBissData.ItemSources[46175] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46175]],
@@ -20810,6 +23256,8 @@ if pending then
   MyBissData.ItemSources[46176] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46176]],
@@ -20827,6 +23275,8 @@ if pending then
   MyBissData.ItemSources[46177] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Dubin Clay]],
+    origin = [[Yogg-Saron / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46177]],
@@ -20844,6 +23294,8 @@ if pending then
   MyBissData.ItemSources[46179] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46179]],
@@ -20861,6 +23313,8 @@ if pending then
   MyBissData.ItemSources[46180] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Dubin Clay]],
+    origin = [[Dubin Clay]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46180]],
@@ -20878,6 +23332,8 @@ if pending then
   MyBissData.ItemSources[46181] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Dubin Clay]],
+    origin = [[Emalon the Storm Watcher / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46181]],
@@ -20895,6 +23351,8 @@ if pending then
   MyBissData.ItemSources[46182] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Dubin Clay]],
+    origin = [[Yogg-Saron / Dubin Clay]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46182]],
@@ -20912,6 +23370,8 @@ if pending then
   MyBissData.ItemSources[46183] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46183]],
@@ -20929,6 +23389,8 @@ if pending then
   MyBissData.ItemSources[46184] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46184]],
@@ -20946,6 +23408,8 @@ if pending then
   MyBissData.ItemSources[46185] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46185]],
@@ -20963,6 +23427,8 @@ if pending then
   MyBissData.ItemSources[46187] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Valerie Langrom]],
+    origin = [[Yogg-Saron / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46187]],
@@ -20980,6 +23446,8 @@ if pending then
   MyBissData.ItemSources[46188] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46188]],
@@ -20997,6 +23465,8 @@ if pending then
   MyBissData.ItemSources[46189] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46189]],
@@ -21014,6 +23484,8 @@ if pending then
   MyBissData.ItemSources[46190] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Paldesse]],
+    origin = [[Yogg-Saron / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46190]],
@@ -21031,6 +23503,8 @@ if pending then
   MyBissData.ItemSources[46191] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46191]],
@@ -21048,6 +23522,8 @@ if pending then
   MyBissData.ItemSources[46192] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Valerie Langrom]],
+    origin = [[Emalon the Storm Watcher / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46192]],
@@ -21065,6 +23541,8 @@ if pending then
   MyBissData.ItemSources[46193] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46193]],
@@ -21082,6 +23560,8 @@ if pending then
   MyBissData.ItemSources[46194] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46194]],
@@ -21099,6 +23579,8 @@ if pending then
   MyBissData.ItemSources[46195] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Paldesse]],
+    origin = [[Emalon the Storm Watcher / Paldesse]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46195]],
@@ -21116,6 +23598,8 @@ if pending then
   MyBissData.ItemSources[46196] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Valerie Langrom]],
+    origin = [[Yogg-Saron / Valerie Langrom]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46196]],
@@ -21133,6 +23617,8 @@ if pending then
   MyBissData.ItemSources[46197] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Paldesse]],
+    origin = [[Paldesse]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46197]],
@@ -21150,6 +23636,8 @@ if pending then
   MyBissData.ItemSources[46198] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46198]],
@@ -21167,6 +23655,8 @@ if pending then
   MyBissData.ItemSources[46199] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46199]],
@@ -21184,6 +23674,8 @@ if pending then
   MyBissData.ItemSources[46200] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46200]],
@@ -21201,6 +23693,8 @@ if pending then
   MyBissData.ItemSources[46201] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46201]],
@@ -21218,6 +23712,8 @@ if pending then
   MyBissData.ItemSources[46202] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46202]],
@@ -21235,6 +23731,8 @@ if pending then
   MyBissData.ItemSources[46203] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Bragund Brightlink]],
+    origin = [[Yogg-Saron / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46203]],
@@ -21252,6 +23750,8 @@ if pending then
   MyBissData.ItemSources[46204] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Bragund Brightlink]],
+    origin = [[Yogg-Saron / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46204]],
@@ -21269,6 +23769,8 @@ if pending then
   MyBissData.ItemSources[46205] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46205]],
@@ -21286,6 +23788,8 @@ if pending then
   MyBissData.ItemSources[46206] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46206]],
@@ -21303,6 +23807,8 @@ if pending then
   MyBissData.ItemSources[46207] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46207]],
@@ -21320,6 +23826,8 @@ if pending then
   MyBissData.ItemSources[46208] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46208]],
@@ -21337,6 +23845,8 @@ if pending then
   MyBissData.ItemSources[46209] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46209]],
@@ -21354,6 +23864,8 @@ if pending then
   MyBissData.ItemSources[46210] = {
     instance = [[Vault of Archavon / Ulduar tier (T8)]],
     boss = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    origin = [[Emalon the Storm Watcher / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Ulduar tier (T8) (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46210]],
@@ -21371,6 +23883,8 @@ if pending then
   MyBissData.ItemSources[46211] = {
     instance = [[Ulduar / Ulduar tier (T8)]],
     boss = [[Yogg-Saron / Bragund Brightlink]],
+    origin = [[Yogg-Saron / Bragund Brightlink]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Ulduar (Raid, fase 2); Ulduar tier (T8) (Vendor, fase 1). Fases: 2, 1. Ficha: https://www.wowhead.com/wotlk/item=46211]],
@@ -21388,6 +23902,8 @@ if pending then
   MyBissData.ItemSources[46212] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Bragund Brightlink]],
+    origin = [[Bragund Brightlink]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46212]],
@@ -21405,6 +23921,8 @@ if pending then
   MyBissData.ItemSources[46313] = {
     instance = [[Ulduar tier (T8)]],
     boss = [[Valerie Langrom]],
+    origin = [[Valerie Langrom]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Ulduar tier (T8) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46313]],
@@ -21422,6 +23940,8 @@ if pending then
   MyBissData.ItemSources[46320] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46320]],
@@ -21439,6 +23959,8 @@ if pending then
   MyBissData.ItemSources[46321] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46321]],
@@ -21456,6 +23978,8 @@ if pending then
   MyBissData.ItemSources[46322] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46322]],
@@ -21473,6 +23997,8 @@ if pending then
   MyBissData.ItemSources[46323] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=46323]],
@@ -21490,6 +24016,8 @@ if pending then
   MyBissData.ItemSources[46340] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46340]],
@@ -21507,6 +24035,8 @@ if pending then
   MyBissData.ItemSources[46343] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46343]],
@@ -21524,6 +24054,8 @@ if pending then
   MyBissData.ItemSources[46345] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46345]],
@@ -21541,6 +24073,8 @@ if pending then
   MyBissData.ItemSources[46346] = {
     instance = [[Ulduar]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Ulduar (Raid, fase 2). Fases: 2. Ficha: https://www.wowhead.com/wotlk/item=46346]],
@@ -21558,6 +24092,8 @@ if pending then
   MyBissData.ItemSources[46958] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46958]],
@@ -21575,6 +24111,8 @@ if pending then
   MyBissData.ItemSources[46959] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46959]],
@@ -21592,6 +24130,8 @@ if pending then
   MyBissData.ItemSources[46961] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46961]],
@@ -21609,6 +24149,8 @@ if pending then
   MyBissData.ItemSources[46962] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46962]],
@@ -21626,6 +24168,8 @@ if pending then
   MyBissData.ItemSources[46963] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46963]],
@@ -21643,6 +24187,8 @@ if pending then
   MyBissData.ItemSources[46964] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46964]],
@@ -21660,6 +24206,8 @@ if pending then
   MyBissData.ItemSources[46965] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46965]],
@@ -21677,6 +24225,8 @@ if pending then
   MyBissData.ItemSources[46966] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46966]],
@@ -21694,6 +24244,8 @@ if pending then
   MyBissData.ItemSources[46967] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46967]],
@@ -21711,6 +24263,8 @@ if pending then
   MyBissData.ItemSources[46968] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46968]],
@@ -21728,6 +24282,8 @@ if pending then
   MyBissData.ItemSources[46969] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46969]],
@@ -21745,6 +24301,8 @@ if pending then
   MyBissData.ItemSources[46971] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46971]],
@@ -21762,6 +24320,8 @@ if pending then
   MyBissData.ItemSources[46972] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46972]],
@@ -21779,6 +24339,8 @@ if pending then
   MyBissData.ItemSources[46973] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46973]],
@@ -21796,6 +24358,8 @@ if pending then
   MyBissData.ItemSources[46974] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46974]],
@@ -21813,6 +24377,8 @@ if pending then
   MyBissData.ItemSources[46975] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46975]],
@@ -21830,6 +24396,8 @@ if pending then
   MyBissData.ItemSources[46976] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46976]],
@@ -21847,6 +24415,8 @@ if pending then
   MyBissData.ItemSources[46977] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46977]],
@@ -21864,6 +24434,8 @@ if pending then
   MyBissData.ItemSources[46979] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46979]],
@@ -21881,6 +24453,8 @@ if pending then
   MyBissData.ItemSources[46980] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46980]],
@@ -21898,6 +24472,8 @@ if pending then
   MyBissData.ItemSources[46985] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46985]],
@@ -21915,6 +24491,8 @@ if pending then
   MyBissData.ItemSources[46986] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46986]],
@@ -21932,6 +24510,8 @@ if pending then
   MyBissData.ItemSources[46990] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46990]],
@@ -21949,6 +24529,8 @@ if pending then
   MyBissData.ItemSources[46991] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46991]],
@@ -21966,6 +24548,8 @@ if pending then
   MyBissData.ItemSources[46992] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46992]],
@@ -21983,6 +24567,8 @@ if pending then
   MyBissData.ItemSources[46993] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46993]],
@@ -22000,6 +24586,8 @@ if pending then
   MyBissData.ItemSources[46995] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=46995]],
@@ -22017,6 +24605,8 @@ if pending then
   MyBissData.ItemSources[46996] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46996]],
@@ -22034,6 +24624,8 @@ if pending then
   MyBissData.ItemSources[46997] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46997]],
@@ -22051,6 +24643,8 @@ if pending then
   MyBissData.ItemSources[46999] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=46999]],
@@ -22068,6 +24662,8 @@ if pending then
   MyBissData.ItemSources[47001] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47001]],
@@ -22085,6 +24681,8 @@ if pending then
   MyBissData.ItemSources[47002] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47002]],
@@ -22102,6 +24700,8 @@ if pending then
   MyBissData.ItemSources[47003] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47003]],
@@ -22119,6 +24719,8 @@ if pending then
   MyBissData.ItemSources[47004] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47004]],
@@ -22136,6 +24738,8 @@ if pending then
   MyBissData.ItemSources[47041] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47041]],
@@ -22153,6 +24757,8 @@ if pending then
   MyBissData.ItemSources[47042] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47042]],
@@ -22170,6 +24776,8 @@ if pending then
   MyBissData.ItemSources[47051] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47051]],
@@ -22187,6 +24795,8 @@ if pending then
   MyBissData.ItemSources[47052] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47052]],
@@ -22204,6 +24814,8 @@ if pending then
   MyBissData.ItemSources[47053] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47053]],
@@ -22221,6 +24833,8 @@ if pending then
   MyBissData.ItemSources[47054] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47054]],
@@ -22238,6 +24852,8 @@ if pending then
   MyBissData.ItemSources[47055] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47055]],
@@ -22255,6 +24871,8 @@ if pending then
   MyBissData.ItemSources[47057] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47057]],
@@ -22272,6 +24890,8 @@ if pending then
   MyBissData.ItemSources[47059] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47059]],
@@ -22289,6 +24909,8 @@ if pending then
   MyBissData.ItemSources[47060] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47060]],
@@ -22306,6 +24928,8 @@ if pending then
   MyBissData.ItemSources[47061] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47061]],
@@ -22323,6 +24947,8 @@ if pending then
   MyBissData.ItemSources[47062] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47062]],
@@ -22340,6 +24966,8 @@ if pending then
   MyBissData.ItemSources[47063] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47063]],
@@ -22357,6 +24985,8 @@ if pending then
   MyBissData.ItemSources[47064] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47064]],
@@ -22374,6 +25004,8 @@ if pending then
   MyBissData.ItemSources[47066] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47066]],
@@ -22391,6 +25023,8 @@ if pending then
   MyBissData.ItemSources[47067] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47067]],
@@ -22408,6 +25042,8 @@ if pending then
   MyBissData.ItemSources[47068] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47068]],
@@ -22425,6 +25061,8 @@ if pending then
   MyBissData.ItemSources[47071] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47071]],
@@ -22442,6 +25080,8 @@ if pending then
   MyBissData.ItemSources[47072] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47072]],
@@ -22459,6 +25099,8 @@ if pending then
   MyBissData.ItemSources[47074] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47074]],
@@ -22476,6 +25118,8 @@ if pending then
   MyBissData.ItemSources[47075] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47075]],
@@ -22493,6 +25137,8 @@ if pending then
   MyBissData.ItemSources[47076] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47076]],
@@ -22510,6 +25156,8 @@ if pending then
   MyBissData.ItemSources[47077] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47077]],
@@ -22527,6 +25175,8 @@ if pending then
   MyBissData.ItemSources[47078] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47078]],
@@ -22544,6 +25194,8 @@ if pending then
   MyBissData.ItemSources[47079] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47079]],
@@ -22561,6 +25213,8 @@ if pending then
   MyBissData.ItemSources[47080] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47080]],
@@ -22578,6 +25232,8 @@ if pending then
   MyBissData.ItemSources[47081] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47081]],
@@ -22595,6 +25251,8 @@ if pending then
   MyBissData.ItemSources[47082] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47082]],
@@ -22612,6 +25270,8 @@ if pending then
   MyBissData.ItemSources[47083] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47083]],
@@ -22629,6 +25289,8 @@ if pending then
   MyBissData.ItemSources[47084] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47084]],
@@ -22646,6 +25308,8 @@ if pending then
   MyBissData.ItemSources[47085] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47085]],
@@ -22663,6 +25327,8 @@ if pending then
   MyBissData.ItemSources[47086] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47086]],
@@ -22680,6 +25346,8 @@ if pending then
   MyBissData.ItemSources[47087] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47087]],
@@ -22697,6 +25365,8 @@ if pending then
   MyBissData.ItemSources[47088] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47088]],
@@ -22714,6 +25384,8 @@ if pending then
   MyBissData.ItemSources[47089] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47089]],
@@ -22731,6 +25403,8 @@ if pending then
   MyBissData.ItemSources[47090] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47090]],
@@ -22748,6 +25422,8 @@ if pending then
   MyBissData.ItemSources[47092] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47092]],
@@ -22765,6 +25441,8 @@ if pending then
   MyBissData.ItemSources[47094] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47094]],
@@ -22782,6 +25460,8 @@ if pending then
   MyBissData.ItemSources[47095] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47095]],
@@ -22799,6 +25479,8 @@ if pending then
   MyBissData.ItemSources[47096] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47096]],
@@ -22816,6 +25498,8 @@ if pending then
   MyBissData.ItemSources[47097] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47097]],
@@ -22833,6 +25517,8 @@ if pending then
   MyBissData.ItemSources[47098] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47098]],
@@ -22850,6 +25536,8 @@ if pending then
   MyBissData.ItemSources[47099] = {
     instance = [[Trial of the Crusader]],
     boss = [[Cache]],
+    origin = [[Cache]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47099]],
@@ -22867,6 +25555,8 @@ if pending then
   MyBissData.ItemSources[47105] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47105]],
@@ -22884,6 +25574,8 @@ if pending then
   MyBissData.ItemSources[47106] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47106]],
@@ -22901,6 +25593,8 @@ if pending then
   MyBissData.ItemSources[47107] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47107]],
@@ -22918,6 +25612,8 @@ if pending then
   MyBissData.ItemSources[47108] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47108]],
@@ -22935,6 +25631,8 @@ if pending then
   MyBissData.ItemSources[47109] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47109]],
@@ -22952,6 +25650,8 @@ if pending then
   MyBissData.ItemSources[47110] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47110]],
@@ -22969,6 +25669,8 @@ if pending then
   MyBissData.ItemSources[47111] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47111]],
@@ -22986,6 +25688,8 @@ if pending then
   MyBissData.ItemSources[47112] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47112]],
@@ -23003,6 +25707,8 @@ if pending then
   MyBissData.ItemSources[47113] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47113]],
@@ -23020,6 +25726,8 @@ if pending then
   MyBissData.ItemSources[47115] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47115]],
@@ -23037,6 +25745,8 @@ if pending then
   MyBissData.ItemSources[47116] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47116]],
@@ -23054,6 +25764,8 @@ if pending then
   MyBissData.ItemSources[47121] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47121]],
@@ -23071,6 +25783,8 @@ if pending then
   MyBissData.ItemSources[47126] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47126]],
@@ -23088,6 +25802,8 @@ if pending then
   MyBissData.ItemSources[47129] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47129]],
@@ -23105,6 +25821,8 @@ if pending then
   MyBissData.ItemSources[47130] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47130]],
@@ -23122,6 +25840,8 @@ if pending then
   MyBissData.ItemSources[47131] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47131]],
@@ -23139,6 +25859,8 @@ if pending then
   MyBissData.ItemSources[47132] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47132]],
@@ -23156,6 +25878,8 @@ if pending then
   MyBissData.ItemSources[47133] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47133]],
@@ -23173,6 +25897,8 @@ if pending then
   MyBissData.ItemSources[47138] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47138]],
@@ -23190,6 +25916,8 @@ if pending then
   MyBissData.ItemSources[47139] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47139]],
@@ -23207,6 +25935,8 @@ if pending then
   MyBissData.ItemSources[47140] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47140]],
@@ -23224,6 +25954,8 @@ if pending then
   MyBissData.ItemSources[47141] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47141]],
@@ -23241,6 +25973,8 @@ if pending then
   MyBissData.ItemSources[47142] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47142]],
@@ -23258,6 +25992,8 @@ if pending then
   MyBissData.ItemSources[47143] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47143]],
@@ -23275,6 +26011,8 @@ if pending then
   MyBissData.ItemSources[47144] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47144]],
@@ -23292,6 +26030,8 @@ if pending then
   MyBissData.ItemSources[47145] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47145]],
@@ -23309,6 +26049,8 @@ if pending then
   MyBissData.ItemSources[47146] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47146]],
@@ -23326,6 +26068,8 @@ if pending then
   MyBissData.ItemSources[47147] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47147]],
@@ -23343,6 +26087,8 @@ if pending then
   MyBissData.ItemSources[47148] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47148]],
@@ -23360,6 +26106,8 @@ if pending then
   MyBissData.ItemSources[47149] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47149]],
@@ -23377,6 +26125,8 @@ if pending then
   MyBissData.ItemSources[47150] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47150]],
@@ -23394,6 +26144,8 @@ if pending then
   MyBissData.ItemSources[47151] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47151]],
@@ -23411,6 +26163,8 @@ if pending then
   MyBissData.ItemSources[47152] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47152]],
@@ -23428,6 +26182,8 @@ if pending then
   MyBissData.ItemSources[47153] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47153]],
@@ -23445,6 +26201,8 @@ if pending then
   MyBissData.ItemSources[47154] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47154]],
@@ -23462,6 +26220,8 @@ if pending then
   MyBissData.ItemSources[47155] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47155]],
@@ -23479,6 +26239,8 @@ if pending then
   MyBissData.ItemSources[47156] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47156]],
@@ -23496,6 +26258,8 @@ if pending then
   MyBissData.ItemSources[47157] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47157]],
@@ -23513,6 +26277,8 @@ if pending then
   MyBissData.ItemSources[47182] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47182]],
@@ -23530,6 +26296,8 @@ if pending then
   MyBissData.ItemSources[47183] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47183]],
@@ -23547,6 +26315,8 @@ if pending then
   MyBissData.ItemSources[47184] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47184]],
@@ -23564,6 +26334,8 @@ if pending then
   MyBissData.ItemSources[47186] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47186]],
@@ -23581,6 +26353,8 @@ if pending then
   MyBissData.ItemSources[47187] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47187]],
@@ -23598,6 +26372,8 @@ if pending then
   MyBissData.ItemSources[47188] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47188]],
@@ -23615,6 +26391,8 @@ if pending then
   MyBissData.ItemSources[47189] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47189]],
@@ -23632,6 +26410,8 @@ if pending then
   MyBissData.ItemSources[47190] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47190]],
@@ -23649,6 +26429,8 @@ if pending then
   MyBissData.ItemSources[47191] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47191]],
@@ -23666,6 +26448,8 @@ if pending then
   MyBissData.ItemSources[47192] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47192]],
@@ -23683,6 +26467,8 @@ if pending then
   MyBissData.ItemSources[47193] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47193]],
@@ -23700,6 +26486,8 @@ if pending then
   MyBissData.ItemSources[47194] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47194]],
@@ -23717,6 +26505,8 @@ if pending then
   MyBissData.ItemSources[47203] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47203]],
@@ -23734,6 +26524,8 @@ if pending then
   MyBissData.ItemSources[47205] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47205]],
@@ -23751,6 +26543,8 @@ if pending then
   MyBissData.ItemSources[47206] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47206]],
@@ -23768,6 +26562,8 @@ if pending then
   MyBissData.ItemSources[47207] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47207]],
@@ -23785,6 +26581,8 @@ if pending then
   MyBissData.ItemSources[47208] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47208]],
@@ -23802,6 +26600,8 @@ if pending then
   MyBissData.ItemSources[47209] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47209]],
@@ -23819,6 +26619,8 @@ if pending then
   MyBissData.ItemSources[47213] = {
     instance = [[Trial of the Champion]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Trial of the Champion (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47213]],
@@ -23836,6 +26638,8 @@ if pending then
   MyBissData.ItemSources[47216] = {
     instance = [[Trial of the Champion]],
     boss = [[The Black Knight]],
+    origin = [[The Black Knight]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Trial of the Champion (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47216]],
@@ -23853,6 +26657,8 @@ if pending then
   MyBissData.ItemSources[47223] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Defiler's Scourgestone (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47223]],
@@ -23870,6 +26676,8 @@ if pending then
   MyBissData.ItemSources[47224] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47224]],
@@ -23887,6 +26695,8 @@ if pending then
   MyBissData.ItemSources[47234] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47234]],
@@ -23904,6 +26714,8 @@ if pending then
   MyBissData.ItemSources[47235] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47235]],
@@ -23921,6 +26733,8 @@ if pending then
   MyBissData.ItemSources[47236] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47236]],
@@ -23938,6 +26752,8 @@ if pending then
   MyBissData.ItemSources[47237] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47237]],
@@ -23955,6 +26771,8 @@ if pending then
   MyBissData.ItemSources[47238] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47238]],
@@ -23972,6 +26790,8 @@ if pending then
   MyBissData.ItemSources[47239] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47239]],
@@ -23989,6 +26809,8 @@ if pending then
   MyBissData.ItemSources[47240] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47240]],
@@ -24006,6 +26828,8 @@ if pending then
   MyBissData.ItemSources[47250] = {
     instance = [[Trial of the Champion]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Trial of the Champion (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47250]],
@@ -24023,6 +26847,8 @@ if pending then
   MyBissData.ItemSources[47506] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47506]],
@@ -24040,6 +26866,8 @@ if pending then
   MyBissData.ItemSources[47512] = {
     instance = [[Trial of the Champion]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Trial of the Champion (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47512]],
@@ -24057,6 +26885,8 @@ if pending then
   MyBissData.ItemSources[47515] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47515]],
@@ -24074,6 +26904,8 @@ if pending then
   MyBissData.ItemSources[47517] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47517]],
@@ -24091,6 +26923,8 @@ if pending then
   MyBissData.ItemSources[47519] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47519]],
@@ -24108,6 +26942,8 @@ if pending then
   MyBissData.ItemSources[47521] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47521]],
@@ -24125,6 +26961,8 @@ if pending then
   MyBissData.ItemSources[47524] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47524]],
@@ -24142,6 +26980,8 @@ if pending then
   MyBissData.ItemSources[47526] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47526]],
@@ -24159,6 +26999,8 @@ if pending then
   MyBissData.ItemSources[47529] = {
     instance = [[Trial of the Champion]],
     boss = [[The Black Knight]],
+    origin = [[The Black Knight]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Trial of the Champion (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47529]],
@@ -24176,6 +27018,8 @@ if pending then
   MyBissData.ItemSources[47545] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47545]],
@@ -24193,6 +27037,8 @@ if pending then
   MyBissData.ItemSources[47547] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47547]],
@@ -24210,6 +27056,8 @@ if pending then
   MyBissData.ItemSources[47549] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47549]],
@@ -24227,6 +27075,8 @@ if pending then
   MyBissData.ItemSources[47552] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47552]],
@@ -24244,6 +27094,8 @@ if pending then
   MyBissData.ItemSources[47553] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47553]],
@@ -24261,6 +27113,8 @@ if pending then
   MyBissData.ItemSources[47564] = {
     instance = [[Trial of the Champion]],
     boss = [[The Black Knight]],
+    origin = [[The Black Knight]],
+    sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Dungeon. Orígenes: Trial of the Champion (Dungeon, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47564]],
@@ -24278,6 +27132,8 @@ if pending then
   MyBissData.ItemSources[47570] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47570]],
@@ -24295,6 +27151,8 @@ if pending then
   MyBissData.ItemSources[47572] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47572]],
@@ -24312,6 +27170,8 @@ if pending then
   MyBissData.ItemSources[47576] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47576]],
@@ -24329,6 +27189,8 @@ if pending then
   MyBissData.ItemSources[47579] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47579]],
@@ -24346,6 +27208,8 @@ if pending then
   MyBissData.ItemSources[47581] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47581]],
@@ -24363,6 +27227,8 @@ if pending then
   MyBissData.ItemSources[47585] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47585]],
@@ -24380,6 +27246,8 @@ if pending then
   MyBissData.ItemSources[47587] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47587]],
@@ -24397,6 +27265,8 @@ if pending then
   MyBissData.ItemSources[47589] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47589]],
@@ -24414,6 +27284,8 @@ if pending then
   MyBissData.ItemSources[47591] = {
     instance = [[Blacksmithing]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Blacksmithing (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47591]],
@@ -24431,6 +27303,8 @@ if pending then
   MyBissData.ItemSources[47599] = {
     instance = [[Leatherworking]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Leatherworking (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47599]],
@@ -24448,6 +27322,8 @@ if pending then
   MyBissData.ItemSources[47603] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47603]],
@@ -24465,6 +27341,8 @@ if pending then
   MyBissData.ItemSources[47605] = {
     instance = [[Tailoring]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Crafted. Orígenes: Tailoring (Crafted, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47605]],
@@ -24482,6 +27360,8 @@ if pending then
   MyBissData.ItemSources[47608] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47608]],
@@ -24499,6 +27379,8 @@ if pending then
   MyBissData.ItemSources[47611] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47611]],
@@ -24516,6 +27398,8 @@ if pending then
   MyBissData.ItemSources[47612] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47612]],
@@ -24533,6 +27417,8 @@ if pending then
   MyBissData.ItemSources[47617] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47617]],
@@ -24550,6 +27436,8 @@ if pending then
   MyBissData.ItemSources[47618] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47618]],
@@ -24567,6 +27455,8 @@ if pending then
   MyBissData.ItemSources[47658] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47658]],
@@ -24584,6 +27474,8 @@ if pending then
   MyBissData.ItemSources[47659] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47659]],
@@ -24601,6 +27493,8 @@ if pending then
   MyBissData.ItemSources[47660] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47660]],
@@ -24618,6 +27512,8 @@ if pending then
   MyBissData.ItemSources[47661] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47661]],
@@ -24635,6 +27531,8 @@ if pending then
   MyBissData.ItemSources[47662] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47662]],
@@ -24652,6 +27550,8 @@ if pending then
   MyBissData.ItemSources[47663] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47663]],
@@ -24669,6 +27569,8 @@ if pending then
   MyBissData.ItemSources[47664] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47664]],
@@ -24686,6 +27588,8 @@ if pending then
   MyBissData.ItemSources[47665] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47665]],
@@ -24703,6 +27607,8 @@ if pending then
   MyBissData.ItemSources[47666] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47666]],
@@ -24720,6 +27626,8 @@ if pending then
   MyBissData.ItemSources[47667] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47667]],
@@ -24737,6 +27645,8 @@ if pending then
   MyBissData.ItemSources[47668] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47668]],
@@ -24754,6 +27664,8 @@ if pending then
   MyBissData.ItemSources[47670] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47670]],
@@ -24771,6 +27683,8 @@ if pending then
   MyBissData.ItemSources[47671] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47671]],
@@ -24788,6 +27702,8 @@ if pending then
   MyBissData.ItemSources[47672] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47672]],
@@ -24805,6 +27721,8 @@ if pending then
   MyBissData.ItemSources[47673] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47673]],
@@ -24822,6 +27740,8 @@ if pending then
   MyBissData.ItemSources[47674] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47674]],
@@ -24839,6 +27759,8 @@ if pending then
   MyBissData.ItemSources[47677] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47677]],
@@ -24856,6 +27778,8 @@ if pending then
   MyBissData.ItemSources[47679] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47679]],
@@ -24873,6 +27797,8 @@ if pending then
   MyBissData.ItemSources[47686] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47686]],
@@ -24890,6 +27816,8 @@ if pending then
   MyBissData.ItemSources[47689] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47689]],
@@ -24907,6 +27835,8 @@ if pending then
   MyBissData.ItemSources[47690] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47690]],
@@ -24924,6 +27854,8 @@ if pending then
   MyBissData.ItemSources[47693] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47693]],
@@ -24941,6 +27873,8 @@ if pending then
   MyBissData.ItemSources[47694] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47694]],
@@ -24958,6 +27892,8 @@ if pending then
   MyBissData.ItemSources[47697] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47697]],
@@ -24975,6 +27911,8 @@ if pending then
   MyBissData.ItemSources[47698] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47698]],
@@ -24992,6 +27930,8 @@ if pending then
   MyBissData.ItemSources[47702] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47702]],
@@ -25009,6 +27949,8 @@ if pending then
   MyBissData.ItemSources[47703] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47703]],
@@ -25026,6 +27968,8 @@ if pending then
   MyBissData.ItemSources[47704] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47704]],
@@ -25043,6 +27987,8 @@ if pending then
   MyBissData.ItemSources[47708] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47708]],
@@ -25060,6 +28006,8 @@ if pending then
   MyBissData.ItemSources[47713] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47713]],
@@ -25077,6 +28025,8 @@ if pending then
   MyBissData.ItemSources[47715] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47715]],
@@ -25094,6 +28044,8 @@ if pending then
   MyBissData.ItemSources[47718] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47718]],
@@ -25111,6 +28063,8 @@ if pending then
   MyBissData.ItemSources[47719] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47719]],
@@ -25128,6 +28082,8 @@ if pending then
   MyBissData.ItemSources[47720] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47720]],
@@ -25145,6 +28101,8 @@ if pending then
   MyBissData.ItemSources[47729] = {
     instance = [[Emblem of Triumph / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47729]],
@@ -25162,6 +28120,8 @@ if pending then
   MyBissData.ItemSources[47731] = {
     instance = [[Emblem of Triumph / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47731]],
@@ -25179,6 +28139,8 @@ if pending then
   MyBissData.ItemSources[47732] = {
     instance = [[Emblem of Triumph / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47732]],
@@ -25196,6 +28158,8 @@ if pending then
   MyBissData.ItemSources[47733] = {
     instance = [[Emblem of Triumph / Kirin Tor rings]],
     boss = [[Harold Winston]],
+    origin = [[Harold Winston]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1); Kirin Tor rings (Tipo no indicado). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47733]],
@@ -25213,6 +28177,8 @@ if pending then
   MyBissData.ItemSources[47734] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47734]],
@@ -25230,6 +28196,8 @@ if pending then
   MyBissData.ItemSources[47735] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47735]],
@@ -25247,6 +28215,8 @@ if pending then
   MyBissData.ItemSources[47738] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47738]],
@@ -25264,6 +28234,8 @@ if pending then
   MyBissData.ItemSources[47742] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47742]],
@@ -25281,6 +28253,8 @@ if pending then
   MyBissData.ItemSources[47745] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47745]],
@@ -25298,6 +28272,8 @@ if pending then
   MyBissData.ItemSources[47747] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47747]],
@@ -25315,6 +28291,8 @@ if pending then
   MyBissData.ItemSources[47748] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47748]],
@@ -25332,6 +28310,8 @@ if pending then
   MyBissData.ItemSources[47751] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47751]],
@@ -25349,6 +28329,8 @@ if pending then
   MyBissData.ItemSources[47754] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47754]],
@@ -25366,6 +28348,8 @@ if pending then
   MyBissData.ItemSources[47756] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47756]],
@@ -25383,6 +28367,8 @@ if pending then
   MyBissData.ItemSources[47757] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47757]],
@@ -25400,6 +28386,8 @@ if pending then
   MyBissData.ItemSources[47758] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47758]],
@@ -25417,6 +28405,8 @@ if pending then
   MyBissData.ItemSources[47759] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47759]],
@@ -25434,6 +28424,8 @@ if pending then
   MyBissData.ItemSources[47760] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47760]],
@@ -25451,6 +28443,8 @@ if pending then
   MyBissData.ItemSources[47761] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47761]],
@@ -25468,6 +28462,8 @@ if pending then
   MyBissData.ItemSources[47762] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47762]],
@@ -25485,6 +28481,8 @@ if pending then
   MyBissData.ItemSources[47779] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47779]],
@@ -25502,6 +28500,8 @@ if pending then
   MyBissData.ItemSources[47781] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47781]],
@@ -25519,6 +28519,8 @@ if pending then
   MyBissData.ItemSources[47782] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47782]],
@@ -25536,6 +28538,8 @@ if pending then
   MyBissData.ItemSources[47788] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47788]],
@@ -25553,6 +28557,8 @@ if pending then
   MyBissData.ItemSources[47789] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47789]],
@@ -25570,6 +28576,8 @@ if pending then
   MyBissData.ItemSources[47790] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47790]],
@@ -25587,6 +28595,8 @@ if pending then
   MyBissData.ItemSources[47791] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47791]],
@@ -25604,6 +28614,8 @@ if pending then
   MyBissData.ItemSources[47792] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47792]],
@@ -25621,6 +28633,8 @@ if pending then
   MyBissData.ItemSources[47813] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47813]],
@@ -25638,6 +28652,8 @@ if pending then
   MyBissData.ItemSources[47835] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47835]],
@@ -25655,6 +28671,8 @@ if pending then
   MyBissData.ItemSources[47837] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47837]],
@@ -25672,6 +28690,8 @@ if pending then
   MyBissData.ItemSources[47838] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47838]],
@@ -25689,6 +28709,8 @@ if pending then
   MyBissData.ItemSources[47915] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47915]],
@@ -25706,6 +28728,8 @@ if pending then
   MyBissData.ItemSources[47916] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47916]],
@@ -25723,6 +28747,8 @@ if pending then
   MyBissData.ItemSources[47917] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47917]],
@@ -25740,6 +28766,8 @@ if pending then
   MyBissData.ItemSources[47918] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47918]],
@@ -25757,6 +28785,8 @@ if pending then
   MyBissData.ItemSources[47919] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47919]],
@@ -25774,6 +28804,8 @@ if pending then
   MyBissData.ItemSources[47920] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47920]],
@@ -25791,6 +28823,8 @@ if pending then
   MyBissData.ItemSources[47921] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47921]],
@@ -25808,6 +28842,8 @@ if pending then
   MyBissData.ItemSources[47922] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47922]],
@@ -25825,6 +28861,8 @@ if pending then
   MyBissData.ItemSources[47923] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47923]],
@@ -25842,6 +28880,8 @@ if pending then
   MyBissData.ItemSources[47924] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47924]],
@@ -25859,6 +28899,8 @@ if pending then
   MyBissData.ItemSources[47925] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47925]],
@@ -25876,6 +28918,8 @@ if pending then
   MyBissData.ItemSources[47926] = {
     instance = [[Trial of the Crusader]],
     boss = [[Icehowl]],
+    origin = [[Icehowl]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47926]],
@@ -25893,6 +28937,8 @@ if pending then
   MyBissData.ItemSources[47927] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47927]],
@@ -25910,6 +28956,8 @@ if pending then
   MyBissData.ItemSources[47928] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47928]],
@@ -25927,6 +28975,8 @@ if pending then
   MyBissData.ItemSources[47930] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47930]],
@@ -25944,6 +28994,8 @@ if pending then
   MyBissData.ItemSources[47931] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47931]],
@@ -25961,6 +29013,8 @@ if pending then
   MyBissData.ItemSources[47934] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47934]],
@@ -25978,6 +29032,8 @@ if pending then
   MyBissData.ItemSources[47935] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47935]],
@@ -25995,6 +29051,8 @@ if pending then
   MyBissData.ItemSources[47937] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47937]],
@@ -26012,6 +29070,8 @@ if pending then
   MyBissData.ItemSources[47938] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47938]],
@@ -26029,6 +29089,8 @@ if pending then
   MyBissData.ItemSources[47939] = {
     instance = [[Trial of the Crusader]],
     boss = [[Lord Jaraxxus]],
+    origin = [[Lord Jaraxxus]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47939]],
@@ -26046,6 +29108,8 @@ if pending then
   MyBissData.ItemSources[47940] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47940]],
@@ -26063,6 +29127,8 @@ if pending then
   MyBissData.ItemSources[47941] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47941]],
@@ -26080,6 +29146,8 @@ if pending then
   MyBissData.ItemSources[47942] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47942]],
@@ -26097,6 +29165,8 @@ if pending then
   MyBissData.ItemSources[47943] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47943]],
@@ -26114,6 +29184,8 @@ if pending then
   MyBissData.ItemSources[47944] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47944]],
@@ -26131,6 +29203,8 @@ if pending then
   MyBissData.ItemSources[47945] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47945]],
@@ -26148,6 +29222,8 @@ if pending then
   MyBissData.ItemSources[47948] = {
     instance = [[Trial of the Crusader]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47948]],
@@ -26165,6 +29241,8 @@ if pending then
   MyBissData.ItemSources[47950] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47950]],
@@ -26182,6 +29260,8 @@ if pending then
   MyBissData.ItemSources[47952] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47952]],
@@ -26199,6 +29279,8 @@ if pending then
   MyBissData.ItemSources[47954] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47954]],
@@ -26216,6 +29298,8 @@ if pending then
   MyBissData.ItemSources[47955] = {
     instance = [[Trial of the Crusader]],
     boss = [[Fjola Lightbane]],
+    origin = [[Fjola Lightbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47955]],
@@ -26233,6 +29317,8 @@ if pending then
   MyBissData.ItemSources[47956] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47956]],
@@ -26250,6 +29336,8 @@ if pending then
   MyBissData.ItemSources[47957] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47957]],
@@ -26267,6 +29355,8 @@ if pending then
   MyBissData.ItemSources[47958] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47958]],
@@ -26284,6 +29374,8 @@ if pending then
   MyBissData.ItemSources[47960] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47960]],
@@ -26301,6 +29393,8 @@ if pending then
   MyBissData.ItemSources[47962] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47962]],
@@ -26318,6 +29412,8 @@ if pending then
   MyBissData.ItemSources[47963] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47963]],
@@ -26335,6 +29431,8 @@ if pending then
   MyBissData.ItemSources[47964] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47964]],
@@ -26352,6 +29450,8 @@ if pending then
   MyBissData.ItemSources[47965] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47965]],
@@ -26369,6 +29469,8 @@ if pending then
   MyBissData.ItemSources[47966] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47966]],
@@ -26386,6 +29488,8 @@ if pending then
   MyBissData.ItemSources[47967] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47967]],
@@ -26403,6 +29507,8 @@ if pending then
   MyBissData.ItemSources[47969] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47969]],
@@ -26420,6 +29526,8 @@ if pending then
   MyBissData.ItemSources[47970] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47970]],
@@ -26437,6 +29545,8 @@ if pending then
   MyBissData.ItemSources[47971] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47971]],
@@ -26454,6 +29564,8 @@ if pending then
   MyBissData.ItemSources[47972] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47972]],
@@ -26471,6 +29583,8 @@ if pending then
   MyBissData.ItemSources[47973] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47973]],
@@ -26488,6 +29602,8 @@ if pending then
   MyBissData.ItemSources[47974] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47974]],
@@ -26505,6 +29621,8 @@ if pending then
   MyBissData.ItemSources[47977] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47977]],
@@ -26522,6 +29640,8 @@ if pending then
   MyBissData.ItemSources[47978] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47978]],
@@ -26539,6 +29659,8 @@ if pending then
   MyBissData.ItemSources[47979] = {
     instance = [[Trial of the Crusader]],
     boss = [[Anub'arak]],
+    origin = [[Anub'arak]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=47979]],
@@ -26556,6 +29678,8 @@ if pending then
   MyBissData.ItemSources[47980] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=47980]],
@@ -26573,6 +29697,8 @@ if pending then
   MyBissData.ItemSources[47983] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47983]],
@@ -26590,6 +29716,8 @@ if pending then
   MyBissData.ItemSources[47984] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47984]],
@@ -26607,6 +29735,8 @@ if pending then
   MyBissData.ItemSources[47985] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47985]],
@@ -26624,6 +29754,8 @@ if pending then
   MyBissData.ItemSources[47986] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47986]],
@@ -26641,6 +29773,8 @@ if pending then
   MyBissData.ItemSources[47987] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=47987]],
@@ -26658,6 +29792,8 @@ if pending then
   MyBissData.ItemSources[48029] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48029]],
@@ -26675,6 +29811,8 @@ if pending then
   MyBissData.ItemSources[48031] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48031]],
@@ -26692,6 +29830,8 @@ if pending then
   MyBissData.ItemSources[48033] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48033]],
@@ -26709,6 +29849,8 @@ if pending then
   MyBissData.ItemSources[48035] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48035]],
@@ -26726,6 +29868,8 @@ if pending then
   MyBissData.ItemSources[48037] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48037]],
@@ -26743,6 +29887,8 @@ if pending then
   MyBissData.ItemSources[48073] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48073]],
@@ -26760,6 +29906,8 @@ if pending then
   MyBissData.ItemSources[48074] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48074]],
@@ -26777,6 +29925,8 @@ if pending then
   MyBissData.ItemSources[48075] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48075]],
@@ -26794,6 +29944,8 @@ if pending then
   MyBissData.ItemSources[48077] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48077]],
@@ -26811,6 +29963,8 @@ if pending then
   MyBissData.ItemSources[48078] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48078]],
@@ -26828,6 +29982,8 @@ if pending then
   MyBissData.ItemSources[48079] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48079]],
@@ -26845,6 +30001,8 @@ if pending then
   MyBissData.ItemSources[48080] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48080]],
@@ -26862,6 +30020,8 @@ if pending then
   MyBissData.ItemSources[48082] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48082]],
@@ -26879,6 +30039,8 @@ if pending then
   MyBissData.ItemSources[48083] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48083]],
@@ -26896,6 +30058,8 @@ if pending then
   MyBissData.ItemSources[48084] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48084]],
@@ -26913,6 +30077,8 @@ if pending then
   MyBissData.ItemSources[48085] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48085]],
@@ -26930,6 +30096,8 @@ if pending then
   MyBissData.ItemSources[48086] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48086]],
@@ -26947,6 +30115,8 @@ if pending then
   MyBissData.ItemSources[48131] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48131]],
@@ -26964,6 +30134,8 @@ if pending then
   MyBissData.ItemSources[48135] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48135]],
@@ -26981,6 +30153,8 @@ if pending then
   MyBissData.ItemSources[48137] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48137]],
@@ -26998,6 +30172,8 @@ if pending then
   MyBissData.ItemSources[48138] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48138]],
@@ -27015,6 +30191,8 @@ if pending then
   MyBissData.ItemSources[48140] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48140]],
@@ -27032,6 +30210,8 @@ if pending then
   MyBissData.ItemSources[48141] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48141]],
@@ -27049,6 +30229,8 @@ if pending then
   MyBissData.ItemSources[48142] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48142]],
@@ -27066,6 +30248,8 @@ if pending then
   MyBissData.ItemSources[48158] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48158]],
@@ -27083,6 +30267,8 @@ if pending then
   MyBissData.ItemSources[48164] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48164]],
@@ -27100,6 +30286,8 @@ if pending then
   MyBissData.ItemSources[48165] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48165]],
@@ -27117,6 +30305,8 @@ if pending then
   MyBissData.ItemSources[48168] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48168]],
@@ -27134,6 +30324,8 @@ if pending then
   MyBissData.ItemSources[48169] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48169]],
@@ -27151,6 +30343,8 @@ if pending then
   MyBissData.ItemSources[48170] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48170]],
@@ -27168,6 +30362,8 @@ if pending then
   MyBissData.ItemSources[48171] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48171]],
@@ -27185,6 +30381,8 @@ if pending then
   MyBissData.ItemSources[48172] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48172]],
@@ -27202,6 +30400,8 @@ if pending then
   MyBissData.ItemSources[48203] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48203]],
@@ -27219,6 +30419,8 @@ if pending then
   MyBissData.ItemSources[48204] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48204]],
@@ -27236,6 +30438,8 @@ if pending then
   MyBissData.ItemSources[48205] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48205]],
@@ -27253,6 +30457,8 @@ if pending then
   MyBissData.ItemSources[48206] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48206]],
@@ -27270,6 +30476,8 @@ if pending then
   MyBissData.ItemSources[48207] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48207]],
@@ -27287,6 +30495,8 @@ if pending then
   MyBissData.ItemSources[48208] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48208]],
@@ -27304,6 +30514,8 @@ if pending then
   MyBissData.ItemSources[48209] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48209]],
@@ -27321,6 +30533,8 @@ if pending then
   MyBissData.ItemSources[48210] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48210]],
@@ -27338,6 +30552,8 @@ if pending then
   MyBissData.ItemSources[48211] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48211]],
@@ -27355,6 +30571,8 @@ if pending then
   MyBissData.ItemSources[48212] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48212]],
@@ -27372,6 +30590,8 @@ if pending then
   MyBissData.ItemSources[48214] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48214]],
@@ -27389,6 +30609,8 @@ if pending then
   MyBissData.ItemSources[48217] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48217]],
@@ -27406,6 +30628,8 @@ if pending then
   MyBissData.ItemSources[48219] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48219]],
@@ -27423,6 +30647,8 @@ if pending then
   MyBissData.ItemSources[48222] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48222]],
@@ -27440,6 +30666,8 @@ if pending then
   MyBissData.ItemSources[48223] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48223]],
@@ -27457,6 +30685,8 @@ if pending then
   MyBissData.ItemSources[48224] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48224]],
@@ -27474,6 +30704,8 @@ if pending then
   MyBissData.ItemSources[48225] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48225]],
@@ -27491,6 +30723,8 @@ if pending then
   MyBissData.ItemSources[48226] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48226]],
@@ -27508,6 +30742,8 @@ if pending then
   MyBissData.ItemSources[48227] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48227]],
@@ -27525,6 +30761,8 @@ if pending then
   MyBissData.ItemSources[48228] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48228]],
@@ -27542,6 +30780,8 @@ if pending then
   MyBissData.ItemSources[48229] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48229]],
@@ -27559,6 +30799,8 @@ if pending then
   MyBissData.ItemSources[48230] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48230]],
@@ -27576,6 +30818,8 @@ if pending then
   MyBissData.ItemSources[48231] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48231]],
@@ -27593,6 +30837,8 @@ if pending then
   MyBissData.ItemSources[48232] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48232]],
@@ -27610,6 +30856,8 @@ if pending then
   MyBissData.ItemSources[48251] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48251]],
@@ -27627,6 +30875,8 @@ if pending then
   MyBissData.ItemSources[48253] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48253]],
@@ -27644,6 +30894,8 @@ if pending then
   MyBissData.ItemSources[48255] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48255]],
@@ -27661,6 +30913,8 @@ if pending then
   MyBissData.ItemSources[48256] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48256]],
@@ -27678,6 +30932,8 @@ if pending then
   MyBissData.ItemSources[48257] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48257]],
@@ -27695,6 +30951,8 @@ if pending then
   MyBissData.ItemSources[48258] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48258]],
@@ -27712,6 +30970,8 @@ if pending then
   MyBissData.ItemSources[48259] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48259]],
@@ -27729,6 +30989,8 @@ if pending then
   MyBissData.ItemSources[48260] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48260]],
@@ -27746,6 +31008,8 @@ if pending then
   MyBissData.ItemSources[48261] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48261]],
@@ -27763,6 +31027,8 @@ if pending then
   MyBissData.ItemSources[48262] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48262]],
@@ -27780,6 +31046,8 @@ if pending then
   MyBissData.ItemSources[48263] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48263]],
@@ -27797,6 +31065,8 @@ if pending then
   MyBissData.ItemSources[48264] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48264]],
@@ -27814,6 +31084,8 @@ if pending then
   MyBissData.ItemSources[48285] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48285]],
@@ -27831,6 +31103,8 @@ if pending then
   MyBissData.ItemSources[48287] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48287]],
@@ -27848,6 +31122,8 @@ if pending then
   MyBissData.ItemSources[48290] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48290]],
@@ -27865,6 +31141,8 @@ if pending then
   MyBissData.ItemSources[48291] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48291]],
@@ -27882,6 +31160,8 @@ if pending then
   MyBissData.ItemSources[48292] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48292]],
@@ -27899,6 +31179,8 @@ if pending then
   MyBissData.ItemSources[48293] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48293]],
@@ -27916,6 +31198,8 @@ if pending then
   MyBissData.ItemSources[48294] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48294]],
@@ -27933,6 +31217,8 @@ if pending then
   MyBissData.ItemSources[48310] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48310]],
@@ -27950,6 +31236,8 @@ if pending then
   MyBissData.ItemSources[48312] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48312]],
@@ -27967,6 +31255,8 @@ if pending then
   MyBissData.ItemSources[48316] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48316]],
@@ -27984,6 +31274,8 @@ if pending then
   MyBissData.ItemSources[48317] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48317]],
@@ -28001,6 +31293,8 @@ if pending then
   MyBissData.ItemSources[48319] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48319]],
@@ -28018,6 +31312,8 @@ if pending then
   MyBissData.ItemSources[48321] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48321]],
@@ -28035,6 +31331,8 @@ if pending then
   MyBissData.ItemSources[48322] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48322]],
@@ -28052,6 +31350,8 @@ if pending then
   MyBissData.ItemSources[48323] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48323]],
@@ -28069,6 +31369,8 @@ if pending then
   MyBissData.ItemSources[48324] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48324]],
@@ -28086,6 +31388,8 @@ if pending then
   MyBissData.ItemSources[48325] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48325]],
@@ -28103,6 +31407,8 @@ if pending then
   MyBissData.ItemSources[48345] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48345]],
@@ -28120,6 +31426,8 @@ if pending then
   MyBissData.ItemSources[48346] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48346]],
@@ -28137,6 +31445,8 @@ if pending then
   MyBissData.ItemSources[48348] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48348]],
@@ -28154,6 +31464,8 @@ if pending then
   MyBissData.ItemSources[48349] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48349]],
@@ -28171,6 +31483,8 @@ if pending then
   MyBissData.ItemSources[48350] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48350]],
@@ -28188,6 +31502,8 @@ if pending then
   MyBissData.ItemSources[48351] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48351]],
@@ -28205,6 +31521,8 @@ if pending then
   MyBissData.ItemSources[48352] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48352]],
@@ -28222,6 +31540,8 @@ if pending then
   MyBissData.ItemSources[48353] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48353]],
@@ -28239,6 +31559,8 @@ if pending then
   MyBissData.ItemSources[48354] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48354]],
@@ -28256,6 +31578,8 @@ if pending then
   MyBissData.ItemSources[48355] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48355]],
@@ -28273,6 +31597,8 @@ if pending then
   MyBissData.ItemSources[48376] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48376]],
@@ -28290,6 +31616,8 @@ if pending then
   MyBissData.ItemSources[48377] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48377]],
@@ -28307,6 +31635,8 @@ if pending then
   MyBissData.ItemSources[48378] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48378]],
@@ -28324,6 +31654,8 @@ if pending then
   MyBissData.ItemSources[48379] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48379]],
@@ -28341,6 +31673,8 @@ if pending then
   MyBissData.ItemSources[48380] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48380]],
@@ -28358,6 +31692,8 @@ if pending then
   MyBissData.ItemSources[48381] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48381]],
@@ -28375,6 +31711,8 @@ if pending then
   MyBissData.ItemSources[48382] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48382]],
@@ -28392,6 +31730,8 @@ if pending then
   MyBissData.ItemSources[48383] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48383]],
@@ -28409,6 +31749,8 @@ if pending then
   MyBissData.ItemSources[48384] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48384]],
@@ -28426,6 +31768,8 @@ if pending then
   MyBissData.ItemSources[48385] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48385]],
@@ -28443,6 +31787,8 @@ if pending then
   MyBissData.ItemSources[48429] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48429]],
@@ -28460,6 +31806,8 @@ if pending then
   MyBissData.ItemSources[48430] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48430]],
@@ -28477,6 +31825,8 @@ if pending then
   MyBissData.ItemSources[48433] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48433]],
@@ -28494,6 +31844,8 @@ if pending then
   MyBissData.ItemSources[48445] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48445]],
@@ -28511,6 +31863,8 @@ if pending then
   MyBissData.ItemSources[48446] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48446]],
@@ -28528,6 +31882,8 @@ if pending then
   MyBissData.ItemSources[48447] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48447]],
@@ -28545,6 +31901,8 @@ if pending then
   MyBissData.ItemSources[48450] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48450]],
@@ -28562,6 +31920,8 @@ if pending then
   MyBissData.ItemSources[48451] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48451]],
@@ -28579,6 +31939,8 @@ if pending then
   MyBissData.ItemSources[48452] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48452]],
@@ -28596,6 +31958,8 @@ if pending then
   MyBissData.ItemSources[48453] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48453]],
@@ -28613,6 +31977,8 @@ if pending then
   MyBissData.ItemSources[48454] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48454]],
@@ -28630,6 +31996,8 @@ if pending then
   MyBissData.ItemSources[48455] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48455]],
@@ -28647,6 +32015,8 @@ if pending then
   MyBissData.ItemSources[48478] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48478]],
@@ -28664,6 +32034,8 @@ if pending then
   MyBissData.ItemSources[48480] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48480]],
@@ -28681,6 +32053,8 @@ if pending then
   MyBissData.ItemSources[48481] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48481]],
@@ -28698,6 +32072,8 @@ if pending then
   MyBissData.ItemSources[48482] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48482]],
@@ -28715,6 +32091,8 @@ if pending then
   MyBissData.ItemSources[48483] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48483]],
@@ -28732,6 +32110,8 @@ if pending then
   MyBissData.ItemSources[48484] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48484]],
@@ -28749,6 +32129,8 @@ if pending then
   MyBissData.ItemSources[48485] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48485]],
@@ -28766,6 +32148,8 @@ if pending then
   MyBissData.ItemSources[48486] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48486]],
@@ -28783,6 +32167,8 @@ if pending then
   MyBissData.ItemSources[48487] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48487]],
@@ -28800,6 +32186,8 @@ if pending then
   MyBissData.ItemSources[48488] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48488]],
@@ -28817,6 +32205,8 @@ if pending then
   MyBissData.ItemSources[48489] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48489]],
@@ -28834,6 +32224,8 @@ if pending then
   MyBissData.ItemSources[48490] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48490]],
@@ -28851,6 +32243,8 @@ if pending then
   MyBissData.ItemSources[48529] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48529]],
@@ -28868,6 +32262,8 @@ if pending then
   MyBissData.ItemSources[48535] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48535]],
@@ -28885,6 +32281,8 @@ if pending then
   MyBissData.ItemSources[48537] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48537]],
@@ -28902,6 +32300,8 @@ if pending then
   MyBissData.ItemSources[48539] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48539]],
@@ -28919,6 +32319,8 @@ if pending then
   MyBissData.ItemSources[48540] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48540]],
@@ -28936,6 +32338,8 @@ if pending then
   MyBissData.ItemSources[48541] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48541]],
@@ -28953,6 +32357,8 @@ if pending then
   MyBissData.ItemSources[48542] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48542]],
@@ -28970,6 +32376,8 @@ if pending then
   MyBissData.ItemSources[48543] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48543]],
@@ -28987,6 +32395,8 @@ if pending then
   MyBissData.ItemSources[48544] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48544]],
@@ -29004,6 +32414,8 @@ if pending then
   MyBissData.ItemSources[48545] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48545]],
@@ -29021,6 +32433,8 @@ if pending then
   MyBissData.ItemSources[48546] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48546]],
@@ -29038,6 +32452,8 @@ if pending then
   MyBissData.ItemSources[48547] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48547]],
@@ -29055,6 +32471,8 @@ if pending then
   MyBissData.ItemSources[48564] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48564]],
@@ -29072,6 +32490,8 @@ if pending then
   MyBissData.ItemSources[48576] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48576]],
@@ -29089,6 +32509,8 @@ if pending then
   MyBissData.ItemSources[48577] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48577]],
@@ -29106,6 +32528,8 @@ if pending then
   MyBissData.ItemSources[48579] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48579]],
@@ -29123,6 +32547,8 @@ if pending then
   MyBissData.ItemSources[48580] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48580]],
@@ -29140,6 +32566,8 @@ if pending then
   MyBissData.ItemSources[48582] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48582]],
@@ -29157,6 +32585,8 @@ if pending then
   MyBissData.ItemSources[48583] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48583]],
@@ -29174,6 +32604,8 @@ if pending then
   MyBissData.ItemSources[48606] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48606]],
@@ -29191,6 +32623,8 @@ if pending then
   MyBissData.ItemSources[48608] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48608]],
@@ -29208,6 +32642,8 @@ if pending then
   MyBissData.ItemSources[48611] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48611]],
@@ -29225,6 +32661,8 @@ if pending then
   MyBissData.ItemSources[48612] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48612]],
@@ -29242,6 +32680,8 @@ if pending then
   MyBissData.ItemSources[48613] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48613]],
@@ -29259,6 +32699,8 @@ if pending then
   MyBissData.ItemSources[48614] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48614]],
@@ -29276,6 +32718,8 @@ if pending then
   MyBissData.ItemSources[48615] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48615]],
@@ -29293,6 +32737,8 @@ if pending then
   MyBissData.ItemSources[48616] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48616]],
@@ -29310,6 +32756,8 @@ if pending then
   MyBissData.ItemSources[48633] = {
     instance = [[Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Vault of Archavon (Raid, fase 1); Emblem of Triumph (Vendor). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48633]],
@@ -29327,6 +32775,8 @@ if pending then
   MyBissData.ItemSources[48634] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48634]],
@@ -29344,6 +32794,8 @@ if pending then
   MyBissData.ItemSources[48636] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48636]],
@@ -29361,6 +32813,8 @@ if pending then
   MyBissData.ItemSources[48637] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48637]],
@@ -29378,6 +32832,8 @@ if pending then
   MyBissData.ItemSources[48638] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48638]],
@@ -29395,6 +32851,8 @@ if pending then
   MyBissData.ItemSources[48639] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48639]],
@@ -29412,6 +32870,8 @@ if pending then
   MyBissData.ItemSources[48640] = {
     instance = [[Trial of the Crusader / Vault of Archavon / Emblem of Triumph]],
     boss = [[Koralon the Flame Watcher]],
+    origin = [[Koralon the Flame Watcher]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Vault of Archavon (Vendor, fase 1); Emblem of Triumph (Tipo no indicado). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48640]],
@@ -29429,6 +32889,8 @@ if pending then
   MyBissData.ItemSources[48641] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid, Vendor. Orígenes: Trial of the Crusader (Raid, fase 3); Emblem of Triumph (Vendor, fase 1). Fases: 3, 1. Ficha: https://www.wowhead.com/wotlk/item=48641]],
@@ -29446,6 +32908,8 @@ if pending then
   MyBissData.ItemSources[48642] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48642]],
@@ -29463,6 +32927,8 @@ if pending then
   MyBissData.ItemSources[48643] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48643]],
@@ -29480,6 +32946,8 @@ if pending then
   MyBissData.ItemSources[48644] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48644]],
@@ -29497,6 +32965,8 @@ if pending then
   MyBissData.ItemSources[48645] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48645]],
@@ -29514,6 +32984,8 @@ if pending then
   MyBissData.ItemSources[48646] = {
     instance = [[Trial of the Grand Crusader tier (T9)]],
     boss = [[Champion Isimode]],
+    origin = [[Champion Isimode]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Trial of the Grand Crusader tier (T9) (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48646]],
@@ -29531,6 +33003,8 @@ if pending then
   MyBissData.ItemSources[48671] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48671]],
@@ -29548,6 +33022,8 @@ if pending then
   MyBissData.ItemSources[48672] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48672]],
@@ -29565,6 +33041,8 @@ if pending then
   MyBissData.ItemSources[48673] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48673]],
@@ -29582,6 +33060,8 @@ if pending then
   MyBissData.ItemSources[48674] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48674]],
@@ -29599,6 +33079,8 @@ if pending then
   MyBissData.ItemSources[48675] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48675]],
@@ -29616,6 +33098,8 @@ if pending then
   MyBissData.ItemSources[48708] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48708]],
@@ -29633,6 +33117,8 @@ if pending then
   MyBissData.ItemSources[48709] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48709]],
@@ -29650,6 +33136,8 @@ if pending then
   MyBissData.ItemSources[48711] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48711]],
@@ -29667,6 +33155,8 @@ if pending then
   MyBissData.ItemSources[48713] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48713]],
@@ -29684,6 +33174,8 @@ if pending then
   MyBissData.ItemSources[48714] = {
     instance = [[Trial of the Crusader]],
     boss = [[Argent Crusade Tribute Chest]],
+    origin = [[Argent Crusade Tribute Chest]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=48714]],
@@ -29701,6 +33193,8 @@ if pending then
   MyBissData.ItemSources[48724] = {
     instance = [[Emblem of Triumph]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Vendor. Orígenes: Emblem of Triumph (Vendor, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=48724]],
@@ -29718,6 +33212,8 @@ if pending then
   MyBissData.ItemSources[49234] = {
     instance = [[Trial of the Crusader]],
     boss = [[Eydis Darkbane]],
+    origin = [[Eydis Darkbane]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Trial of the Crusader (Raid, fase 3). Fases: 3. Ficha: https://www.wowhead.com/wotlk/item=49234]],
@@ -29735,6 +33231,8 @@ if pending then
   MyBissData.ItemSources[49328] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49328]],
@@ -29752,6 +33250,8 @@ if pending then
   MyBissData.ItemSources[49331] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49331]],
@@ -29769,6 +33269,8 @@ if pending then
   MyBissData.ItemSources[49332] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49332]],
@@ -29786,6 +33288,8 @@ if pending then
   MyBissData.ItemSources[49333] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49333]],
@@ -29803,6 +33307,8 @@ if pending then
   MyBissData.ItemSources[49466] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49466]],
@@ -29820,6 +33326,8 @@ if pending then
   MyBissData.ItemSources[49467] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49467]],
@@ -29837,6 +33345,8 @@ if pending then
   MyBissData.ItemSources[49468] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49468]],
@@ -29854,6 +33364,8 @@ if pending then
   MyBissData.ItemSources[49469] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49469]],
@@ -29871,6 +33383,8 @@ if pending then
   MyBissData.ItemSources[49471] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49471]],
@@ -29888,6 +33402,8 @@ if pending then
   MyBissData.ItemSources[49472] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49472]],
@@ -29905,6 +33421,8 @@ if pending then
   MyBissData.ItemSources[49473] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49473]],
@@ -29922,6 +33440,8 @@ if pending then
   MyBissData.ItemSources[49474] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49474]],
@@ -29939,6 +33459,8 @@ if pending then
   MyBissData.ItemSources[49475] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49475]],
@@ -29956,6 +33478,8 @@ if pending then
   MyBissData.ItemSources[49476] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49476]],
@@ -29973,6 +33497,8 @@ if pending then
   MyBissData.ItemSources[49477] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49477]],
@@ -29990,6 +33516,8 @@ if pending then
   MyBissData.ItemSources[49478] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49478]],
@@ -30007,6 +33535,8 @@ if pending then
   MyBissData.ItemSources[49479] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49479]],
@@ -30024,6 +33554,8 @@ if pending then
   MyBissData.ItemSources[49480] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49480]],
@@ -30041,6 +33573,8 @@ if pending then
   MyBissData.ItemSources[49481] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49481]],
@@ -30058,6 +33592,8 @@ if pending then
   MyBissData.ItemSources[49482] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49482]],
@@ -30075,6 +33611,8 @@ if pending then
   MyBissData.ItemSources[49483] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49483]],
@@ -30092,6 +33630,8 @@ if pending then
   MyBissData.ItemSources[49484] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49484]],
@@ -30109,6 +33649,8 @@ if pending then
   MyBissData.ItemSources[49485] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=49485]],
@@ -30126,6 +33668,8 @@ if pending then
   MyBissData.ItemSources[49487] = {
     instance = [[Quest Rewards]],
     boss = [[Ver nota de procedencia]],
+    origin = [[Ver nota de procedencia]],
+    sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Quest. Orígenes: Quest Rewards (Quest, fase 1). Fases: 1. Ficha: https://www.wowhead.com/wotlk/item=49487]],
@@ -30143,6 +33687,8 @@ if pending then
   MyBissData.ItemSources[49489] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49489]],
@@ -30160,6 +33706,8 @@ if pending then
   MyBissData.ItemSources[49490] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49490]],
@@ -30177,6 +33725,8 @@ if pending then
   MyBissData.ItemSources[49492] = {
     instance = [[Onyxia's Lair]],
     boss = [[Onyxia]],
+    origin = [[Onyxia]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: Onyxia's Lair (Raid, fase 4). Fases: 4. Ficha: https://www.wowhead.com/wotlk/item=49492]],
@@ -30194,6 +33744,8 @@ if pending then
   MyBissData.ItemSources[53127] = {
     instance = [[The Ruby Sanctum]],
     boss = [[Halion]],
+    origin = [[Halion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Ruby Sanctum (Raid, fase 5). Fases: 5. Ficha: https://www.wowhead.com/wotlk/item=53127]],
@@ -30211,6 +33763,8 @@ if pending then
   MyBissData.ItemSources[54577] = {
     instance = [[The Ruby Sanctum]],
     boss = [[Halion]],
+    origin = [[Halion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Ruby Sanctum (Raid, fase 5). Fases: 5. Ficha: https://www.wowhead.com/wotlk/item=54577]],
@@ -30228,6 +33782,8 @@ if pending then
   MyBissData.ItemSources[54589] = {
     instance = [[The Ruby Sanctum]],
     boss = [[Halion]],
+    origin = [[Halion]],
+    sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
     note = [[Fuente: base Wrath Classic derivada de Wowhead. Tipos: Raid. Orígenes: The Ruby Sanctum (Raid, fase 5). Fases: 5. Ficha: https://www.wowhead.com/wotlk/item=54589]],
