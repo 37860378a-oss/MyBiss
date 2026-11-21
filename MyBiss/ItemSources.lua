@@ -362,6 +362,27 @@ MB_AddItemSource(45243, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difí
 MB_AddItemSource(45245, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 25.")
 MB_AddItemSource(45241, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 25.")
 
+
+-- Freya - Modo difícil 10 jugadores (+3 ancianos)
+MB_AddItemSource(45945, "Ulduar", "Freya", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 10; encuentro con los tres ancianos vivos.")
+MB_AddItemSource(45946, "Ulduar", "Freya", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 10; verificar variación histórica del modo en comentarios.")
+MB_AddItemSource(45943, "Ulduar", "Freya", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 10; los comentarios identifican el modo +3.")
+MB_AddItemSource(45947, "Ulduar", "Freya", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 10; confirmado también como Freya +3 en comentarios.")
+
+-- Freya - Modo difícil 25 jugadores (+3 ancianos)
+MB_AddItemSource(45486, "Ulduar", "Freya", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 25.")
+MB_AddItemSource(45485, "Ulduar", "Freya", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 25.")
+MB_AddItemSource(45488, "Ulduar", "Freya", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 25.")
+MB_AddItemSource(45484, "Ulduar", "Freya", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 25.")
+MB_AddItemSource(45487, "Ulduar", "Freya", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Freya Hard Mode 25.")
+
+-- Hodir - Modo difícil 10 jugadores
+MB_AddItemSource(45887, "Ulduar", "Hodir", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Hodir Hard Mode 10.")
+MB_AddItemSource(45877, "Ulduar", "Hodir", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Hodir Hard Mode 10.")
+MB_AddItemSource(45876, "Ulduar", "Hodir", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Hodir Hard Mode 10.")
+MB_AddItemSource(45888, "Ulduar", "Hodir", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Hodir Hard Mode 10.")
+MB_AddItemSource(45886, "Ulduar", "Hodir", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Hodir Hard Mode 10.")
+
 --========================================================
 -- FIN DE ITEM SOURCES
 --========================================================
