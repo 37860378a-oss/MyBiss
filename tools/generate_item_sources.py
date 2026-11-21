@@ -91,6 +91,7 @@ def main() -> None:
 
         out.extend([
             f"-- {item_id}: {item.get('name', 'Nombre no disponible')}",
+            "do",
             f"local existing = MyBissData.ItemSources[{item_id}]",
             "local pending = existing == nil",
             'if type(existing) == "string" and string.find(existing, "pendiente", 1, true) then pending = true end',
@@ -103,6 +104,7 @@ def main() -> None:
             '    raidSize = "", -- No especificado en el cache.',
             f"    note = {lua_long_string(note)},",
             "  }",
+            "end",
             "end",
             "",
         ])
