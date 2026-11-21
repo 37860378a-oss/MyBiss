@@ -147,6 +147,8 @@ local function GetSourceType(source)
         or string.find(note, "fabricad", 1, true)
         or string.find(note, "crafted", 1, true)
         or string.find(note, "profession", 1, true)
+        or string.find(note, "vendor", 1, true)
+        or string.find(note, "quest", 1, true)
         or string.find(note, "world", 1, true)
         or string.find(note, "mundo", 1, true) then
         return "not_applicable"
