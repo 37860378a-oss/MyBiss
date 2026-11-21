@@ -7,4 +7,5 @@
 
 Database.lua
 Core.lua
+ItemSources.lua
 Interface.lua
