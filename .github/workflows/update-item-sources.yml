@@ -1,0 +1,36 @@
+name: Actualizar procedencias WotLK
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar procedencias desde cache Wrath
+        run: python tools/generate_item_sources.py
+
+      - name: Guardar archivos generados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MyBiss/ItemSources.generated.lua reports/item-sources-report.md
+          if git diff --cached --quiet; then
+            echo "No hay cambios en las procedencias."
+          else
+            git commit -m "Actualizar procedencias de objetos WotLK"
+            git push
+          fi
