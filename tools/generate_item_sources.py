@@ -44,7 +44,7 @@ def main() -> None:
     manual_text = (ROOT / "MyBiss" / "ItemSources.lua").read_text(encoding="utf-8")
     manual_ids = {
         int(value)
-        for value in re.findall(r"MB_Add(?:Item|Vendor)Source\\(\\s*(\\d+)", manual_text)
+        for value in re.findall(r"MB_Add(?:Item|Vendor)Source\(\s*(\d+)", manual_text)
     }
     request = urllib.request.Request(CACHE_URL, headers={"User-Agent": "MyBiss-ItemSources-Generator/1.0"})
     with urllib.request.urlopen(request, timeout=180) as response:
