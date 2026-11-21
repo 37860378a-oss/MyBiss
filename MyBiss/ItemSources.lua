@@ -124,6 +124,191 @@ MB_AddVendorSource(
     "Ficha Wowhead WotLK: disponible en Dalaran."
 )
 
+
+
+--========================================================
+-- T7 / PRE-RAID - PROCEDENCIAS RECUPERADAS DE WOWHEAD WOTLK
+-- Verificadas por ID; estos objetos provienen de contenido TBC.
+-- Dificultad y tamaño solo se indican cuando corresponden.
+--========================================================
+
+-- ID 25643 - Harold's Rejuvenating Broach
+-- Recompensa de la misión "El deporte sangriento definitivo" en Nagrand.
+MB_AddItemSource(
+    25643,
+    "Nagrand",
+    "Recompensa de misión: El deporte sangriento definitivo",
+    "",
+    "",
+    "Wowhead WotLK: recompensa de misión; seleccionar Harold's Rejuvenating Broach."
+)
+
+-- ID 28523 - Totem of Healing Rains
+-- Maiden of Virtue, Karazhan.
+MB_AddItemSource(
+    28523,
+    "Karazhan",
+    "Doncella de Virtud",
+    "Normal",
+    "10 jugadores",
+    "Wowhead WotLK: botín de Maiden of Virtue."
+)
+
+-- ID 28823 - Eye of Gruul
+MB_AddItemSource(
+    28823,
+    "Guarida de Gruul",
+    "Gruul el Asesino de Dragones",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de Gruul."
+)
+
+-- ID 30063 - Libram of Absolute Truth
+MB_AddItemSource(
+    30063,
+    "Caverna Santuario Serpiente",
+    "El Rondador de Abajo",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de The Lurker Below."
+)
+
+-- ID 32387 - Idol of the Raven Goddess
+-- Recompensa de la misión Vanquish the Raven God tras derrotar a Anzu.
+MB_AddItemSource(
+    32387,
+    "Salas Sethekk",
+    "Recompensa de misión: Morthis Whisperwing (Anzu)",
+    "Heroico",
+    "5 jugadores",
+    "Wowhead WotLK: recompensa de Vanquish the Raven God; requiere derrotar a Anzu en heroico."
+)
+
+-- Reliquias vendidas por G'eras en Ciudad de Shattrath.
+-- ID 33502 - Libram of Mending
+MB_AddVendorSource(
+    33502,
+    "G'eras - Ciudad de Shattrath",
+    "20 Emblemas de justicia",
+    "Wowhead WotLK: vendedor G'eras."
+)
+
+-- ID 33507 - Stonebreaker's Totem
+MB_AddVendorSource(
+    33507,
+    "G'eras - Ciudad de Shattrath",
+    "20 Emblemas de justicia",
+    "Wowhead WotLK: vendedor G'eras."
+)
+
+-- ID 33508 - Idol of Budding Life
+MB_AddVendorSource(
+    33508,
+    "G'eras - Ciudad de Shattrath",
+    "20 Emblemas de justicia",
+    "Wowhead WotLK: vendedor G'eras."
+)
+
+-- ID 33509 - Idol of Terror
+MB_AddVendorSource(
+    33509,
+    "G'eras - Ciudad de Shattrath",
+    "20 Emblemas de justicia",
+    "Wowhead WotLK: vendedor G'eras."
+)
+
+-- ID 34210 - Amice of the Convoker
+MB_AddItemSource(
+    34210,
+    "Meseta de La Fuente del Sol",
+    "Gran Bruja Alythess (Gemelas Eredar)",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de Grand Warlock Alythess."
+)
+
+-- ID 34244 - Duplicitous Guise
+MB_AddItemSource(
+    34244,
+    "Meseta de La Fuente del Sol",
+    "Kil'jaeden",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de Kil'jaeden."
+)
+
+-- ID 34344 - Handguards of Defiled Worlds
+MB_AddItemSource(
+    34344,
+    "Meseta de La Fuente del Sol",
+    "Kil'jaeden",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de Kil'jaeden."
+)
+
+-- ID 34348 - Wand of Cleansing Light
+MB_AddItemSource(
+    34348,
+    "Meseta de La Fuente del Sol",
+    "Enemigos de trash",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de los enemigos comunes de Sunwell Plateau; no es botín de jefe."
+)
+
+-- ID 34427 - Blackened Naaru Sliver
+MB_AddItemSource(
+    34427,
+    "Meseta de La Fuente del Sol",
+    "Entropius (M'uru)",
+    "Normal",
+    "25 jugadores",
+    "Wowhead WotLK: botín de Entropius."
+)
+
+-- ID 34438 - Skyshatter Bracers
+-- Se compra con token de banda; el token asociado se obtiene de Kalecgos.
+MB_AddVendorSource(
+    34438,
+    "Vendedores de armaduras - Isla de Quel'Danas",
+    "Token de brazales de La Fuente del Sol",
+    "Wowhead WotLK: pieza de conjunto vendida en Isla de Quel'Danas; token asociado a Kalecgos."
+)
+
+-- ID 34547 - Onslaught Waistguard
+-- La ficha confirma vendedor en Isla de Quel'Danas; no fijamos token/jefe sin cotejo adicional.
+MB_AddVendorSource(
+    34547,
+    "Vendedores de armaduras - Isla de Quel'Danas",
+    "Token de cintura de conjunto",
+    "Wowhead WotLK: ubicación de vendedor confirmada en Isla de Quel'Danas; token específico pendiente de cotejo."
+)
+
+-- ID 34565 - Skyshatter Boots
+-- El token asociado cae de Felmyst.
+MB_AddVendorSource(
+    34565,
+    "Vendedores de armaduras - Isla de Quel'Danas",
+    "Token de botas de La Fuente del Sol",
+    "Wowhead WotLK: pieza de conjunto vendida en Isla de Quel'Danas; token asociado a Felmyst."
+)
+
+-- ID 34575 - Slayer's Boots
+-- El token asociado cae de Felmyst.
+MB_AddVendorSource(
+    34575,
+    "Vendedores de armaduras - Isla de Quel'Danas",
+    "Token de botas de La Fuente del Sol",
+    "Wowhead WotLK: pieza de conjunto vendida en Isla de Quel'Danas; token asociado a Felmyst."
+)
+
+-- ID 43612 - Spineslicer queda pendiente:
+-- los comentarios mencionan cajas reforzadas/robo, pero no se fija una fuente
+-- inequívoca para incorporarla como procedencia confirmada.
+
+
 --========================================================
 -- FIN DE ITEM SOURCES
 --========================================================
