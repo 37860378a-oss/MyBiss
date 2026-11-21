@@ -317,6 +317,51 @@ MB_AddItemSource(
 )
 
 
+
+--========================================================
+-- ULDUAR - MODOS DIFÍCILES CRUZADOS POR ID CON LA TABLA DE BOTÍN WOWHEAD WOTLK
+-- Referencia: https://www.wowhead.com/wotlk/guide/raids/ulduar/loot
+-- Cada entrada corresponde a una fila explícita de Hard Mode 10/25.
+-- No se extrapola dificultad por nivel de objeto.
+--========================================================
+
+-- Leviatán de llamas - Modo difícil 10 jugadores
+MB_AddItemSource(45297, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
+MB_AddItemSource(45293, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
+MB_AddItemSource(45300, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
+MB_AddItemSource(45295, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
+
+-- Leviatán de llamas - Modo difícil 25 jugadores
+MB_AddItemSource(45133, "Ulduar", "Leviatán de llamas", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 25.")
+MB_AddItemSource(45136, "Ulduar", "Leviatán de llamas", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 25.")
+MB_AddItemSource(45132, "Ulduar", "Leviatán de llamas", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 25.")
+MB_AddItemSource(45134, "Ulduar", "Leviatán de llamas", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 25.")
+
+-- Desarmador XA-002 - Modo difícil 10 jugadores
+MB_AddItemSource(45871, "Ulduar", "Desarmador XA-002", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 10.")
+MB_AddItemSource(45869, "Ulduar", "Desarmador XA-002", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 10.")
+MB_AddItemSource(45867, "Ulduar", "Desarmador XA-002", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 10.")
+MB_AddItemSource(45870, "Ulduar", "Desarmador XA-002", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 10.")
+MB_AddItemSource(45868, "Ulduar", "Desarmador XA-002", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 10.")
+
+-- Desarmador XA-002 - Modo difícil 25 jugadores
+MB_AddItemSource(45443, "Ulduar", "Desarmador XA-002", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 25.")
+MB_AddItemSource(45446, "Ulduar", "Desarmador XA-002", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 25.")
+MB_AddItemSource(45444, "Ulduar", "Desarmador XA-002", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 25.")
+MB_AddItemSource(45442, "Ulduar", "Desarmador XA-002", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 25.")
+MB_AddItemSource(45445, "Ulduar", "Desarmador XA-002", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: XT-002 Deconstructor Hard Mode 25.")
+
+-- Asamblea de Hierro - Modo difícil 10 jugadores
+MB_AddItemSource(45456, "Ulduar", "Asamblea de Hierro", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 10.")
+MB_AddItemSource(45449, "Ulduar", "Asamblea de Hierro", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 10.")
+MB_AddItemSource(45448, "Ulduar", "Asamblea de Hierro", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 10.")
+
+-- Asamblea de Hierro - Modo difícil 25 jugadores
+MB_AddItemSource(45242, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 25; drop de Steelbreaker.")
+MB_AddItemSource(45243, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 25; drop de Steelbreaker.")
+MB_AddItemSource(45245, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 25.")
+MB_AddItemSource(45241, "Ulduar", "Rompeacero / Asamblea de Hierro", "Modo difícil", "25 jugadores", "Wowhead Ulduar Loot: Assembly of Iron Hard Mode 25.")
+
 --========================================================
 -- FIN DE ITEM SOURCES
 --========================================================
