@@ -126,49 +126,105 @@ end
 -- PROCEDENCIA
 --========================================================
 
-local function GetSourceType(source)
-    local note = string.lower(source.note or "")
-    local hasRaid = string.find(note, "raid", 1, true) ~= nil
-    local hasDungeon = string.find(note, "dungeon", 1, true) ~= nil
+local SourceTranslations = {
+    ["The Obsidian Sanctum"] = "El Sagrario Obsidiana",
+    ["Obsidian Sanctum"] = "El Sagrario Obsidiana",
+    ["The Eye of Eternity"] = "El Ojo de la Eternidad",
+    ["Eye of Eternity"] = "El Ojo de la Eternidad",
+    ["Vault of Archavon"] = "Cámara de Archavon",
+    ["Trial of the Crusader"] = "Prueba del Cruzado",
+    ["Trial of the Grand Crusader"] = "Prueba del Gran Cruzado",
+    ["Icecrown Citadel"] = "Ciudadela de la Corona de Hielo",
+    ["Ulduar"] = "Ulduar",
+    ["Naxxramas"] = "Naxxramas",
+    ["Onyxia's Lair"] = "Guarida de Onyxia",
+    ["The Ruby Sanctum"] = "El Sagrario Rubí",
+    ["Flame Leviathan"] = "Leviatán de llamas",
+    ["Ignis the Furnace Master"] = "Ignis el Maestro de la Caldera",
+    ["Razorscale"] = "Tajoescama",
+    ["XT-002 Deconstructor"] = "Desarmador XT-002",
+    ["Assembly of Iron"] = "Asamblea de Hierro",
+    ["Steelbreaker"] = "Rompeacero",
+    ["Runemaster Molgeim"] = "Maestro de runas Molgeim",
+    ["Stormcaller Brundir"] = "Clamatormentas Brundir",
+    ["Kologarn"] = "Kologarn",
+    ["Auriaya"] = "Auriaya",
+    ["Hodir"] = "Hodir",
+    ["Thorim"] = "Thorim",
+    ["Freya"] = "Freya",
+    ["Mimiron"] = "Mimiron",
+    ["General Vezax"] = "General Vezax",
+    ["Yogg-Saron"] = "Yogg-Saron",
+    ["Algalon the Observer"] = "Algalon el Observador",
+    ["The Lich King"] = "El Rey Exánime",
+    ["Anub'arak"] = "Anub'arak",
+    ["Sartharion"] = "Sartharion",
+    ["Kel'Thuzad"] = "Kel'Thuzad",
+    ["Heigan the Unclean"] = "Heigan el Impuro",
+    ["The Four Horsemen"] = "Los Cuatro Jinetes",
+    ["Grobbulus"] = "Grobbulus",
+    ["Gluth"] = "Gluth",
+    ["Maexxna"] = "Maexxna",
+    ["Patchwerk"] = "Remendejo",
+    ["Instructor Razuvious"] = "Instructor Razuvious",
+    ["Loatheb"] = "Loatheb",
+    ["Noth the Plaguebringer"] = "Noth el Pesteador",
+    ["Gothik the Harvester"] = "Gothik el Cosechador",
+    ["Sapphiron"] = "Sapphiron"
+}
 
-    if hasRaid and hasDungeon then
-        return "mixed"
-    elseif hasRaid then
-        return "raid"
-    elseif hasDungeon then
-        return "dungeon"
+local function TranslateSourceName(value)
+    if not value or value == "" then return value end
+    if SourceTranslations[value] then return SourceTranslations[value] end
+    return value
+end
+
+local function GetSourceTypeLabel(source)
+    if source.sourceType and source.sourceType ~= "" then
+        local value = source.sourceType
+        local labels = {
+            Raid = "Banda", Dungeon = "Mazmorra", WorldBoss = "Jefe de mundo",
+            Crafted = "Fabricación", Recipe = "Receta", Vendor = "Vendedor",
+            Reputation = "Reputación", Quest = "Misión", PvP = "JcJ",
+            Tabard = "Tabardo", Drop = "Botín", Other = "Otro"
+        }
+        return labels[value] or value
     end
 
-    if source.boss == "Vendedor"
-        or string.find(note, "vendedor", 1, true)
-        or string.find(note, "misión", 1, true)
-        or string.find(note, "recompensa de misión", 1, true)
-        or string.find(note, "herrería", 1, true)
-        or string.find(note, "fabricad", 1, true)
-        or string.find(note, "crafted", 1, true)
-        or string.find(note, "profession", 1, true)
-        or string.find(note, "vendor", 1, true)
-        or string.find(note, "quest", 1, true)
-        or string.find(note, "world", 1, true)
-        or string.find(note, "mundo", 1, true) then
-        return "not_applicable"
+    local note = source.note or ""
+    local raw = string.match(note, "Tipos:%s*([^%.]+)")
+        or string.match(note, "Types:%s*([^%.]+)")
+    if raw then
+        raw = string.gsub(raw, "Raid", "Banda")
+        raw = string.gsub(raw, "Dungeon", "Mazmorra")
+        raw = string.gsub(raw, "WorldBoss", "Jefe de mundo")
+        raw = string.gsub(raw, "Crafted", "Fabricación")
+        raw = string.gsub(raw, "Vendor", "Vendedor")
+        raw = string.gsub(raw, "Quest", "Misión")
+        raw = string.gsub(raw, "Reputation", "Reputación")
+        raw = string.gsub(raw, "Recipe", "Receta")
+        return raw
     end
 
-    return "unknown"
+    if source.boss == "Vendedor" then return "Vendedor" end
+    local noteLower = string.lower(note)
+    if string.find(noteLower, "misión", 1, true) or string.find(noteLower, "quest", 1, true) then return "Misión" end
+    if string.find(noteLower, "herrería", 1, true) or string.find(noteLower, "fabricad", 1, true) or string.find(noteLower, "crafted", 1, true) then return "Fabricación" end
+    if string.find(noteLower, "vendedor", 1, true) or string.find(noteLower, "vendor", 1, true) then return "Vendedor" end
+    if source.instance and string.find(source.instance, "Ulduar", 1, true) then return "Banda" end
+    return "Sin verificar"
 end
 
 local function GetSourceDifficulty(source)
     if source.difficulty and source.difficulty ~= "" then
         return source.difficulty
     end
-
-    local sourceType = GetSourceType(source)
-    if sourceType == "not_applicable" then
+    if GetSourceTypeLabel(source) == "Vendedor"
+        or GetSourceTypeLabel(source) == "Misión"
+        or GetSourceTypeLabel(source) == "Fabricación"
+        or GetSourceTypeLabel(source) == "Receta" then
         return "No aplica"
-    elseif sourceType == "mixed" then
-        return "Depende del origen"
     end
-
     return "Sin verificar"
 end
 
@@ -176,86 +232,73 @@ local function GetSourceMode(source)
     if source.raidSize and source.raidSize ~= "" then
         return source.raidSize
     end
-
-    local sourceType = GetSourceType(source)
-    if sourceType == "not_applicable" then
+    local kind = GetSourceTypeLabel(source)
+    if kind == "Vendedor" or kind == "Misión" or kind == "Fabricación"
+        or kind == "Receta" or kind == "Reputación" then
         return "No aplica"
-    elseif sourceType == "dungeon" then
-        return "5 jugadores"
-    elseif sourceType == "mixed" then
-        return "Ver nota de procedencia"
     end
-
+    if kind == "Mazmorra" then return "5 jugadores" end
     return "Sin verificar"
 end
 
 local function FormatSource(item)
     local source = GetItemSource(item)
-
     if not source then
         return "|cff888888Procedencia pendiente de verificar|r"
     end
 
     if type(source) == "string" then
-        return source ..
-            "\n|cffffcc66Dificultad:|r No aplica" ..
-            "\n|cffffcc66Modalidad:|r No aplica"
+        return "|cffffcc66Fuente:|r " .. source
+            .. "\n|cffffcc66Tipo:|r Fabricación / fuente especial"
+            .. "\n|cffffcc66Origen:|r No aplica"
+            .. "\n|cffffcc66Dificultad:|r No aplica"
+            .. "\n|cffffcc66Modalidad:|r No aplica"
     end
 
+    local sourceName = TranslateSourceName(source.instance)
+    local origin = source.origin or source.boss or "Sin verificar"
+    origin = TranslateSourceName(origin)
     local result = ""
 
-    if source.instance and source.instance ~= "" then
-        result = result .. "|cffffcc66Instancia:|r " .. source.instance .. "\n"
+    if sourceName and sourceName ~= "" then
+        result = result .. "|cffffcc66Fuente:|r " .. sourceName .. "\n"
     end
-
-    if source.boss and source.boss ~= "" then
-        result = result .. "|cffffcc66Jefe / Origen:|r " .. source.boss .. "\n"
-    end
-
+    result = result .. "|cffffcc66Tipo:|r " .. GetSourceTypeLabel(source) .. "\n"
+    result = result .. "|cffffcc66Origen:|r " .. origin .. "\n"
     result = result .. "|cffffcc66Dificultad:|r " .. GetSourceDifficulty(source) .. "\n"
-    result = result .. "|cffffcc66Modalidad:|r " .. GetSourceMode(source) .. "\n"
+    result = result .. "|cffffcc66Modalidad:|r " .. GetSourceMode(source)
 
     if source.note and source.note ~= ""
         and not string.find(source.note, "Fuente: base Wrath Classic", 1, true) then
-        result = result .. "|cffaaaaaa" .. source.note .. "|r\n"
+        local note = source.note
+        if string.len(note) > 150 then note = string.sub(note, 1, 147) .. "..." end
+        result = result .. "\n|cffaaaaaa" .. note .. "|r"
     end
-
-    if result == "" then
-        result = "|cff888888Procedencia pendiente de verificar|r"
-    end
-
     return result
 end
 
 local function AddSourceToTooltip(item)
     local source = GetItemSource(item)
-
-    if not source then
-        return
-    end
+    if not source then return end
 
     GameTooltip:AddLine(" ")
     GameTooltip:AddLine("PROCEDENCIA", 1, 0.82, 0)
 
     if type(source) == "string" then
-        GameTooltip:AddLine(source, 0.8, 0.8, 0.8, true)
+        GameTooltip:AddLine("Fuente: " .. source, 0.8, 0.8, 0.8, true)
+        GameTooltip:AddLine("Tipo: Fabricación / fuente especial", 0.8, 0.8, 0.8, true)
+        GameTooltip:AddLine("Origen: No aplica", 0.8, 0.8, 0.8, true)
         GameTooltip:AddLine("Dificultad: No aplica", 0.8, 0.8, 0.8, true)
         GameTooltip:AddLine("Modalidad: No aplica", 0.8, 0.8, 0.8, true)
         return
     end
 
-    if source.instance then
-        GameTooltip:AddLine("Instancia: " .. source.instance, 0.8, 0.8, 0.8, true)
-    end
-
-    if source.boss then
-        GameTooltip:AddLine("Jefe / Origen: " .. source.boss, 0.8, 0.8, 0.8, true)
-    end
-
+    GameTooltip:AddLine("Fuente: " .. TranslateSourceName(source.instance or "Sin verificar"), 0.8, 0.8, 0.8, true)
+    GameTooltip:AddLine("Tipo: " .. GetSourceTypeLabel(source), 0.8, 0.8, 0.8, true)
+    GameTooltip:AddLine("Origen: " .. TranslateSourceName(source.origin or source.boss or "Sin verificar"), 0.8, 0.8, 0.8, true)
     GameTooltip:AddLine("Dificultad: " .. GetSourceDifficulty(source), 0.8, 0.8, 0.8, true)
     GameTooltip:AddLine("Modalidad: " .. GetSourceMode(source), 0.8, 0.8, 0.8, true)
-
-    if source.note then
+    if source.note and source.note ~= "" then
         GameTooltip:AddLine(source.note, 0.7, 0.7, 0.7, true)
     end
 end
