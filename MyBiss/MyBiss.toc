@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: My Biss - By Charls
+## Notes: Best-in-Slot para WotLK 3.3.5a Blizzlike
+## Author: Charls
+## Version: 0.3.0
+## SavedVariables: MyBissDB
+
+Database.lua
+Core.lua
+Interface.lua

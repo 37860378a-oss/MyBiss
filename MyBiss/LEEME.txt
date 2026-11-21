@@ -1,0 +1,22 @@
+# My Biss — By Charls (0.1.0)
+
+Addon inicial para World of Warcraft 3.3.5a (Interface 30300).
+
+## Instalación
+1. Extraé la carpeta `My_Biss_By_Charls` dentro de `Interface/AddOns/`.
+2. Renombrá la carpeta a `MyBiss`.
+3. En el juego, activá My Biss en la lista de addons.
+4. Escribí `/mybiss` para abrir el selector.
+
+## Estado de esta versión
+- Selector manual de clase y especialización.
+- Selector PvE/PvP.
+- Recuerda la selección mediante SavedVariables.
+- Detecta la clase del personaje como selección inicial.
+- Añade una línea My Biss al tooltip de objetos.
+- Estructura preparada para cargar datos BiS por ID de objeto.
+
+## Importante
+La interfaz y el motor están implementados, pero la base de datos BiS todavía está vacía. No se inventaron recomendaciones: hay que cargar listas verificadas para cada clase, especialización, modo y servidor. WoWHead sirve como referencia de objetos, pero no determina por sí solo qué objeto es BiS para cada build/servidor.
+
+El addon 3.3.5a no puede descargar páginas web directamente. La futura herramienta BissUpdater generará/actualizará `Database.lua` con los datos revisados.
