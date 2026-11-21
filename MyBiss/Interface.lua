@@ -1,7 +1,7 @@
 
 --========================================================
 -- MY BISS - BY CHARLS
--- INTERFACE 0.6.1
+-- INTERFACE 0.6.2
 -- WOTLK 3.3.5a
 -- BIS + ALTERNATIVAS + PROCEDENCIA
 --========================================================
@@ -213,7 +213,8 @@ local function FormatSource(item)
     result = result .. "|cffffcc66Dificultad:|r " .. GetSourceDifficulty(source) .. "\n"
     result = result .. "|cffffcc66Modalidad:|r " .. GetSourceMode(source) .. "\n"
 
-    if source.note and source.note ~= "" then
+    if source.note and source.note ~= ""
+        and not string.find(source.note, "Fuente: base Wrath Classic", 1, true) then
         result = result .. "|cffaaaaaa" .. source.note .. "|r\n"
     end
 
