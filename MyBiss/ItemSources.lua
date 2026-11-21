@@ -86,6 +86,42 @@ MB_AddItemSource(
 MyBissData.ItemSources[41387] =
     "Fabricado: Herrería (Yelmo de acero de titanes templado)"
 
+
+--========================================================
+-- T7 / PRE-RAID - FUENTES CONTRASTADAS CON FICHAS WOWHEAD WOTLK
+--========================================================
+
+-- ID 40387 - Boundless Ambition
+-- Wowhead: botín de Kel'Thuzad. Nivel de objeto 226 (Naxxramas 25).
+MB_AddItemSource(
+    40387,
+    "Naxxramas",
+    "Kel'Thuzad",
+    "Normal",
+    "25 jugadores",
+    "Ficha Wowhead WotLK: nivel de objeto 226; botín de Kel'Thuzad."
+)
+
+-- ID 39246 - Amulet of Autopsy
+-- Comentario de la ficha Wowhead identifica a Heigan en Naxxramas 10.
+MB_AddItemSource(
+    39246,
+    "Naxxramas",
+    "Heigan el Impuro",
+    "Normal",
+    "10 jugadores",
+    "Procedencia indicada en comentarios de la ficha Wowhead WotLK."
+)
+
+-- ID 40679 - Chained Military Gorget
+-- Wowhead: vendedor de Dalaran; comentario indica 25 Emblemas de Heroísmo.
+MB_AddVendorSource(
+    40679,
+    "Vendedores de emblemas de Dalaran",
+    "25 Emblemas de Heroísmo",
+    "Ficha Wowhead WotLK: disponible en Dalaran."
+)
+
 --========================================================
 -- FIN DE ITEM SOURCES
 --========================================================
