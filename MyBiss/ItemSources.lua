@@ -103,14 +103,16 @@ MB_AddItemSource(
 )
 
 -- ID 39246 - Amulet of Autopsy
--- Comentario de la ficha Wowhead identifica a Heigan en Naxxramas 10.
+-- Wowhead WotLK: dos procedencias confirmadas en la ficha:
+-- Heigan el Impuro (Naxxramas 10 normal) y
+-- Jedoga Buscasombras (Ahn'kahet: El Antiguo Reino, heroico).
 MB_AddItemSource(
     39246,
-    "Naxxramas",
-    "Heigan el Impuro",
-    "Normal",
-    "10 jugadores",
-    "Procedencia indicada en comentarios de la ficha Wowhead WotLK."
+    "Naxxramas / Ahn'kahet: El Antiguo Reino",
+    "Heigan el Impuro / Jedoga Buscasombras",
+    "Normal 10 / Heroico",
+    "Banda 10 jugadores / Mazmorra 5 jugadores",
+    "Wowhead WotLK lista ambos orígenes; no es exclusivo de Naxxramas."
 )
 
 -- ID 40679 - Chained Military Gorget
