@@ -188,7 +188,16 @@ local function GetSourceTypeLabel(source)
             Reputation = "Reputación", Quest = "Misión", PvP = "JcJ",
             Tabard = "Tabardo", Drop = "Botín", Other = "Otro"
         }
-        return labels[value] or value
+        if labels[value] then return labels[value] end
+        value = string.gsub(value, "Raid", "Banda")
+        value = string.gsub(value, "Dungeon", "Mazmorra")
+        value = string.gsub(value, "WorldBoss", "Jefe de mundo")
+        value = string.gsub(value, "Crafted", "Fabricación")
+        value = string.gsub(value, "Vendor", "Vendedor")
+        value = string.gsub(value, "Quest", "Misión")
+        value = string.gsub(value, "Reputation", "Reputación")
+        value = string.gsub(value, "Recipe", "Receta")
+        return value
     end
 
     local note = source.note or ""
