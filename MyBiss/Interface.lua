@@ -142,7 +142,7 @@ local SourceTranslations = {
     ["Flame Leviathan"] = "Leviatán de llamas",
     ["Ignis the Furnace Master"] = "Ignis el Maestro de la Caldera",
     ["Razorscale"] = "Tajoescama",
-    ["XT-002 Deconstructor"] = "Desarmador XT-002",
+    ["XT-002 Deconstructor"] = "Desarmador XA-002",
     ["Assembly of Iron"] = "Asamblea de Hierro",
     ["Steelbreaker"] = "Rompeacero",
     ["Runemaster Molgeim"] = "Maestro de runas Molgeim",
@@ -220,7 +220,21 @@ local function GetSourceTypeLabel(source)
     if string.find(noteLower, "misión", 1, true) or string.find(noteLower, "quest", 1, true) then return "Misión" end
     if string.find(noteLower, "herrería", 1, true) or string.find(noteLower, "fabricad", 1, true) or string.find(noteLower, "crafted", 1, true) then return "Fabricación" end
     if string.find(noteLower, "vendedor", 1, true) or string.find(noteLower, "vendor", 1, true) then return "Vendedor" end
-    if source.instance and string.find(source.instance, "Ulduar", 1, true) then return "Banda" end
+    local instance = source.instance or ""
+    local raidNames = {
+        "Ulduar", "Naxxramas", "El Sagrario Obsidiana", "El Ojo de la Eternidad",
+        "Cámara de Archavon", "Prueba del Cruzado", "Prueba del Gran Cruzado",
+        "Ciudadela de la Corona de Hielo", "Guarida de Onyxia", "El Sagrario Rubí",
+        "Karazhan", "Guarida de Gruul", "Caverna Santuario Serpiente",
+        "Meseta de La Fuente del Sol", "Templo Oscuro", "Caverna del Santuario Serpiente"
+    }
+    for _, raidName in ipairs(raidNames) do
+        if string.find(instance, raidName, 1, true) then return "Banda" end
+    end
+    local dungeonNames = {"Ahn'kahet", "Salas Sethekk", "Utgarde", "Cámaras de Piedra", "Cámaras de Relámpagos"}
+    for _, dungeonName in ipairs(dungeonNames) do
+        if string.find(instance, dungeonName, 1, true) then return "Mazmorra" end
+    end
     return "Sin verificar"
 end
 
