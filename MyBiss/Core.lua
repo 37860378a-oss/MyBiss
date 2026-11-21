@@ -73,6 +73,82 @@ function MyBiss:Toggle()
 
 end
 
+--========================================================
+-- BOTON DEL MINIMAPA
+--========================================================
+
+function MyBiss:CreateMinimapButton()
+    if self.MinimapButton then return end
+
+    local button = CreateFrame("Button", "MyBissMinimapButton", Minimap)
+    button:SetSize(32, 32)
+    button:SetFrameStrata("MEDIUM")
+    button:SetFrameLevel(8)
+    button:SetMovable(true)
+    button:EnableMouse(true)
+    button:RegisterForClicks("LeftButtonUp")
+    button:RegisterForDrag("LeftButton")
+    button:SetHighlightTexture("Interface\\Minimap\\UI-Minimap-ZoomButton-Highlight")
+
+    local icon = button:CreateTexture(nil, "BACKGROUND")
+    icon:SetTexture("Interface\\Icons\\INV_Misc_Book_09")
+    icon:SetSize(20, 20)
+    icon:SetPoint("CENTER")
+    button.Icon = icon
+
+    local border = button:CreateTexture(nil, "OVERLAY")
+    border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
+    border:SetSize(54, 54)
+    border:SetPoint("TOPLEFT", button, "TOPLEFT")
+    button.Border = border
+
+    local function UpdatePosition()
+        local angle = MyBissDB and MyBissDB.minimapAngle or 220
+        local radius = 80
+        local x = math.cos(math.rad(angle)) * radius
+        local y = math.sin(math.rad(angle)) * radius
+        button:ClearAllPoints()
+        button:SetPoint("CENTER", Minimap, "CENTER", x, y)
+    end
+
+    button:SetScript("OnClick", function()
+        MyBiss:Toggle()
+    end)
+
+    button:SetScript("OnEnter", function(selfButton)
+        GameTooltip:SetOwner(selfButton, "ANCHOR_LEFT")
+        GameTooltip:AddLine("My Biss", 0.4, 0.8, 1)
+        GameTooltip:AddLine("Clic izquierdo: abrir / cerrar", 1, 1, 1)
+        GameTooltip:AddLine("Arrastrar: mover icono", 0.7, 0.7, 0.7)
+        GameTooltip:Show()
+    end)
+
+    button:SetScript("OnLeave", function()
+        GameTooltip:Hide()
+    end)
+
+    button:SetScript("OnDragStart", function(selfButton)
+        selfButton:LockHighlight()
+        selfButton:SetScript("OnUpdate", function()
+            local mx, my = Minimap:GetCenter()
+            local px, py = GetCursorPosition()
+            local scale = UIParent:GetEffectiveScale()
+            px, py = px / scale, py / scale
+            local angle = math.deg(math.atan2(py - my, px - mx))
+            MyBissDB.minimapAngle = angle
+            UpdatePosition()
+        end)
+    end)
+
+    button:SetScript("OnDragStop", function(selfButton)
+        selfButton:UnlockHighlight()
+        selfButton:SetScript("OnUpdate", nil)
+    end)
+
+    UpdatePosition()
+    self.MinimapButton = button
+end
+
 function MyBiss:ShowItem(itemID)
 
     itemID = tonumber(itemID)
@@ -108,8 +184,9 @@ eventFrame:SetScript("OnEvent", function(self, event, addonName)
     end
 
     MyBissDB = MyBissDB or {}
+    MyBiss:CreateMinimapButton()
 
-    MyBiss:Message("Addon cargado correctamente. Escribi /mbiss para abrirlo.")
+    MyBiss:Message("Addon cargado correctamente. Usa /mbiss o el icono del minimapa para abrirlo.")
 
     self:UnregisterEvent("ADDON_LOADED")
 
