@@ -8,4 +8,5 @@
 Database.lua
 Core.lua
 ItemSources.lua
+ItemSources.generated.lua
 Interface.lua
