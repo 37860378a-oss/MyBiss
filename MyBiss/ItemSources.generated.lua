@@ -18,8 +18,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[34378] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -170,8 +170,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37111] = {
     instance = [[The Culling of Stratholme]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -379,8 +379,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37197] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -493,8 +493,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37293] = {
     instance = [[The Oculus]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -512,8 +512,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37361] = {
     instance = [[The Oculus]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -531,8 +531,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37366] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -664,8 +664,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37574] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -816,8 +816,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37647] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -911,8 +911,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37673] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1044,8 +1044,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37801] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1101,8 +1101,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37835] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1139,8 +1139,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[37856] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1196,8 +1196,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38206] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1215,8 +1215,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38360] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1234,8 +1234,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38361] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1253,8 +1253,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38362] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1272,8 +1272,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38363] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1291,8 +1291,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38365] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1310,8 +1310,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38366] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -1329,8 +1329,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[38368] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -2925,8 +2925,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[39427] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -2944,8 +2944,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[39467] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -2963,8 +2963,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[39468] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -2982,8 +2982,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[39470] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -3001,8 +3001,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[39472] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -3020,8 +3020,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[39473] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -4977,8 +4977,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40064] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -4996,8 +4996,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40065] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5015,8 +5015,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40069] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5034,8 +5034,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40071] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5053,8 +5053,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40074] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5072,8 +5072,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40075] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5091,8 +5091,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40080] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5110,8 +5110,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40107] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5129,8 +5129,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40108] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5338,8 +5338,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40194] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5851,8 +5851,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40250] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5870,8 +5870,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40251] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5889,8 +5889,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40252] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5908,8 +5908,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40253] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5927,8 +5927,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40254] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5946,8 +5946,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40255] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5965,8 +5965,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40256] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -5984,8 +5984,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40257] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -6003,8 +6003,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40258] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -6497,8 +6497,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40286] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7314,8 +7314,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40343] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7333,8 +7333,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40344] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7352,8 +7352,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40345] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7371,8 +7371,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40346] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7390,8 +7390,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40347] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7409,8 +7409,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40349] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7428,8 +7428,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40350] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -7466,8 +7466,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40352] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -8112,8 +8112,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40406] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -8131,8 +8131,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40407] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -8150,8 +8150,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40408] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -8169,8 +8169,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40409] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -8188,8 +8188,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40410] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -8207,8 +8207,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40414] = {
     instance = [[Naxxramas]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -9879,8 +9879,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40531] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -9898,8 +9898,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40539] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -9917,8 +9917,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40541] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -9936,8 +9936,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40543] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10050,8 +10050,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40549] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10126,8 +10126,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40555] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10183,8 +10183,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40558] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10221,8 +10221,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40560] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10240,8 +10240,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40561] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10259,8 +10259,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40562] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10297,8 +10297,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40564] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10335,8 +10335,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40566] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10715,8 +10715,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40588] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10734,8 +10734,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40589] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10753,8 +10753,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40590] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10772,8 +10772,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40591] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10791,8 +10791,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40592] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10810,8 +10810,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40594] = {
     instance = [[The Eye of Eternity]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10905,8 +10905,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40682] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10924,8 +10924,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40684] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10943,8 +10943,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40685] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10962,8 +10962,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40688] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -10981,8 +10981,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40689] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11000,8 +11000,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40691] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11019,8 +11019,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40692] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11038,8 +11038,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40693] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11057,8 +11057,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40694] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11076,8 +11076,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40696] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11095,8 +11095,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40697] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11114,8 +11114,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40698] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11133,8 +11133,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40699] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11152,8 +11152,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40700] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11171,8 +11171,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40701] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11190,8 +11190,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40704] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11209,8 +11209,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40705] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11228,8 +11228,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40707] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11247,8 +11247,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40708] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11266,8 +11266,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40709] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11285,8 +11285,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40712] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11304,8 +11304,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40713] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11323,8 +11323,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40714] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11342,8 +11342,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40715] = {
     instance = [[Emblem of Heroism]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11437,8 +11437,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40721] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11456,8 +11456,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40722] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11475,8 +11475,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40723] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11494,8 +11494,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40724] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11513,8 +11513,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40733] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11532,8 +11532,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40734] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11551,8 +11551,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40736] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11570,8 +11570,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40738] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11589,8 +11589,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40740] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11608,8 +11608,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40741] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11627,8 +11627,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40742] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11646,8 +11646,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40743] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11665,8 +11665,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40746] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11684,8 +11684,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40748] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11703,8 +11703,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40750] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11722,8 +11722,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40751] = {
     instance = [[Emblem of Valor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11741,8 +11741,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40767] = {
     instance = [[Engineering]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11760,8 +11760,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40822] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11779,8 +11779,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[40867] = {
     instance = [[Venture Coin]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11798,8 +11798,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[41168] = {
     instance = [[Engineering]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11817,8 +11817,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[41355] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11836,8 +11836,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[41383] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11855,8 +11855,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[41386] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11874,8 +11874,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[41387] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11893,8 +11893,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[41610] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -11988,8 +11988,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42102] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12007,8 +12007,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42113] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12121,8 +12121,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42341] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12159,8 +12159,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42395] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12178,8 +12178,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42413] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12216,8 +12216,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42508] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12235,8 +12235,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42549] = {
     instance = [[Engineering]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12254,8 +12254,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42550] = {
     instance = [[Engineering]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12349,8 +12349,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42643] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12368,8 +12368,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42645] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12387,8 +12387,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42646] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12444,8 +12444,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42987] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12463,8 +12463,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[42988] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12501,8 +12501,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43131] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12520,8 +12520,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43251] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12539,8 +12539,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43253] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12596,8 +12596,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43481] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12615,8 +12615,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43484] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12653,8 +12653,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43565] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12672,8 +12672,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43582] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12691,8 +12691,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43590] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12710,8 +12710,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43591] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -12729,8 +12729,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[43592] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13052,8 +13052,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44063] = {
     instance = [[Jewelcrafting]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13204,8 +13204,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44210] = {
     instance = [[Inscription]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13242,8 +13242,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44253] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13261,8 +13261,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44255] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13337,8 +13337,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44311] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13356,8 +13356,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44312] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13375,8 +13375,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44322] = {
     instance = [[Alchemy]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13394,8 +13394,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44323] = {
     instance = [[Alchemy]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13413,8 +13413,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44657] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13432,8 +13432,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44658] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13451,8 +13451,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44659] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13470,8 +13470,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44660] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13489,8 +13489,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44661] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13508,8 +13508,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44662] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13527,8 +13527,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44664] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13546,8 +13546,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44665] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13565,8 +13565,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44893] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13584,8 +13584,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44896] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13603,8 +13603,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44899] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13622,8 +13622,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44903] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13641,8 +13641,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44904] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13660,8 +13660,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44908] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13679,8 +13679,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[44910] = {
     instance = [[Wintergrasp Mark of Honor]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[PvP]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -13717,8 +13717,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45085] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14610,8 +14610,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45193] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14629,8 +14629,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45224] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14648,8 +14648,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45225] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14667,8 +14667,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45226] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14686,8 +14686,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45227] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14705,8 +14705,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45228] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14724,8 +14724,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45232] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14743,8 +14743,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45233] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14762,8 +14762,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45235] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14781,8 +14781,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45238] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14800,8 +14800,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45239] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -14819,8 +14819,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45240] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19037,8 +19037,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45538] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19056,8 +19056,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45539] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19075,8 +19075,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45540] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19094,8 +19094,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45541] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19113,8 +19113,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45542] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19132,8 +19132,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45543] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19151,8 +19151,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45544] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19170,8 +19170,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45547] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19189,8 +19189,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45549] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19208,8 +19208,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45550] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19227,8 +19227,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45551] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19246,8 +19246,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45552] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19265,8 +19265,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45553] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19284,8 +19284,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45554] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19303,8 +19303,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45555] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19322,8 +19322,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45556] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19341,8 +19341,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45557] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19360,8 +19360,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45558] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19379,8 +19379,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45559] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19398,8 +19398,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45560] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19417,8 +19417,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45561] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19436,8 +19436,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45562] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19455,8 +19455,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45563] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19474,8 +19474,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45564] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19493,8 +19493,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45566] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19512,8 +19512,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45567] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19569,8 +19569,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45588] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19626,8 +19626,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45605] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19645,8 +19645,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45607] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19664,8 +19664,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45608] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19778,8 +19778,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45614] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -19854,8 +19854,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45618] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20348,8 +20348,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45824] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20367,8 +20367,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45825] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20386,8 +20386,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45827] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20405,8 +20405,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45828] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20424,8 +20424,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45829] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20443,8 +20443,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45830] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20462,8 +20462,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45831] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20481,8 +20481,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45833] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20500,8 +20500,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45834] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20519,8 +20519,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45838] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20538,8 +20538,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45840] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20557,8 +20557,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45841] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20576,8 +20576,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45842] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20595,8 +20595,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45843] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20614,8 +20614,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45844] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20633,8 +20633,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45845] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20652,8 +20652,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45846] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20671,8 +20671,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45848] = {
     instance = [[Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -20690,8 +20690,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[45859] = {
     instance = [[World drops]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Drop]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -21545,8 +21545,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46017] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -22609,8 +22609,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46138] = {
     instance = [[Ulduar / Emblem of Conquest]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -23939,8 +23939,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46320] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -23958,8 +23958,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46321] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -23977,8 +23977,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46322] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -23996,8 +23996,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46323] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -24015,8 +24015,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46340] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -24034,8 +24034,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46343] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -24053,8 +24053,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46345] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -24072,8 +24072,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[46346] = {
     instance = [[Ulduar]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25060,8 +25060,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47071] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25079,8 +25079,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47072] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25193,8 +25193,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47079] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25212,8 +25212,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47080] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25231,8 +25231,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47081] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25250,8 +25250,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47082] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25269,8 +25269,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47083] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25383,8 +25383,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47089] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25402,8 +25402,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47090] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25421,8 +25421,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47092] = {
     instance = [[Trial of the Crusader / Defiler's Scourgestone]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -25440,8 +25440,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47094] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -26618,8 +26618,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47213] = {
     instance = [[Trial of the Champion]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -26827,8 +26827,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47250] = {
     instance = [[Trial of the Champion]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -26865,8 +26865,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47512] = {
     instance = [[Trial of the Champion]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Dungeon]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27131,8 +27131,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47570] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27150,8 +27150,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47572] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27169,8 +27169,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47576] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27188,8 +27188,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47579] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27207,8 +27207,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47581] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27226,8 +27226,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47585] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27245,8 +27245,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47587] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27264,8 +27264,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47589] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27283,8 +27283,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47591] = {
     instance = [[Blacksmithing]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27302,8 +27302,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47599] = {
     instance = [[Leatherworking]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27321,8 +27321,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47603] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27340,8 +27340,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47605] = {
     instance = [[Tailoring]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Crafted]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27454,8 +27454,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47658] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27473,8 +27473,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47659] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27492,8 +27492,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47660] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27511,8 +27511,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47661] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27530,8 +27530,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47662] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27568,8 +27568,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47664] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27587,8 +27587,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47665] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27606,8 +27606,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47666] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27625,8 +27625,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47667] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27644,8 +27644,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47668] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27663,8 +27663,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47670] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27682,8 +27682,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47671] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27701,8 +27701,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47672] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27720,8 +27720,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47673] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27739,8 +27739,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47674] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27758,8 +27758,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47677] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27796,8 +27796,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47686] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27815,8 +27815,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47689] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27834,8 +27834,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47690] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27853,8 +27853,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47693] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27872,8 +27872,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47694] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27891,8 +27891,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47697] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27910,8 +27910,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47698] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27929,8 +27929,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47702] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27967,8 +27967,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47704] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -27986,8 +27986,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47708] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28005,8 +28005,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47713] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28024,8 +28024,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47715] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28043,8 +28043,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47718] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28062,8 +28062,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47719] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28081,8 +28081,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47720] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28176,8 +28176,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47734] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28195,8 +28195,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47735] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28290,8 +28290,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47748] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28309,8 +28309,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47751] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28328,8 +28328,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47754] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28347,8 +28347,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47756] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28366,8 +28366,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47757] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28480,8 +28480,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47779] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -28499,8 +28499,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47781] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29107,8 +29107,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47940] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29126,8 +29126,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47941] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29145,8 +29145,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47942] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29164,8 +29164,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47943] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29183,8 +29183,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47944] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29202,8 +29202,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47945] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29221,8 +29221,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47948] = {
     instance = [[Trial of the Crusader]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29715,8 +29715,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47984] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29753,8 +29753,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47986] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29772,8 +29772,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[47987] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29886,8 +29886,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48073] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29924,8 +29924,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48075] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -29962,8 +29962,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48078] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30000,8 +30000,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48080] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30114,8 +30114,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48131] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30152,8 +30152,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48137] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30247,8 +30247,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48158] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30266,8 +30266,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48164] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30494,8 +30494,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48208] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30513,8 +30513,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48209] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30551,8 +30551,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48211] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30589,8 +30589,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48214] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30608,8 +30608,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48217] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30627,8 +30627,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48219] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30665,8 +30665,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48223] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30703,8 +30703,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48225] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30741,8 +30741,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48227] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30855,8 +30855,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48251] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30874,8 +30874,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48253] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30893,8 +30893,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48255] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30931,8 +30931,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48257] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -30969,8 +30969,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48259] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31083,8 +31083,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48285] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31102,8 +31102,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48287] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31216,8 +31216,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48310] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31254,8 +31254,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48316] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31406,8 +31406,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48345] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31425,8 +31425,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48346] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31444,8 +31444,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48348] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31482,8 +31482,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48350] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31596,8 +31596,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48376] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31634,8 +31634,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48378] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31672,8 +31672,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48380] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31786,8 +31786,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48429] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31805,8 +31805,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48430] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31900,8 +31900,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48450] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -31976,8 +31976,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48454] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32014,8 +32014,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48478] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32052,8 +32052,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48481] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32090,8 +32090,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48483] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32128,8 +32128,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48485] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32242,8 +32242,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48529] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32261,8 +32261,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48535] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32318,8 +32318,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48540] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32356,8 +32356,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48542] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32470,8 +32470,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48564] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32508,8 +32508,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48577] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32527,8 +32527,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48579] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32603,8 +32603,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48606] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32641,8 +32641,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48611] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32774,8 +32774,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48634] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32793,8 +32793,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48636] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32812,8 +32812,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48637] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32850,8 +32850,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48639] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -32888,8 +32888,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48641] = {
     instance = [[Trial of the Crusader / Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Raid, Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -33192,8 +33192,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[48724] = {
     instance = [[Emblem of Triumph]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Vendor]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -33648,8 +33648,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[49485] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
@@ -33667,8 +33667,8 @@ if type(existing) == "table" and existing.note and string.find(existing.note, "p
 if pending then
   MyBissData.ItemSources[49487] = {
     instance = [[Quest Rewards]],
-    boss = [[Ver nota de procedencia]],
-    origin = [[Ver nota de procedencia]],
+    boss = [[Jefe no identificado]],
+    origin = [[Jefe no identificado]],
     sourceType = [[Quest]],
     difficulty = "", -- No especificada en el cache.
     raidSize = "", -- No especificado en el cache.
