@@ -304,9 +304,17 @@ MB_AddVendorSource(
     "Wowhead WotLK: pieza de conjunto vendida en Isla de Quel'Danas; token asociado a Felmyst."
 )
 
--- ID 43612 - Spineslicer queda pendiente:
--- los comentarios mencionan cajas reforzadas/robo, pero no se fija una fuente
--- inequívoca para incorporarla como procedencia confirmada.
+-- ID 43612 - Spineslicer
+-- Contenido de Reinforced Junkbox, obtenida mediante Pick Pocket a humanoides
+-- de Rasganorte. La caja requiere ganzuado 350 para abrirse.
+MB_AddItemSource(
+    43612,
+    "Caja fuerte reforzada (Reinforced Junkbox)",
+    "Botín de contenedor obtenido mediante Carterismo",
+    "",
+    "",
+    "Wowhead: Spineslicer puede salir de Reinforced Junkbox; estas cajas se obtienen robando a humanoides de Rasganorte y requieren Ganzúa 350 para abrirse."
+)
 
 
 --========================================================
