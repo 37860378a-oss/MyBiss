@@ -126,6 +126,67 @@ end
 -- PROCEDENCIA
 --========================================================
 
+local function GetSourceType(source)
+    local note = string.lower(source.note or "")
+    local hasRaid = string.find(note, "raid", 1, true) ~= nil
+    local hasDungeon = string.find(note, "dungeon", 1, true) ~= nil
+
+    if hasRaid and hasDungeon then
+        return "mixed"
+    elseif hasRaid then
+        return "raid"
+    elseif hasDungeon then
+        return "dungeon"
+    end
+
+    if source.boss == "Vendedor"
+        or string.find(note, "vendedor", 1, true)
+        or string.find(note, "misión", 1, true)
+        or string.find(note, "recompensa de misión", 1, true)
+        or string.find(note, "herrería", 1, true)
+        or string.find(note, "fabricad", 1, true)
+        or string.find(note, "crafted", 1, true)
+        or string.find(note, "profession", 1, true)
+        or string.find(note, "world", 1, true)
+        or string.find(note, "mundo", 1, true) then
+        return "not_applicable"
+    end
+
+    return "unknown"
+end
+
+local function GetSourceDifficulty(source)
+    if source.difficulty and source.difficulty ~= "" then
+        return source.difficulty
+    end
+
+    local sourceType = GetSourceType(source)
+    if sourceType == "not_applicable" then
+        return "No aplica"
+    elseif sourceType == "mixed" then
+        return "Depende del origen"
+    end
+
+    return "Sin verificar"
+end
+
+local function GetSourceMode(source)
+    if source.raidSize and source.raidSize ~= "" then
+        return source.raidSize
+    end
+
+    local sourceType = GetSourceType(source)
+    if sourceType == "not_applicable" then
+        return "No aplica"
+    elseif sourceType == "dungeon" then
+        return "5 jugadores"
+    elseif sourceType == "mixed" then
+        return "Ver nota de procedencia"
+    end
+
+    return "Sin verificar"
+end
+
 local function FormatSource(item)
     local source = GetItemSource(item)
 
@@ -134,38 +195,26 @@ local function FormatSource(item)
     end
 
     if type(source) == "string" then
-        return source
+        return source ..
+            "\n|cffffcc66Dificultad:|r No aplica" ..
+            "\n|cffffcc66Modalidad:|r No aplica"
     end
 
     local result = ""
 
-    if source.instance then
-        result = result ..
-            "|cffffcc66Instancia:|r " ..
-            source.instance .. "\n"
+    if source.instance and source.instance ~= "" then
+        result = result .. "|cffffcc66Instancia:|r " .. source.instance .. "\n"
     end
 
-    if source.boss then
-        result = result ..
-            "|cffffcc66Jefe:|r " ..
-            source.boss .. "\n"
+    if source.boss and source.boss ~= "" then
+        result = result .. "|cffffcc66Jefe / Origen:|r " .. source.boss .. "\n"
     end
 
-    if source.difficulty then
-        result = result ..
-            "|cffffcc66Dificultad:|r " ..
-            source.difficulty .. "\n"
-    end
+    result = result .. "|cffffcc66Dificultad:|r " .. GetSourceDifficulty(source) .. "\n"
+    result = result .. "|cffffcc66Modalidad:|r " .. GetSourceMode(source) .. "\n"
 
-    if source.raidSize then
-        result = result ..
-            "|cffffcc66Modalidad:|r " ..
-            source.raidSize .. "\n"
-    end
-
-    if source.note then
-        result = result ..
-            "|cffaaaaaa" .. source.note .. "|r\n"
+    if source.note and source.note ~= "" then
+        result = result .. "|cffaaaaaa" .. source.note .. "|r\n"
     end
 
     if result == "" then
@@ -187,6 +236,8 @@ local function AddSourceToTooltip(item)
 
     if type(source) == "string" then
         GameTooltip:AddLine(source, 0.8, 0.8, 0.8, true)
+        GameTooltip:AddLine("Dificultad: No aplica", 0.8, 0.8, 0.8, true)
+        GameTooltip:AddLine("Modalidad: No aplica", 0.8, 0.8, 0.8, true)
         return
     end
 
@@ -195,16 +246,11 @@ local function AddSourceToTooltip(item)
     end
 
     if source.boss then
-        GameTooltip:AddLine("Jefe: " .. source.boss, 0.8, 0.8, 0.8, true)
+        GameTooltip:AddLine("Jefe / Origen: " .. source.boss, 0.8, 0.8, 0.8, true)
     end
 
-    if source.difficulty then
-        GameTooltip:AddLine("Dificultad: " .. source.difficulty, 0.8, 0.8, 0.8, true)
-    end
-
-    if source.raidSize then
-        GameTooltip:AddLine("Modalidad: " .. source.raidSize, 0.8, 0.8, 0.8, true)
-    end
+    GameTooltip:AddLine("Dificultad: " .. GetSourceDifficulty(source), 0.8, 0.8, 0.8, true)
+    GameTooltip:AddLine("Modalidad: " .. GetSourceMode(source), 0.8, 0.8, 0.8, true)
 
     if source.note then
         GameTooltip:AddLine(source.note, 0.7, 0.7, 0.7, true)
@@ -436,7 +482,7 @@ function MyBiss:CreateUI()
     CreateText(frame, "ESPECIALIZACIONES", 205, -55)
     CreateText(frame, "PROGRESION", 435, -55)
     CreateText(frame, "EQUIPO RECOMENDADO", 205, -220)
-    CreateText(frame, "DETALLES DEL OBJETO", 610, -220)
+    CreateText(frame, "OBJETO Y PROCEDENCIA", 610, -220)
 
     frame.ClassButtons = {}
     frame.SpecButtons = {}
@@ -558,12 +604,12 @@ function MyBiss:CreateUI()
 
     -- PANEL DE GEMAS Y ENCANTAMIENTOS
 
-    frame.BuildTitle = CreateText(frame, "CONFIGURACION DEL EQUIPO", 610, -405, 215)
-    frame.BuildInfo = CreateText(frame, "", 610, -425, 215)
+    frame.BuildTitle = CreateText(frame, "CONFIGURACION DEL EQUIPO", 610, -455, 215)
+    frame.BuildInfo = CreateText(frame, "", 610, -475, 215)
 
     -- ALTERNATIVAS
 
-    frame.AlternativeTitle = CreateText(frame, "ALTERNATIVAS", 610, -550, 215)
+    frame.AlternativeTitle = CreateText(frame, "ALTERNATIVAS", 610, -585, 215)
 
     for i = 1, 6 do
         local button = CreateAlternativeButton(frame, i)
@@ -576,7 +622,7 @@ function MyBiss:CreateUI()
             frame,
             "TOPLEFT",
             610 + (column * 43),
-            -572 - (row * 43)
+            -607 - (row * 43)
         )
 
         frame.AlternativeButtons[i] = button
@@ -584,13 +630,13 @@ function MyBiss:CreateUI()
 
     -- ESTADO Y PIE
 
-    frame.Status = CreateText(frame, "", 205, -660, 600)
+    frame.Status = CreateText(frame, "", 205, -680, 600)
 
     frame.Footer = CreateText(
         frame,
         "/mbiss para abrir o cerrar | WotLK 3.3.5a",
         22,
-        -690,
+        -705,
         780
     )
 
@@ -748,11 +794,10 @@ function MyBiss:Refresh()
 
     local info = ""
 
-    info = info .. "|cffffcc66CLASE:|r " .. class.name .. "\n"
-    info = info .. "|cffffcc66RAMA:|r " .. spec.key .. "\n"
-    info = info .. "|cffffcc66ROL:|r " .. (spec.role or "No definido") .. "\n"
-    info = info .. "|cffffcc66FASE:|r " .. (self.SelectedPhase or "") .. "\n"
-    info = info .. "|cffffcc66RANURA:|r " .. selectedSlot .. "\n\n"
+    info = info .. "|cffffcc66" .. class.name .. " - " .. spec.key .. "|r"
+    info = info .. " (" .. (spec.role or "Rol no definido") .. ")\n"
+    info = info .. "|cffffcc66FASE:|r " .. (self.SelectedPhase or "")
+    info = info .. "  |cffffcc66RANURA:|r " .. selectedSlot .. "\n\n"
 
     info = info .. "|cffffcc66" .. displayedTitle .. ":|r\n"
 
@@ -760,13 +805,12 @@ function MyBiss:Refresh()
         info = info .. GetItemName(displayedItem) .. "\n"
 
         if displayedItem.itemID then
-            info = info .. "ID: " .. tostring(displayedItem.itemID) .. "\n"
+            info = info .. "ID: " .. tostring(displayedItem.itemID)
         end
 
         local itemLevel = GetItemLevel(displayedItem)
-
         if itemLevel then
-            info = info .. "Nivel: " .. tostring(itemLevel) .. "\n"
+            info = info .. "  |cffffcc66Nivel:|r " .. tostring(itemLevel)
         end
 
         info = info .. "\n|cffffcc66PROCEDENCIA:|r\n"
@@ -777,6 +821,10 @@ function MyBiss:Refresh()
         info = info .. "|cff888888Sin objeto asignado|r"
     end
 
+    frame.Info:SetFontObject(GameFontNormalSmall)
+    frame.Info:SetSpacing(1)
+    frame.BuildInfo:SetFontObject(GameFontNormalSmall)
+    frame.BuildInfo:SetSpacing(1)
     frame.Info:SetText(info)
 
     --====================================================
