@@ -62,6 +62,23 @@ end
 -- Formato de vendedor:
 -- MB_AddVendorSource(12345, "Vendedor de emblemas", "Emblemas de valor")
 
+
+--========================================================
+-- T7 - FUENTES COMPROBADAS EN WOWHEAD WOTLK
+--========================================================
+
+-- Obsidian Greathelm (ID 44006)
+-- Wowhead WotLK: Sartharion, The Obsidian Sanctum.
+-- Objeto de nivel 226: botín de banda de 25 jugadores.
+MB_AddItemSource(
+    44006,
+    "El Sagrario Obsidiana",
+    "Sartharion",
+    "Normal",
+    "25 jugadores",
+    "Verificado en Wowhead WotLK: objeto nivel 226."
+)
+
 --========================================================
 -- FIN DE ITEM SOURCES
 --========================================================
