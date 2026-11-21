@@ -79,6 +79,13 @@ MB_AddItemSource(
     "Verificado en Wowhead WotLK: objeto nivel 226."
 )
 
+
+-- ID 41387 - Tempered Titansteel Helm
+-- Wowhead WotLK: objeto fabricado por Herrería.
+-- No es botín de jefe ni de banda.
+MyBissData.ItemSources[41387] =
+    "Fabricado: Herrería (Yelmo de acero de titanes templado)"
+
 --========================================================
 -- FIN DE ITEM SOURCES
 --========================================================
