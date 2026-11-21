@@ -107,6 +107,8 @@ def main() -> None:
             f"  MyBissData.ItemSources[{item_id}] = {{",
             f"    instance = {lua_long_string(instance)},",
             f"    boss = {lua_long_string(boss)},",
+            f"    origin = {lua_long_string(boss)},",
+            f"    sourceType = {lua_long_string(type_summary)},",
             '    difficulty = "", -- No especificada en el cache.',
             '    raidSize = "", -- No especificado en el cache.',
             f"    note = {lua_long_string(note)},",
