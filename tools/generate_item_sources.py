@@ -85,7 +85,7 @@ def main() -> None:
             source_details.append(f"{label} ({typ}{suffix})")
 
         instance = " / ".join(dict.fromkeys(labels)) or "Fuente registrada en Wowhead"
-        boss = " / ".join(dict.fromkeys(bosses)) or "Ver nota de procedencia"
+        boss = " / ".join(dict.fromkeys(bosses)) or "Jefe no identificado"
         type_summary = ", ".join(dict.fromkeys(types)) or "No indicado"
         phase_summary = ", ".join(str(p) for p in dict.fromkeys(phases) if p not in (None, ""))
         note = "Fuente: base Wrath Classic derivada de Wowhead. Tipos: " + type_summary + "."
