@@ -41,6 +41,11 @@ def main() -> None:
         tiers[tier] = ids
 
     all_ids = set().union(*tiers.values())
+    manual_text = (ROOT / "MyBiss" / "ItemSources.lua").read_text(encoding="utf-8")
+    manual_ids = {
+        int(value)
+        for value in re.findall(r"MB_Add(?:Item|Vendor)Source\\(\\s*(\\d+)", manual_text)
+    }
     request = urllib.request.Request(CACHE_URL, headers={"User-Agent": "MyBiss-ItemSources-Generator/1.0"})
     with urllib.request.urlopen(request, timeout=180) as response:
         cache = json.loads(response.read().decode("utf-8"))
@@ -48,6 +53,8 @@ def main() -> None:
     by_id = {int(item["itemId"]): item for item in cache if item.get("itemId") is not None}
     found = sorted(all_ids & by_id.keys())
     missing = sorted(all_ids - by_id.keys())
+    manually_documented = sorted(set(missing) & manual_ids)
+    unresolved = sorted(set(missing) - manual_ids)
 
     out = [
         "--========================================================",
@@ -116,21 +123,29 @@ def main() -> None:
         "",
         "Fuente: caché Wrath Classic derivada de Wowhead.",
         "",
-        "| Tier | IDs únicos | Encontrados | Pendientes |",
-        "|---|---:|---:|---:|",
+        "| Tier | IDs únicos | En caché | Fuente manual | Sin localizar |",
+        "|---|---:|---:|---:|---:|",
     ]
     for tier, ids in tiers.items():
-        count = len(ids & by_id.keys())
-        report.append(f"| {tier} | {len(ids)} | {count} | {len(ids) - count} |")
+        cache_count = len(ids & by_id.keys())
+        manual_count = len((ids - by_id.keys()) & manual_ids)
+        pending_count = len(ids - by_id.keys() - manual_ids)
+        report.append(f"| {tier} | {len(ids)} | {cache_count} | {manual_count} | {pending_count} |")
     report += [
         "",
         f"- IDs únicos entre T7/T8/T9: **{len(all_ids)}**",
         f"- IDs encontrados en la caché: **{len(found)}**",
-        f"- IDs no encontrados: **{len(missing)}**",
+        f"- IDs ausentes de la caché: **{len(missing)}**",
+        f"- IDs ausentes de caché con fuente manual documentada: **{len(manually_documented)}**",
+        f"- IDs realmente pendientes de localizar: **{len(unresolved)}**",
         "",
         "## IDs pendientes de localizar",
         "",
-        ", ".join(map(str, missing)) if missing else "Ninguno.",
+        ", ".join(map(str, unresolved)) if unresolved else "Ninguno.",
+        "",
+        "## IDs documentados manualmente fuera de la caché",
+        "",
+        ", ".join(map(str, manually_documented)) if manually_documented else "Ninguno.",
         "",
         "## Límites de la fuente",
         "",
