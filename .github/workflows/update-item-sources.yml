@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'MyBiss/Database.lua'
+      - 'MyBiss/ItemSources.lua'
       - 'tools/generate_item_sources.py'
       - '.github/workflows/update-item-sources.yml'
   workflow_dispatch:
