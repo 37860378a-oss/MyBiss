@@ -327,7 +327,6 @@ MB_AddItemSource(
 
 -- Leviatán de llamas - Modo difícil 10 jugadores
 MB_AddItemSource(45297, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
-MB_AddItemSource(45293, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
 MB_AddItemSource(45300, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
 MB_AddItemSource(45295, "Ulduar", "Leviatán de llamas", "Modo difícil", "10 jugadores", "Wowhead Ulduar Loot: Flame Leviathan Hard Mode 10.")
 
